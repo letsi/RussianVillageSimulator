@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-11 02:35\n"
-"PO-Revision-Date: 2023-09-11 02:35\n"
+"POT-Creation-Date: 2023-09-11 08:49\n"
+"PO-Revision-Date: 2023-09-11 08:49\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -4666,6 +4666,13 @@ msgstr ""
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Drawgraffiti"
 msgid "Draw graffiti"
+msgstr ""
+
+#. Key:	ErrorChopping
+#. SourceLocation:	/Game/Objects/Texts/Notice.Notice
+#: /Game/Objects/Texts/Notice.Notice
+msgctxt "Notice,ErrorChopping"
+msgid "This tree is designed for birdhouse installation..."
 msgstr ""
 
 #. Key:	ErrorFatigue
