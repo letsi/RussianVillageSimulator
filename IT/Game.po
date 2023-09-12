@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-11 08:46\n"
-"PO-Revision-Date: 2023-09-11 15:46+0700\n"
+"POT-Creation-Date: 2023-09-12 14:35\n"
+"PO-Revision-Date: 2023-09-12 21:37+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
@@ -1986,6 +1986,13 @@ msgctxt "BaseNPC,Gopnik"
 msgid "Gopnik"
 msgstr "Gopnik"
 
+#. Key:	GrandpaMaximsbrother
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,GrandpaMaximsbrother"
+msgid "Grandpa Maxim's brother"
+msgstr "Fratello di nonno Maxim"
+
 #. Key:	Hipster
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -3245,7 +3252,7 @@ msgstr "Magazzino"
 #: /Game/Objects/Texts/Bedding.Bedding
 msgctxt "Bedding,WareHouse0"
 msgid "We make: "
-msgstr "Svegliati:"
+msgstr "Svegliati: "
 
 #. Key:	WareHouse1
 #. SourceLocation:	/Game/Objects/Texts/Bedding.Bedding
@@ -3529,7 +3536,7 @@ msgstr "Stazione ferroviaria abbandonata"
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,9"
 msgid "Suigon"
-msgstr "gong dell'acqua"
+msgstr "Gong dell'acqua"
 
 #. Key:	Collapse
 #. SourceLocation:	/Game/Objects/Texts/Interaction.Interaction
@@ -3967,7 +3974,7 @@ msgstr "Costo: "
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Crystal"
 msgid "Crystal"
-msgstr "Cristallo:"
+msgstr "Cristallo"
 
 #. Key:	CrystalText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4147,7 +4154,7 @@ msgstr "La pelliccia di volpe appartiene alle pellicce a pelo lungo. Ha un pelo 
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,GetSomeWater"
 msgid "Get some water"
-msgstr "Salire a cavallo"
+msgstr "Prendi un po' d'acqua"
 
 #. Key:	Humus
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4526,7 +4533,7 @@ msgstr "Boletus ha poi aggiunto gli inventario!"
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,NoItem"
 msgid "I don't have any more "
-msgstr "Non ne ho più"
+msgstr "Non ne ho più "
 
 #. Key:	NoLog
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4592,7 +4599,7 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Quantity"
 msgid "Quantity: "
-msgstr "Quantita':"
+msgstr "Quantita': "
 
 #. Key:	Quests
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4866,7 +4873,7 @@ msgstr "Rifiuti - rifiuti solidi di origine vegetale, animale e minerale, accumu
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Use"
 msgid "Use"
-msgstr "Utilizzare la funzione Imposta gioco in pausa"
+msgstr "Utilizzo"
 
 #. Key:	Weapons
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -5334,7 +5341,7 @@ msgstr ""
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Shchi"
 msgid "Shchi"
-msgstr "Merda"
+msgstr "Shchi"
 
 #. Key:	ShchiText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -5534,7 +5541,7 @@ msgstr ""
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,18Name"
 msgid "Workbench"
-msgstr "banco di lavoro"
+msgstr "Banco di lavoro"
 
 #. Key:	18Text
 #. SourceLocation:	/Game/Objects/Texts/Learning.Learning
@@ -5872,7 +5879,7 @@ msgstr ""
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,AddYes"
 msgid "added to the learning log!"
-msgstr "Aggiunto al registro di apprendimento!"
+msgstr "aggiunto al registro di apprendimento!"
 
 #. Key:	1
 #. SourceLocation:	/Game/Objects/Texts/LearningNPC.LearningNPC
@@ -5906,7 +5913,7 @@ msgstr "Ed ecco il tuo stabilimento balneare, puoi fare vapore lì e rilassarti.
 #: /Game/Objects/Texts/LearningNPC.LearningNPC
 msgctxt "LearningNPC,1_1"
 msgid "Once, when I was a little boy, my grandfather taught me how to release a rooster at dawn. He said that this simple and traditional ceremony symbolized the beginning of a new day and a new life. "
-msgstr "Una volta, quando ero ragazzino, mio nonno mi insegnò a liberare un gallo all'alba. Ha detto che questa cerimonia semplice e tradizionale simboleggia l'inizio di un nuovo giorno e di una nuova vita."
+msgstr "Una volta, quando ero ragazzino, mio nonno mi insegnò a liberare un gallo all'alba. Ha detto che questa cerimonia semplice e tradizionale simboleggia l'inizio di un nuovo giorno e di una nuova vita. "
 
 #. Key:	1_2
 #. SourceLocation:	/Game/Objects/Texts/LearningNPC.LearningNPC
@@ -6681,7 +6688,7 @@ msgstr ""
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Zoom"
 msgid " - Zoom"
-msgstr "-Ingrandisci "
+msgstr "-Ingrandisci  "
 
 #. Key:	Accept
 #. SourceLocation:	/Game/Objects/Texts/Quests.Quests
@@ -6895,7 +6902,7 @@ msgstr "Per prendere l'acqua per la nonna"
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,14Text"
 msgid "Honey, please bring me some water from the well or the well. I would really like to drink fresh water to quench my thirst. It will also help me to feel the pleasant sensation of coolness on a hot summer day. "
-msgstr "Tesoro, per favore portami un po' d'acqua dal pozzo o dal pozzo. Vorrei davvero bere acqua fresca per dissetarmi. Mi aiuterà anche a provare la piacevole sensazione di fresco in una calda giornata estiva."
+msgstr "Tesoro, per favore portami un po' d'acqua dal pozzo o dal pozzo. Vorrei davvero bere acqua fresca per dissetarmi. Mi aiuterà anche a provare la piacevole sensazione di fresco in una calda giornata estiva"
 
 #. Key:	15Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -8107,7 +8114,7 @@ msgstr ""
 #: /Game/Objects/Texts/Shop.Shop
 msgctxt "Shop,NoItem"
 msgid "I don't have any more "
-msgstr "Non ne ho più"
+msgstr "Non ne ho più "
 
 #. Key:	NoItems
 #. SourceLocation:	/Game/Objects/Texts/Shop.Shop
