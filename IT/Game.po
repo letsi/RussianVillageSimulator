@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-12 14:35\n"
-"PO-Revision-Date: 2023-09-12 21:37+0700\n"
+"POT-Creation-Date: 2023-09-10 15:14\n"
+"PO-Revision-Date: 2023-09-12 09:02+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: it\n"
@@ -1986,13 +1986,6 @@ msgctxt "BaseNPC,Gopnik"
 msgid "Gopnik"
 msgstr "Gopnik"
 
-#. Key:	GrandpaMaximsbrother
-#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
-#: /Game/Objects/Texts/BaseNPC.BaseNPC
-msgctxt "BaseNPC,GrandpaMaximsbrother"
-msgid "Grandpa Maxim's brother"
-msgstr "Fratello di nonno Maxim"
-
 #. Key:	Hipster
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -3564,7 +3557,7 @@ msgstr "Torcia elettrica"
 #: /Game/Objects/Texts/Interaction.Interaction
 msgctxt "Ibteraction,Sleep"
 msgid "Sleep"
-msgstr "Dormire"
+msgstr "Pecora"
 
 #. Key:	All
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -6242,13 +6235,6 @@ msgctxt "Notice,Drawgraffiti"
 msgid "Draw graffiti"
 msgstr "Disegnare graffiti"
 
-#. Key:	ErrorChopping
-#. SourceLocation:	/Game/Objects/Texts/Notice.Notice
-#: /Game/Objects/Texts/Notice.Notice
-msgctxt "Notice,ErrorChopping"
-msgid "This tree is designed for birdhouse installation..."
-msgstr "Questo albero è progettato per l'installazione di casette per uccelli..."
-
 #. Key:	ErrorFatigue
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
 #: /Game/Objects/Texts/Notice.Notice
@@ -6541,7 +6527,7 @@ msgstr "Acquista i prodotti"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,SleepBed"
 msgid "Go to sleep"
-msgstr "Andare a dormire"
+msgstr "Andare a"
 
 #. Key:	Stamina
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -8678,7 +8664,7 @@ msgstr ""
 #: /Game/Objects/Texts/ShopAnimals.ShopAnimals
 msgctxt "ShopAnimals,Sheeps"
 msgid "Sheep"
-msgstr "Dormire"
+msgstr "Pecora"
 
 #. Key:	SheepsError
 #. SourceLocation:	/Game/Objects/Texts/ShopAnimals.ShopAnimals
