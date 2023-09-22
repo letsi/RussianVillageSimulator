@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-11 08:50\n"
-"PO-Revision-Date: 2023-09-11 08:50\n"
+"POT-Creation-Date: 2023-09-22 09:03\n"
+"PO-Revision-Date: 2023-09-22 09:03\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -923,6 +923,13 @@ msgctxt ",951703534259D3678D514FBF0CA0AF57"
 msgid "UP"
 msgstr ""
 
+#. Key:	9A997E8A4F08CFC95244D9BE29D54E8F
+#. SourceLocation:	/Game/Objects/Character/UI/RadialMenu/RadialMenuType.RadialMenuType.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/Objects/Character/UI/RadialMenu/RadialMenuType.RadialMenuType.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",9A997E8A4F08CFC95244D9BE29D54E8F"
+msgid "FishingPole"
+msgstr ""
+
 #. Key:	9BC6F8424DBD303C3B8B16BE7426C28C
 #. SourceLocation:	/Game/AdvancedPhotoMode/Blueprints/UI_PhotoMode.UI_PhotoMode_C:ExecuteUbergraph_UI_PhotoMode [Script Bytecode]
 #: /Game/AdvancedPhotoMode/Blueprints/UI_PhotoMode.UI_PhotoMode_C:ExecuteUbergraph_UI_PhotoMode [Script Bytecode]
@@ -1637,6 +1644,27 @@ msgctxt "Animals,Fine"
 msgid "Fine received:"
 msgstr ""
 
+#. Key:	Goose
+#. SourceLocation:	/Game/Objects/Texts/Animals.Animals
+#: /Game/Objects/Texts/Animals.Animals
+msgctxt "Animals,Goose"
+msgid "Goose"
+msgstr ""
+
+#. Key:	GooseError
+#. SourceLocation:	/Game/Objects/Texts/Animals.Animals
+#: /Game/Objects/Texts/Animals.Animals
+msgctxt "Animals,GooseError"
+msgid "I don't have any goose..."
+msgstr ""
+
+#. Key:	GooseText
+#. SourceLocation:	/Game/Objects/Texts/Animals.Animals
+#: /Game/Objects/Texts/Animals.Animals
+msgctxt "Animals,GooseText"
+msgid "The goose is a bird in the duck family. They have a large build with straight legs and a long neck. Geese are distinguished by their distinctive coloration - most species have gray-white or gray-brown fur with spots on the head and neck.\r\n\r\nGeese are social animals and usually live in large flocks. They have excellent hearing and eyesight, which allows them to be alerted to danger. Geese are quite brazen and can defend their territory or themselves with their loud and husky voice.\r\n\r\nOne of the characteristic features of geese is migration. Many species of geese fly long distances each year, their routes being migration routes. Geese are also known for their ability to fly long distances and reach great heights in flight.\r\n\r\nGeese are often kept at home for meat or feathers and as ornamental birds. They are known for their tender and juicy meat, as well as their large and strong feathers, which are used in the manufacture of pillows or featherbeds.\r\n\r\nOverall, the goose is an interesting and useful animal that attracts attention for its appearance, characteristics and migratory behavior."
+msgstr ""
+
 #. Key:	Mutton
 #. SourceLocation:	/Game/Objects/Texts/Animals.Animals
 #: /Game/Objects/Texts/Animals.Animals
@@ -1686,6 +1714,20 @@ msgctxt "BaseNPC,Alexey"
 msgid "Alexey"
 msgstr ""
 
+#. Key:	AlisaAndreevna
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,AlisaAndreevna"
+msgid "Alisa Andreevna"
+msgstr ""
+
+#. Key:	AndreyVasilikov
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,AndreyVasilikov"
+msgid "Andrey Vasilikov"
+msgstr ""
+
 #. Key:	Angela
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -1698,6 +1740,13 @@ msgstr ""
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,Angela_Olegovna"
 msgid "Angela Olegovna"
+msgstr ""
+
+#. Key:	AnhelikaPivo
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,AnhelikaPivo"
+msgid "Anhelika Pivo"
 msgstr ""
 
 #. Key:	Anna
@@ -1742,6 +1791,13 @@ msgctxt "BaseNPC,David"
 msgid "David"
 msgstr ""
 
+#. Key:	DemidovVasilii
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,DemidovVasilii"
+msgid "Demidov Vasilii"
+msgstr ""
+
 #. Key:	Dmitry
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -1770,11 +1826,32 @@ msgctxt "BaseNPC,FatherInnocent"
 msgid "Father Innocent"
 msgstr ""
 
+#. Key:	Fedor
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,Fedor"
+msgid "Fedor"
+msgstr ""
+
+#. Key:	Fisherman
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,Fisherman"
+msgid "Fisherman"
+msgstr ""
+
 #. Key:	ForestProtectorEugenia
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,ForestProtectorEugenia"
 msgid "Forest Protector Eugenia"
+msgstr ""
+
+#. Key:	GadalkaVasilisa
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,GadalkaVasilisa"
+msgid "Fortune-teller Vasilisa"
 msgstr ""
 
 #. Key:	Galina_Ivanovna
@@ -1796,6 +1873,13 @@ msgstr ""
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,Gopnik"
 msgid "Gopnik"
+msgstr ""
+
+#. Key:	GrandpaMaximsbrother
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,GrandpaMaximsbrother"
+msgid "Grandpa Maxim's brother"
 msgstr ""
 
 #. Key:	Hipster
@@ -1824,6 +1908,13 @@ msgstr ""
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,Julia"
 msgid "Julia"
+msgstr ""
+
+#. Key:	Katya
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,Katya"
+msgid "Katya"
 msgstr ""
 
 #. Key:	Kira
@@ -1859,6 +1950,13 @@ msgstr ""
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,LesnikDmitry"
 msgid "Forester Dmitry Michurin"
+msgstr ""
+
+#. Key:	LomovMaxim
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,LomovMaxim"
+msgid "Lomov Maxim"
 msgstr ""
 
 #. Key:	Marina
@@ -2043,6 +2141,13 @@ msgctxt "BaseNPC,Sveta"
 msgid "Sveta"
 msgstr ""
 
+#. Key:	SvetikDoctor
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,SvetikDoctor"
+msgid "Svetik Doctor"
+msgstr ""
+
 #. Key:	TeacherVitaly
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -2076,6 +2181,13 @@ msgstr ""
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,Vasya"
 msgid "Vasya"
+msgstr ""
+
+#. Key:	VictorNikylin
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,VictorNikylin"
+msgid "Viktor Nikulin"
 msgstr ""
 
 #. Key:	ViktorGromov
@@ -2201,7 +2313,7 @@ msgstr ""
 #. SourceLocation:	/Game/Objects/Texts/Bedding.Bedding
 #: /Game/Objects/Texts/Bedding.Bedding
 msgctxt "Bedding,BeetsText"
-msgid "The genus Beet (Béta vulgáris) is an annual, biennial or perennial herbaceous plant in the Amaranth family (Amaranthaceae), subfamily Chenopodioideae, previously considered as a separate family Chenopodiaceae. An important agricultural plant, it is cultivated everywhere in large areas as a vegetable crop for its root crops.\r\n\r\nIn the southwestern regions of Russia, Belarus and Ukraine, the plant Ukr. beetle is colloquially called \"borak\" or \"buryak."
+msgid "Beet is a perennial root vegetable of the amaranth family, also known as beet. It is one of the oldest crops, having been cultivated by humans for over two millennia.\r\n\r\nThe beet has a rounded or slightly oval shape with a bright red, purple or white appearance. Its size can range from small beets, about the size of a small apple, to large root vegetables weighing several pounds. Inside, the beet has a juicy flesh of uniform consistency, having a rich red or maroon color.\r\n\r\nBeets have numerous beneficial properties, which makes them a popular and widespread product. First, it is a voluminous and low-calorie product that contains a large number of vitamins and minerals. Beet roots are rich in vitamins C, A and B, iron, folic acid, potassium, magnesium and other elements. Beets also contain a lot of dietary fiber, which is good for digestion.\r\n\r\nBeets also have antioxidant properties, which helps protect the body from free radicals and helps prevent the development of certain diseases, including cancer and cardiovascular disease. In addition, beets help lower blood pressure and stimulate the liver and gallbladder.\r\n\r\nBeet is very versatile in its use as a food. It can be consumed fresh, added to salads, juices or cocktails, cooked boiled, fried or baked. Beets can also be used to make many dishes such as soups, purees, side dishes, appetizers and even sweets.\r\n\r\nHowever, it is important to remember that beets have a distinct flavor that may not be to everyone's taste. Some people find it jerky, earthy, or bitter. Therefore, before consuming beets, it is worth doing an individual tolerance test.\r\n\r\nIn conclusion, beet is a low-calorie, nutritious and healthy root vegetable with numerous health benefits. It can be used in a variety of dishes and is a great addition to the diet to maintain health and wellness."
 msgstr ""
 
 #. Key:	Cabbage
@@ -2757,6 +2869,111 @@ msgctxt "FastTravel,9"
 msgid "Suigon"
 msgstr ""
 
+#. Key:	FishRod
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,FishRod"
+msgid "Fish rod"
+msgstr ""
+
+#. Key:	FishRodError
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,FishRodError"
+msgid "I don't have a fishing rod..."
+msgstr ""
+
+#. Key:	FishRodText
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,FishRodText"
+msgid "A fishing rod is a tool that is used when fishing. It consists of several main components:\r\n\r\n1. Spinning/composite rod: the main part of a fishing rod, which is a flexible and lightweight retractable or non-retractable handle. It is usually made of carbon fiber or other composite materials that provide strength and flexibility.\r\n\r\n2. Reel: is a device attached to the fishing rod designed to hold and pull line or cord. Reels can be spinning reels (for predator fishing) or spool reels (for larger fish or long distance fishing).\r\n\r\n3. line/cord: this is a long, transparent or colored thread that connects to the reel and ends with a hook or trolling rod. The line can be made from a variety of materials including monofilament, fluorocarbon or braided line and is selected depending on the type of fishing and water conditions.\r\n\r\n4.Assembly tools: include rings, spool fasteners and scallop joints, which are used to assemble the fishing rod and ensure its strength and stability.\r\n\r\n5. Handle: usually made of a durable material such as cork or plastic and is designed to provide a comfortable and secure grip on the fishing rod.\r\n\r\nDepending on the type of fishing and the angler's preference, fishing rods can have different characteristics such as length, power and action. They can be specialized for certain types of fish or situations, such as fishing on a large river or in the sea.\r\n\r\nA fishing rod is the primary tool for catching fish and is available in many varieties and price ranges. The choice of rod depends on the angler's experience, preferences and budget."
+msgstr ""
+
+#. Key:	FishYes
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,FishYes"
+msgid "Pull the rod!"
+msgstr ""
+
+#. Key:	Macrel
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,Macrel"
+msgid "Mackerel"
+msgstr ""
+
+#. Key:	MacrelText
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,MacrelText"
+msgid "The mackerel (Latin: Scomber scombrus) is a fish of the scombrus family distributed in the oceans of the world, especially in the North Atlantic Ocean and the Mediterranean Sea. It is a strong and fast fish that is a popular target for both sport fishing and commercial fisheries.\r\n\r\nThe mackerel has an elongated body covered with small scales. It is distinguished by its bright metallic coloration, blue-green on the back and silver on the sides. It also has a distinctive band of black spots called the \"shadow band\" that extends the entire length of its body.\r\n\r\nThe mackerel is a migratory fish and often forms large flocks. It feeds on other small fish, crustaceans and squid. Mackerel usually inhabit open ocean waters, but may come closer to the coast during their migrations.\r\n\r\nThis fish has a high consumer value and is widely used in cooking. Mackerel meat is rich in omega-3 fatty acids, which are good for heart and brain health. Mackerel can be fried, baked, smoked or used for sushi and sashimi.\r\n\r\nMackerel also plays an important ecological role in marine ecosystems. It is food for many predatory fish, birds and marine mammals, and is involved in the transfer of energy and nutrients through food chains.\r\n\r\nOverall, mackerel is a fast, beautiful and tasty fish that plays an important role in fisheries, cooking and ocean ecosystems."
+msgstr ""
+
+#. Key:	Perch
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,Perch"
+msgid "Perch"
+msgstr ""
+
+#. Key:	PerchText
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,PerchText"
+msgid "The perch (Latin: Perca fluviatilis) is a fish of the perch family that inhabits freshwater bodies in Europe and Northern Asia. It has a long body covered with shields and is distinguished from other fish by its brightly colored transverse stripes on the back, sides and tail. The perch can reach an adult size of 15 to 60 centimeters, depending on habitat conditions.\r\n\r\nThe perch actively preys on other fish, crustaceans and small aquatic fauna, so it is a predatory fish. It usually lives in groups, preferring fresh waters such as rivers, lakes and ponds.\r\n\r\nThis fish has an important commercial importance in fisheries and is a popular target for recreational anglers. The flavor of bass meat is considered excellent and it is often grilled, boiled or fried. In addition, perch are also a target of interest for aquarists and are often kept in aquariums and ponds.\r\n\r\nIn nature, perch have an important ecological role, helping to control populations of other fish species and maintaining biological balance in aquatic ecosystems.\r\n\r\nOverall, perch are a common freshwater fish with good consumer value, interesting appearance, and an important ecological role."
+msgstr ""
+
+#. Key:	Pike
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,Pike"
+msgid "Pike"
+msgstr ""
+
+#. Key:	PikeText
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,PikeText"
+msgid "The pike (Latin: Esox lucius) is a freshwater fish belonging to the pike family. It is one of the largest and most common predators in freshwater bodies of Europe, North America and North Asia.\r\n\r\nThe pike has a long body with a flattened shape and a massive head. Its coloration varies from greenish-gray to dark green or brownish, with bright oblique spots on the back and sides. The pike has a powerful jaw equipped with sharp teeth, which allows it to successfully hunt other fish and small aquatic life.\r\n\r\nThe pike is a characteristic inhabitant of standing or slow-flowing water bodies such as lakes, ponds, rivers and marshes. It prefers areas with dense underwater vegetation where it can stalk its prey and use it as a reason. The pike can reach impressive sizes, with adults reaching lengths of up to 150 cm and weighing over 25 kg.\r\n\r\nThe pike is known for its aggressiveness and strength during angling, which is why it is a popular fish to fish for. Its meat is considered tasty and nutritious, and it is widely used in cooking. Pike can be fried, baked, boiled or smoked.\r\n\r\nThis fish plays an important ecological role in aquatic ecosystems. Pike control populations of other fish and help maintain biological balance. It also serves as food for other predators, including fish-eaters and birds.\r\n\r\nOverall, the pike is a large, powerful and popular fish that is an important predator of freshwater ecosystems and is favored for both fishing and food purposes."
+msgstr ""
+
+#. Key:	Sazan
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,Sazan"
+msgid "Sazan"
+msgstr ""
+
+#. Key:	SazanText
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,SazanText"
+msgid "Carp (Latin: Cyprinus carpio) is a freshwater fish belonging to the carp family. It is known for its large size, strong body and specific appearance.\r\n\r\nThe carp has a massive body with a high body and rounded back. Its coloration can range from dark olive to golden, with a silvery tint on the sides. The carp also has pomaceous scales that cover its body, making it look like a mirror. The head of the carp is proportionately large, with small mouth openings.\r\n\r\nThe carp is a gathering fish - it actively feeds on a variety of aquatic organisms including algae, plants, small crustaceans, invertebrates and even insects. It usually lives in slow-flowing or standing bodies of water such as rivers, ponds, lakes and canals.\r\n\r\nThe carp is widely distributed in many parts of the world and is a popular fish for fishing. In fishing communities, it is known for its fight and strength when fished on a fishing rod. Given its size, carp can reach weights of up to 30 kg and lengths of up to 120 cm. It is also known for its jumping and strong jerks when trying to free itself.\r\n\r\nThe meat of carp is considered tasty and nutritious, and it is widely used in cooking. It can be fried, baked, boiled or smoked. However, some regions regulate the catch of carp to prevent its rapid increase in numbers and to maintain ecological balance.\r\n\r\nCarp also plays an important ecological role in aquatic ecosystems. It helps maintain water clarity, controls populations of aquatic organisms, and serves as a food source for other predators such as grouse and pike.\r\n\r\nIn general, carp is a large, strong and popular fish of fishing interest and widely used in cooking. It has a unique appearance and is an important element of freshwater ecosystems."
+msgstr ""
+
+#. Key:	Som
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,Som"
+msgid "Som"
+msgstr ""
+
+#. Key:	SomText
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,SomText"
+msgid "The catfish (Latin: Silurus glanis) is a large freshwater fish belonging to the catfish family. It is known for its long, cylindrical body covered with small scales and its huge head with a wide mouth equipped with strong teeth.\r\n\r\nThere are different species of catfish, but common appearance features include dark coloration, which can range from dark brown to black, and the presence of small black dots on the body. Catfish also have long antennae, called beards, which are located above the lip and aid in sensing the environment and searching for food.\r\n\r\nCatfish are predatory fish and feed on a variety of aquatic animals such as fish, frogs, aquatic insects, mollusks and even rodents that come their way. They are active at night and may hide in underwater hiding places during the day, such as hollow trees, tree roots or underwater rocks.\r\n\r\nCatfish live in freshwater bodies of water such as rivers, lakes and ponds and prefer waters with low currents or standing water with muddy or deep bottoms. They are hardy and can tolerate poor water conditions such as low oxygen levels.\r\n\r\nCatfish are known for their large size and impressive weights. They can reach lengths of up to 5 meters and weights of up to 300 kg, although most individuals encountered are much smaller. Catfish also have strong musculature, making them excellent fighters when fishing.\r\n\r\nIn some countries, catfish are popular for fishing on special airplane-shaped structures. They are also prized in fishing communities because of their meat, which is considered tender and flavorful. Catfish meat can be used for a variety of dishes including fried or baked fish.\r\n\r\nCatfish play an important ecological role. They help control populations of small fish and other aquatic organisms and act as a natural water filter, feeding on dead organisms and waste.\r\n\r\nOverall, catfish are large predatory fish with a unique appearance and an important place in the ecosystem of freshwater aquatic systems. While they can be a challenge for anglers because of their strength and size, they are also of interest to recreational and extreme anglers."
+msgstr ""
+
+#. Key:	Waiting
+#. SourceLocation:	/Game/Objects/Texts/Fish.Fish
+#: /Game/Objects/Texts/Fish.Fish
+msgctxt "Fish,Waiting"
+msgid "Waiting..."
+msgstr ""
+
 #. Key:	Collapse
 #. SourceLocation:	/Game/Objects/Texts/Interaction.Interaction
 #: /Game/Objects/Texts/Interaction.Interaction
@@ -3175,6 +3392,20 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,GetSomeWater"
 msgid "Get some water"
+msgstr ""
+
+#. Key:	Goosemeat
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Goosemeat"
+msgid "Goose meat"
+msgstr ""
+
+#. Key:	GoosemeatText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,GoosemeatText"
+msgid "Goose meat is meat obtained from a goose. It has a distinctive texture and flavor. Goose meat has a juicy and tender texture with a distinctive flavor.\r\n\r\nGoose meat is considered dietary and nutritious at the same time. It contains proteins, fats, vitamins and minerals necessary for good health. Goose meat is rich in iron, zinc, selenium and B vitamins, especially vitamin B12. These elements contribute to immunity, bone health and nervous system health.\r\n\r\nGoose meat is an important component of many traditional dishes. It is often used in the preparation of holiday banquets and family dinners. Goose meat can be baked, stewed, roasted or used in broths and sauces. It combines perfectly with various spices and seasonings, adding an exquisite flavor to dishes.\r\n\r\nGoose meat is also known for its fatty skin and roasted fat, which becomes crispy after cooking. Goose hams, roasted breast and baked legs are popular in Russian cuisine.\r\n\r\nGoose meat is a delicacy, which is distinguished by its flavor and nutrition, and is a popular ingredient in a variety of culinary recipes."
 msgstr ""
 
 #. Key:	Humus
@@ -5200,6 +5431,41 @@ msgctxt "Quests,Surrender"
 msgid "Surrender"
 msgstr ""
 
+#. Key:	Beerbarrel
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,Beerbarrel"
+msgid "Beer barrel"
+msgstr ""
+
+#. Key:	BeerbarrelText
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,BeerbarrelText"
+msgid "A beer keg is a container designed to store and transport beer. It is usually made of stainless steel or aluminum, which ensures durability and tightness.\r\n\r\nA beer keg has a cylindrical shape and can have different sizes and volumes, from a few liters to several hundred liters. It usually has two openings - one for filling the keg with beer and the other for drawing out the beer.\r\n\r\nTo ensure the quality of the beer, the beer keg is equipped with special valves and an airtight lid. The valves allow you to control the pressure inside the keg and draw the beer without access to air. The lid provides protection from external influences such as light or dirt, which ensures the stability and freshness of the beer.\r\n\r\nThe beer keg can be used both for storing beer in breweries or restaurants and for transporting and selling beer at various events - festivals, concerts, sporting events, etc.\r\n\r\nUsing a beer keg has its advantages. Firstly, it saves space - instead of storing many separate bottles or cans, beer can be stored in a single container. Secondly, a beer keg provides better beer quality due to the lack of air access.\r\n\r\nIn addition, using a beer keg can be more environmentally friendly because there is less waste - no need to throw away many empty bottles or cans.\r\n\r\nOverall, a beer keg is a convenient and efficient way to store and sell beer that preserves its freshness, quality and reduces environmental impact."
+msgstr ""
+
+#. Key:	Guitar
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,Guitar"
+msgid "Guitar"
+msgstr ""
+
+#. Key:	GuitarText
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,GuitarText"
+msgid "The guitar is a stringed musical instrument most popular among musicians of all genres and levels of playing. It has a characteristic shape consisting of a body and a fingerboard.\r\n\r\nThe body of the guitar is usually made of wood and has an oval or flat shape. It plays an important role in shaping the sound as it serves as a resonator for the vibrations of the strings. The body can be acoustic, electro-acoustic or electric, depending on the type of guitar.\r\n\r\nThe guitar's fingerboard is a long and thin wooden bar on which the metal fret and strings are located. The fingerboard usually has cross markings to help the musician find the right notes and chords.\r\n\r\nA guitar has 6 to 12 strings that are strung along the entire length of the fingerboard. The strings can be made of metal or nylon, depending on the type of guitar. Various techniques are used to play the guitar such as picking, barricades, bends, fingerpicking, chord strumming and others.\r\n\r\nThe guitar allows you to play many styles of music including classical, rock, pop, jazz, folk and many others. It can be used as a solo instrument or as an accompaniment for vocals and other instruments.\r\n\r\nThe guitar is not only a musical instrument, but also a symbol of freedom and self-expression. It allows the musician to express himself and his emotions through music. Thanks to its availability and popularity, the guitar has become an indispensable means of musical creativity and entertainment for people all over the world."
+msgstr ""
+
+#. Key:	Mishascow
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,Mishascow"
+msgid "Misha's cow"
+msgstr ""
+
 #. Key:	10Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
@@ -5473,6 +5739,83 @@ msgctxt "QuestsList,24Text"
 msgid "Greetings and salutations!\r\nRecently there was a party at a wedding and like a fool I went out with my tools and left them somewhere....\r\nCould you find them for me?"
 msgstr ""
 
+#. Key:	25Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,25Name"
+msgid "Election campaign. Stage 1"
+msgstr ""
+
+#. Key:	25Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,25Text"
+msgid "Hello, student!\r\nYou are new to us, and we need new staff in the village!\r\nI propose you to be a candidate for the post of village head. But in order to do that, we need to make the villagers happy.\r\n\r\n1. Offer to help with various tasks and projects that the villagers are doing. This could be helping on the farm, repairing houses, harvesting crops, organizing events, etc.\r\n2. Build a positive reputation: be polite, helpful, and positive in your interactions with residents. Offer solutions to their problems and try to help them in any way you can.\r\n\r\nThe challenge is to earn the trust and support of the residents, show your dedication and ability to effectively manage the village. Good luck with this task and with gaining new staff for the village!\r\n\r\nBut to start campaigning I need to:\r\n1. A loaf - 10 pieces.\r\n2. Pickled tomatoes - 7 cans.\r\n3. Pickled cucumbers - 10 jars.\r\n4. Sauerkraut - 5 jars.\r\n5. Samogon - 30 bottles.\r\n6. Podberezoviki - 50 pieces.\r\n7. Eggs - 100 pieces.\r\n8. Sunflower oil - 5 bottles.\r\n9. Watermelons - 10 pieces.\r\n10. Sausage - 10 pieces."
+msgstr ""
+
+#. Key:	26Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,26Name"
+msgid "Election campaign. Stage 2"
+msgstr ""
+
+#. Key:	26Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,26Text"
+msgid "Congratulations on completing the first phase of your campaign!\r\nBut there is still a lot of work ahead!\r\n\r\nIt takes serious money to apply for registration. No one in the village has that kind of money, only our current leader, who we are fed up with and want to see fresh faces at the head of the village.\r\n\r\nI hope you will be able to raise the right amount of money."
+msgstr ""
+
+#. Key:	27Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,27Name"
+msgid "Election campaign. Stage 3"
+msgstr ""
+
+#. Key:	27Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,27Text"
+msgid "I'm glad you were able to raise the necessary amount and we can move on to the next phase of your campaign!\r\n\r\nNikolai was afraid of your candidacy and hid the musical instruments of the musicians who wanted to give a concert in your honor and agitated the villagers.\r\n\r\nPlease help us find them."
+msgstr ""
+
+#. Key:	28Completed
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,28Completed"
+msgid "Daddy's gonna feed everybody!"
+msgstr ""
+
+#. Key:	28Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,28Name"
+msgid "Election campaign. Stage 4"
+msgstr ""
+
+#. Key:	28Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,28Text"
+msgid "Let's keep our fingers crossed, shall we?\r\nLet's give people a drink and a snack before the vote.\r\nAccording to the poll, you're in the lead for village chairman."
+msgstr ""
+
+#. Key:	29Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,29Name"
+msgid "Elections"
+msgstr ""
+
+#. Key:	29Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,29Text"
+msgid "What's up, student? Congratulations on your convincing victory!\r\nI hope our village will bloom with new colors!"
+msgstr ""
+
 #. Key:	2Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
@@ -5494,6 +5837,146 @@ msgctxt "QuestsList,2Text"
 msgid "Foxes have been invading my property and stealing my chickens.\r\nI ask you to get rid of the foxes and bring me 5 of their pelts."
 msgstr ""
 
+#. Key:	30Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,30Name"
+msgid "A collection of jokes about America"
+msgstr ""
+
+#. Key:	30Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,30Text"
+msgid "Hi!\r\nI have a gig coming up and I've lost a compilation of the best selections of jokes about America.... Help me find it!"
+msgstr ""
+
+#. Key:	31Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,31Name"
+msgid "Find the cow I'm milking"
+msgstr ""
+
+#. Key:	31Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,31Text"
+msgid "Hello, traveler!\r\nNot too long ago I was walking through the countryside with my favorite cow that I milk. She got a little behind me and I lost sight of her.\r\nCould you please find her for me - she is very special to me - and tell me where she is.\r\nI wouldn't want anyone from the village to milk her. She's my cow - and I milk her."
+msgstr ""
+
+#. Key:	32Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,32Name"
+msgid "Restoration of the railroad station. Part 1"
+msgstr ""
+
+#. Key:	32Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,32Text"
+msgid "Hello.\r\nWe want to rebuild our railroad station.\r\nBut first we need to collect the logs that are blocking the railroad tracks.\r\nCan you help me with that?"
+msgstr ""
+
+#. Key:	33Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,33Name"
+msgid "Restoration of the railroad station. Part 2"
+msgstr ""
+
+#. Key:	33Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,33Text"
+msgid "You did good!\r\nNow we need planks and stone to rebuild the depot."
+msgstr ""
+
+#. Key:	34Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,34Name"
+msgid "Kindergarten"
+msgstr ""
+
+#. Key:	34Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,34Text"
+msgid "Hi!\r\nSoon our little kindergarteners will be going to kindergarten.\r\nBut there is quite a lot of garbage accumulated on its territory.\r\nCould you help me clean it up?"
+msgstr ""
+
+#. Key:	35Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,35Name"
+msgid "Berries for the little kindergartners"
+msgstr ""
+
+#. Key:	35Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,35Text"
+msgid "Thank you for your help.\r\nI would also like to ask you to pick berries for our little ones.\r\nThey often get sick in the fall and could use vitamins to strengthen the immunity of their growing bodies.\r\nI will make them delicious compotes and jam from the berries you have collected."
+msgstr ""
+
+#. Key:	36Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,36Name"
+msgid "Ear for the little kindergartners"
+msgstr ""
+
+#. Key:	36Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,36Text"
+msgid "Thank you for bringing me berries for our kindergartners.\r\nBut can I ask you something else?\r\nThere are quite a lot of fish in our lake and the kids could use some phosphorus and fish oil.\r\nCan you catch us 3 pike and 2 catfish?"
+msgstr ""
+
+#. Key:	37Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,37Name"
+msgid "Moonshiners"
+msgstr ""
+
+#. Key:	37Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,37Text"
+msgid "Hello, friend!\r\nMe and my two friends need a hangover! But not with anything, but with moonshine!\r\nCan you help us?"
+msgstr ""
+
+#. Key:	38Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,38Name"
+msgid "Beer master"
+msgstr ""
+
+#. Key:	38Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,38Text"
+msgid "Hello, comrade!\r\nThe festival ended not long ago. And it's time to collect all the used beer kegs.\r\nAll my helpers have already gone home and I have no one to ask for help but you.\r\nWill you help me collect them?"
+msgstr ""
+
+#. Key:	39Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,39Name"
+msgid "Bring a girl a fish"
+msgstr ""
+
+#. Key:	39Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,39Text"
+msgid "Thank you for your help, darling!\r\nI'm so tired and would like some fresh fish.\r\nWill you give the girl some fish?"
+msgstr ""
+
 #. Key:	3Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
@@ -5506,6 +5989,97 @@ msgstr ""
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,3Text"
 msgid "Hi!\r\nAre you new?\r\nLet's go to Grandpa Maxim's for moonshine. He makes the best moonshine in the village!"
+msgstr ""
+
+#. Key:	40Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,40Name"
+msgid "Miller"
+msgstr ""
+
+#. Key:	40Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,40Text"
+msgid "Our decorative mill broke down.\r\nI've been wanting to fix it for a long time, but never got around to it.\r\nNow I'm busy, too. Could you help me?"
+msgstr ""
+
+#. Key:	41Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,41Name"
+msgid "To help the hospital. Part 1"
+msgstr ""
+
+#. Key:	41Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,41Text"
+msgid "Greetings, Ivan!\r\nOur hospital gets sick people from time to time. \r\nThe other day they want to bring us a large batch of patients from the region. But there is nothing to feed them because we have a very limited budget.\r\nCould you cook and bring us some food?"
+msgstr ""
+
+#. Key:	42Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,42Name"
+msgid "To help the hospital. Part 2"
+msgstr ""
+
+#. Key:	42Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,42Text"
+msgid "Thank you so much!\r\nNow we have to make dinner.\r\nHere's a list of what you need to eat:\r\n1. Borscht - 7 servings.\r\n2. Bread - 7 loaves.\r\n3. Water - 50 liters.\r\n4. Various berries."
+msgstr ""
+
+#. Key:	43Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,43Name"
+msgid "To help the hospital. Part 3"
+msgstr ""
+
+#. Key:	43Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,43Text"
+msgid "Thank you so much!\r\nNow we need to make dinner.\r\nHere's a list of what you need to eat:\r\n1. Bread - 7 loaves.\r\n2. Water - 50 liters.\r\n3. Various fish."
+msgstr ""
+
+#. Key:	44Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,44Name"
+msgid "Assistant"
+msgstr ""
+
+#. Key:	44Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,44Text"
+msgid "Hello!\r\nCan I ask you a favor: will you bring me some humus, sheep's wool and salt?"
+msgstr ""
+
+#. Key:	45Completed
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,45Completed"
+msgid "Darling, you're going to become a very important person in the village."
+msgstr ""
+
+#. Key:	45Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,45Name"
+msgid "Fortune-telling"
+msgstr ""
+
+#. Key:	45Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,45Text"
+msgid "Hello, darling!\r\nWould you like me to read your hand? I'll tell you the whole truth!\r\nDon't be stingy, darling."
 msgstr ""
 
 #. Key:	4Name
@@ -5632,6 +6206,41 @@ msgstr ""
 #: /Game/Objects/Texts/RadialMenu.RadialMenu
 msgctxt "RadialMenu,Campfire"
 msgid "Campfire"
+msgstr ""
+
+#. Key:	ErrorLake
+#. SourceLocation:	/Game/Objects/Texts/RadialMenu.RadialMenu
+#: /Game/Objects/Texts/RadialMenu.RadialMenu
+msgctxt "RadialMenu,ErrorLake"
+msgid "The lake is too far..."
+msgstr ""
+
+#. Key:	FishingInfo
+#. SourceLocation:	/Game/Objects/Texts/RadialMenu.RadialMenu
+#: /Game/Objects/Texts/RadialMenu.RadialMenu
+msgctxt "RadialMenu,FishingInfo"
+msgid "Click the left mouse button to pull out the fishing rod.\r\nPress the right mouse button again to cast the rod."
+msgstr ""
+
+#. Key:	FishingPole
+#. SourceLocation:	/Game/Objects/Texts/RadialMenu.RadialMenu
+#: /Game/Objects/Texts/RadialMenu.RadialMenu
+msgctxt "RadialMenu,FishingPole"
+msgid "Fishing Pole"
+msgstr ""
+
+#. Key:	Beets
+#. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
+#: /Game/Objects/Texts/Seeds.Seeds
+msgctxt "Seeds,Beets"
+msgid "Beets"
+msgstr ""
+
+#. Key:	BeetsText
+#. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
+#: /Game/Objects/Texts/Seeds.Seeds
+msgctxt "Seeds,BeetsText"
+msgid "Beet seeds are small, oval-shaped seeds that are contained within the colored fruit of the plant. They are brown in color and can be quite small.\r\n\r\nBeet seeds are very rich in nutrients such as vitamins, minerals, amino acids and antioxidants. They are an excellent source of B vitamins, including vitamins B1, B2, B3, B5 and B6. They also contain vitamin E, which is a powerful antioxidant. In addition, beet seeds are rich in minerals such as iron, zinc, magnesium, calcium and copper.\r\n\r\nBeet seeds are also high in fiber and vegetable proteins, making them a great source of nutrients for the body. They are also rich in unsaturated fatty acids, which are important for maintaining heart health.\r\n\r\nThese seeds are widely used as a dietary supplement or ingredient in various dishes. They can be added to salads, porridge, baked goods, yogurt or smoothies. They can also be roasted or used to make beet oil.\r\n\r\nBeet seeds have a unique flavor - sweet, nutty and a slight strawberry aftertaste. They also have a delicate and crunchy character.\r\n\r\nHowever, it is important to remember that beet seeds can cause an allergic reaction in some people. Therefore, it is a good idea to do an individual tolerance test before consuming beet seeds.\r\n\r\nIn conclusion, beet seeds are a nutritious and tasty addition to the diet. They contain many beneficial substances and can be used in a variety of dishes. However, as with any product, moderate consumption and consideration of the individual characteristics of the body is recommended."
 msgstr ""
 
 #. Key:	Cabbage
@@ -8826,6 +9435,13 @@ msgctxt "Weapons,HoeText"
 msgid "A pickaxe is a tool used for breaking, such as mining ore or rocks. It consists of a usually metal head attached to the end of a wooden or metal handle.\r\n\r\nThe head of a pickaxe usually has two sides: one side with a wide and flat blade, for splitting and breaking material, and the other side, called a crowbar, which has a pointed end part. The crowbar is designed to strike the material to break or split it.\r\n\r\nThe main purpose of a pickaxe is to extract ore and rocks in mining or construction. When miners or construction workers encounter hard materials such as earth, stone, or ore, they use a pickaxe to split and extract these materials. A pickaxe can also be used to dig holes or ditches.\r\n\r\nPickaxes vary in size and weight. Small and light picks may be specifically designed to be used with one hand, while larger and heavier picks require the use of both hands to work effectively.\r\n\r\nWhen using a pickaxe, it is important to follow basic safety rules, as improper use of the tool can lead to injury. It is important to wear safety glasses, gloves, and other protective equipment when working with a pickaxe, and to watch the position of others around you.\r\n\r\nOverall, a pickaxe is a reliable and efficient tool that is widely used in various industries such as mining, construction, and agriculture. Due to its simplicity and versatility, the pickaxe remains one of the most common and useful hand tools."
 msgstr ""
 
+#. Key:	Amount
+#. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk
+#: /Game/Objects/Texts/WorkDesk.WorkDesk
+msgctxt "WorkDesk,Amount"
+msgid "Amount"
+msgstr ""
+
 #. Key:	Components
 #. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk
 #: /Game/Objects/Texts/WorkDesk.WorkDesk
@@ -8845,6 +9461,20 @@ msgstr ""
 #: /Game/Objects/Texts/WorkDesk.WorkDesk
 msgctxt "WorkDesk,ErrorCrafting"
 msgid "The necessary components are missing..."
+msgstr ""
+
+#. Key:	Saw
+#. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk
+#: /Game/Objects/Texts/WorkDesk.WorkDesk
+msgctxt "WorkDesk,Saw"
+msgid "Saw"
+msgstr ""
+
+#. Key:	Sawinglogs
+#. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk
+#: /Game/Objects/Texts/WorkDesk.WorkDesk
+msgctxt "WorkDesk,Sawinglogs"
+msgid "Sawing logs"
 msgstr ""
 
 #. Key:	WorkDesk
