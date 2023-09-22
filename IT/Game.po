@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-22 09:02\n"
-"PO-Revision-Date: 2023-09-22 09:02\n"
+"POT-Creation-Date: 2023-09-22 14:44\n"
+"PO-Revision-Date: 2023-09-22 14:44\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -2812,6 +2812,41 @@ msgstr "Apertura (F-Stop)"
 msgctxt "FastTravel,10"
 msgid "Hospital"
 msgstr "Ospedale"
+
+#. Key:	11
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,11"
+msgid "Theme Park"
+msgstr ""
+
+#. Key:	12
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,12"
+msgid "At the fortune teller's"
+msgstr ""
+
+#. Key:	13
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,13"
+msgid "Train station"
+msgstr ""
+
+#. Key:	14
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,14"
+msgid "Metal warehouse"
+msgstr ""
+
+#. Key:	15
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,15"
+msgid "Stop at the church"
+msgstr ""
 
 #. Key:	2
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel

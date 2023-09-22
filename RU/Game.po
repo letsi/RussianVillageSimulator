@@ -3,8 +3,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-22 09:03\n"
-"PO-Revision-Date: 2023-09-22 16:05+0700\n"
+"POT-Creation-Date: 2023-09-22 14:45\n"
+"PO-Revision-Date: 2023-09-22 21:47+0700\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -2535,6 +2535,19 @@ msgid ""
 "\r\n"
 "In conclusion, beet is a low-calorie, nutritious and healthy root vegetable with numerous health benefits. It can be used in a variety of dishes and is a great addition to the diet to maintain health and wellness."
 msgstr ""
+"Свекла - это многолетнее корнеплодное растение семейства амарантовых, известное также под названием буряк. Это одна из самых старинных культур, которую человек выращивает уже более двух тысячелетий.\n"
+"\n"
+"Свекла имеет округлую или слегка овальную форму с ярко-красной, фиолетовой или белой внешностью. Ее размеры могут варьироваться от маленькой свеклы, размером с небольшой яблоко, до крупных корнеплодов весом в несколько килограммов. Внутри свекла имеет сочную мякоть однородной консистенции, имеющую насыщенный красный или бордовый цвет.\n"
+"\n"
+"Свекла имеет многочисленные полезные свойства, что делает ее популярным и распространенным продуктом. Во-первых, она является объемистым и низкокалорийным продуктом, содержащим в себе большое количество витаминов и минералов. Корни свеклы богаты витаминами С, А и В, железом, фолиевой кислотой, калием, магнием и другими элементами. Также свекла содержит большое количество диетических волокон, которые полезны для пищеварения.\n"
+"\n"
+"Также свекла имеет антиоксидантные свойства, что способствует защите организма от свободных радикалов и позволяет предотвратить развитие некоторых заболеваний, включая рак и сердечно-сосудистые заболевания. Кроме того, свекла способствует снижению артериального давления и стимулирует работу печени и желчного пузыря.\n"
+"\n"
+"Свекла очень разнообразна в использовании в пищу. Она может быть употреблена в свежем виде, добавлена в салаты, соки или коктейли, приготовлена вареной, жареной или запеченной. Также из свеклы можно приготовить множество блюд, таких как супы, пюре, гарниры, закуски и даже сладости.\n"
+"\n"
+"Однако, важно помнить, что свекла имеет ярко выраженный вкус, который может быть не всем по вкусу. Некоторые люди считают ее вяленым, землистым или горьким. Поэтому перед употреблением свеклы стоит провести тест на индивидуальную переносимость.\n"
+"\n"
+"В заключение, свекла - это низкокалорийное, питательное и полезное корнеплодное растение с многочисленными полезными свойствами. Она может быть использована в различных блюдах и является отличным дополнением к рациону питания для поддержания здоровья и хорошего самочувствия."
 
 #. Key:	Cabbage
 #. SourceLocation:	/Game/Objects/Texts/Bedding.Bedding
@@ -3613,6 +3626,41 @@ msgctxt "FastTravel,10"
 msgid "Hospital"
 msgstr "Больница"
 
+#. Key:	11
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,11"
+msgid "Theme Park"
+msgstr "Тематический парк"
+
+#. Key:	12
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,12"
+msgid "At the fortune teller's"
+msgstr "У гадалки"
+
+#. Key:	13
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,13"
+msgid "Train station"
+msgstr "Железнодорожная станция"
+
+#. Key:	14
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,14"
+msgid "Metal warehouse"
+msgstr "Металлобаза"
+
+#. Key:	15
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,15"
+msgid "Stop at the church"
+msgstr "Остановка у церкви"
+
 #. Key:	2
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
@@ -3725,7 +3773,7 @@ msgstr ""
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,FishYes"
 msgid "Pull the rod!"
-msgstr "Потяните за удочку!"
+msgstr "Тяни за удочку!"
 
 #. Key:	Macrel
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
