@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-22 14:45\n"
-"PO-Revision-Date: 2023-09-22 14:45\n"
+"POT-Creation-Date: 2023-09-26 11:19\n"
+"PO-Revision-Date: 2023-09-26 11:19\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -4045,6 +4045,34 @@ msgctxt "Kitchen,BorschText"
 msgid "Borscht is a traditional Ukrainian dish that has become popular in other countries as well. It is a soup prepared on the basis of beets and vegetables.\r\n\r\nOne of the main ingredients of borscht is beet, which gives it its characteristic red color. Beets contain many useful substances such as vitamins, minerals and antioxidants, which favorably affect health.\r\n\r\nIn addition to beets, vegetables such as potatoes, carrots, onions, cabbage and tomato paste form the basis of borscht. Depending on the region and preferences, other vegetables such as peppers, beans or mushrooms can be added to borscht.\r\n\r\nIn order for the dish to be rich and flavorful, meat is necessarily added to borscht. Traditionally, beef or pork is used, but you can use other types of meat, such as chicken or turkey. Meat will give the soup a rich flavor and add nutrients.\r\n\r\nIn addition to the basic composition, various spices and herbs such as dill, parsley or basil can be added to borscht. They give the dish a fresh and fragrant taste.\r\n\r\nBorscht is prepared by thoroughly cooking and boiling vegetables and meat so that they become soft and flavorful. Once ready, the soup undergoes a stage of insistence so that all the flavors are combined.\r\n\r\nReady borscht is served hot, often with the addition of sour cream or cream. This addition gives it a delicate and more spicy flavor.\r\n\r\nBorscht is a hearty and nutritious dish that is not only tasty, but also healthy. It is perfect for dinner or lunch in the cold season and can be a main or additional dish on the table."
 msgstr ""
 
+#. Key:	Carp_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Carp_with_vegetables"
+msgid "Carp with vegetables"
+msgstr ""
+
+#. Key:	Carp_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Carp_with_vegetablesText"
+msgid "Carp with vegetables is an excellent dish that harmoniously combines tender carp meat and fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take a fresh carp and clean it from scales and innards. Rinse the fish thoroughly under running water and dry it with a paper towel.\r\n- Prepare the vegetables: carrots, onions, peppers, zucchini and other preferred vegetables. Peel them and cut them into small pieces or half rings.\r\n- Prepare herbs (parsley, dill or basil) to garnish the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt and pepper to taste.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a skillet or saucepan.\r\n2. Add the sliced onion to the skillet and saute until translucent and tender, about 5 minutes.\r\n3. Once done, add the carrots and peppers to the skillet. Fry the vegetables along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and add any other spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the carp on top of the vegetables in the skillet. Cook the fish along with the vegetables for 15-20 minutes until cooked through.\r\n6. Check the carp and vegetables for doneness, making sure the fish is easily separated from the bone and the vegetables are soft but not falling apart.\r\n7. The dish of carp with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can also add lemon sauce or a sauce of fresh herbs and garlic to enhance the flavor of the dish. Enjoy!"
+msgstr ""
+
+#. Key:	Catfish_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Catfish_with_vegetables"
+msgid "Catfish with vegetables"
+msgstr ""
+
+#. Key:	Catfish_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Catfish_with_vegetablesText"
+msgid "Catfish with vegetables is an exquisite dish that combines tender catfish meat and fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take a fresh catfish and clean it from scales and innards. Rinse the fish thoroughly under running water and dry it with a paper towel.\r\n- Prepare the vegetables: carrots, onions, peppers, zucchini and any other preferred vegetables. Peel them and cut them into small pieces or half rings.\r\n- Prepare herbs (parsley, dill or basil) to garnish the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt and pepper to taste. You can also add any other spices and seasonings of your choice.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a skillet or saucepan.\r\n2. Add the sliced onion to the skillet and fry until translucent and tender, about 5 minutes.\r\n3. Next, add the carrots and peppers to the skillet. Fry the vegetables along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and add any other spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the catfish on top of the vegetables in the skillet. Cook the fish along with the vegetables for 15-20 minutes until cooked through. Note that cooking time may vary depending on the thickness of the piece of fish. The fish should become tender and easily separate from the bone.\r\n6. Check that the catfish and vegetables are ready. Make sure the fish is fully cooked and the vegetables are soft but not falling apart.\r\n7. The catfish and vegetables dish is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can also add lemon sauce or a sauce of fresh herbs and garlic to give the dish a brighter flavor. Enjoy!"
+msgstr ""
+
 #. Key:	Cheesecakes
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
@@ -4057,6 +4085,20 @@ msgstr ""
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,CheesecakesText"
 msgid "Cheesecakes are a popular dish often served for breakfast or dessert. They are small pancakes made of cottage cheese or cottage cheese mass, eggs, flour and sugar.\r\n\r\nThe main ingredient for making cheesecakes is cottage cheese. Cottage cheese contains many nutrients such as protein, calcium and vitamins, so cheesecakes are considered a great source of nutrients.\r\n\r\nTo prepare cheesecakes, cottage cheese is mixed with eggs, flour, sugar and if required vanilla extract or salt is added. This dough is allowed to stand for some time so that the ingredients mix and the dough becomes more elastic.\r\n\r\nAfter proofing, the dough is divided into small portions and flat round tortillas are formed. Cheesniki are fried in a pan with a little vegetable oil until golden on both sides.\r\n\r\nCheesecakes can be served with various additional ingredients. They are perfectly combined with honey, condensed milk, berries, fruit or jam. Cheesecakes can also be sprinkled with powdered sugar or served with the addition of sour cream or yogurt.\r\n\r\nCheesecakes are a delicious and nutritious dish that can be enjoyed warm or cold. They can be the perfect choice for breakfast or a small snack. Cheesecakes are easy to prepare and can be adapted with the addition of different toppings and sauces to satisfy a variety of tastes."
+msgstr ""
+
+#. Key:	Chicken_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Chicken_with_vegetables"
+msgid "Chicken with vegetables"
+msgstr ""
+
+#. Key:	Chicken_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Chicken_with_vegetablesText"
+msgid "Chicken is a popular and delicious product that can be used to cook a variety of dishes. Here is a detailed recipe for chicken dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take 500 g of chicken fillet and cut it into small pieces or strips.\r\n- Peel and cut 1 onion into small cubes.\r\n- Take 2-3 cloves of garlic and mince them.\r\n- Measure out 2 tablespoons of vegetable oil.\r\n- Prepare salt, pepper and any other spices according to taste.\r\n\r\nStep 2: Cooking\r\n1. In a deep skillet, heat the vegetable oil over medium heat.\r\n2. Add the sliced chicken fillets to the skillet and fry them until golden, stirring occasionally. This should take about 5-7 minutes.\r\n3. Add the chopped onion and garlic to the skillet to the chicken. Continue cooking the dish until the onions are soft and golden. This is another 5 minutes.\r\n4. Salt and pepper the chicken and vegetables to taste, add any other spices or herbs you like. Stir all the ingredients to evenly distribute the spices.\r\n5. Cover the skillet with a lid and braise the dish over medium heat for about 10-15 minutes, stirring occasionally. If the chicken starts to burn, add a little water or broth.\r\n6. Check the readiness of the chicken by cutting one piece - it should be tender and juicy.\r\n7. The chicken dish is ready! Serve it hot with a side dish of your choice: boiled rice, mashed potatoes, vegetable salad or pasta.\r\n\r\nYou can add different vegetables such as carrots, bell peppers or mushrooms to this dish to give it more variety. Chicken with vegetables is a simple, tasty and nutritious dish that the whole family or guests will enjoy."
 msgstr ""
 
 #. Key:	Cookfood
@@ -4108,11 +4150,53 @@ msgctxt "Kitchen,FriedpotatoesText"
 msgid "Fried potatoes are a classic dish prepared by frying potato slices or pieces of potato in a frying pan or deep fryer until crispy and golden.\r\n\r\nTo prepare fried potatoes, potatoes are peeled and cut into thin semicircular or cube-shaped pieces. These can then be soaked in cold water to remove excess starch and make the potatoes crispier when frying. The potatoes are then dried thoroughly on paper towels.\r\n\r\nHeat oil or fat in a skillet or deep fryer to medium-high heat. The sliced potatoes are then carefully lowered into the heated oil and fried until golden and crispy in texture. The potatoes are periodically checked and turned over to ensure even frying on all sides.\r\n\r\nThe finished fried potatoes are removed from the oil and placed on paper towels to remove excess fat. It is then sprinkled with salt, pepper or other spices to bring out its flavor.\r\n\r\nRoasted potatoes are great as a side dish to meat dishes or fish, and can also serve as a stand-alone meal or appetizer. It has a lovely crispy texture with a soft and creamy interior, which makes it especially flavorful.\r\n\r\nFried potatoes are a popular dish around the world and are available in different variations, such as French fries or with sour cream and herbs. It is quickly prepared and always pleases with its taste and appetizing appearance."
 msgstr ""
 
+#. Key:	Goose_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Goose_with_vegetables"
+msgid "Goose with vegetables"
+msgstr ""
+
+#. Key:	Goose_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Goose_with_vegetablesText"
+msgid "The dish of goose with vegetables is exquisite and delicious. Here is a detailed recipe for its preparation.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take 1-1.5 kg of goose meat and cut it into portioned pieces or into individual pieces with bones.\r\n- Peel and cut 1 onion into small cubes.\r\n- Take 2-3 cloves of garlic and mince them.\r\n- Measure 2 tablespoons of vegetable oil.\r\n- Prepare the vegetables: take 2-3 carrots, 2-3 potatoes, 1 processed cheese and 1 tablespoon of flour.\r\n- Prepare herbs (parsley or dill) to decorate the dish.\r\n- Prepare salt, pepper and any other spices to taste.\r\n\r\nStep 2: Cooking\r\n1. In a large deep skillet or saucepan, heat vegetable oil over medium heat.\r\n2. Add the sliced goose pieces to the skillet and fry them until golden on all sides. This will take about 5-7 minutes.\r\n3. Add the chopped onion and garlic to the skillet with the goose. Continue cooking the dish until the onions are translucent and flavorful. This is another 5 minutes.\r\n4. Salt and pepper the goose and onions to taste, add any other spices or herbs you like. Stir all the ingredients to evenly distribute the spices.\r\n5. Add the carrots and potatoes to the skillet with the goose. Continue cooking the vegetables and meat together until the vegetables are soft and baked. This should take about 20-25 minutes.\r\n6. In a separate skillet, melt the melted cheese and add the flour. Stirring constantly, cook the sauce until thickened.\r\n7. Add the cooked sauce to the goose and vegetables, mix all ingredients.\r\n8. Cover the skillet with a lid and cook the dish over medium heat for 10-15 minutes to allow the sauce to penetrate the goose and vegetables.\r\n9. Check the readiness of the goose and vegetables, making sure they are soft and juicy.\r\n10. The goose and vegetable dish is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can complement this dish with a sauce or side dish of your choice. You can also add other vegetables such as broccoli or mushrooms to give it more variety. This exquisite dish will be a great decoration for your table and will be enjoyed by all connoisseurs of culinary delights."
+msgstr ""
+
 #. Key:	Ingredients
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Ingredients"
 msgid "Ingredients"
+msgstr ""
+
+#. Key:	Mackerel_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Mackerel_with_vegetables"
+msgid "Mackerel with vegetables"
+msgstr ""
+
+#. Key:	Mackerel_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Mackerel_with_vegetablesText"
+msgid "Mackerel with vegetables is an exquisite dish that combines juicy and flavorful mackerel meat with fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take fresh mackerel and rinse it well under cold water. After that, dry the fish with a paper towel.\r\n- Peel and chop the vegetables. You can use carrots, cauliflower, broccoli, sweet peppers, zucchini or other preferred vegetables.\r\n- Prepare the onion: take 1 medium onion and cut it into half rings.\r\n- Prepare the herbs (parsley, dill or basil) to decorate the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt and pepper to taste.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a skillet or saucepan.\r\n2. Add the sliced onion to the skillet and fry until translucent and tender, about 5 minutes.\r\n3. Add the vegetables to the skillet and fry them along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and add any other spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the mackerel on top of the vegetables in the skillet. Cook the fish along with the vegetables for 10-15 minutes until cooked through.\r\n6. Check the mackerel and vegetables are cooked through, making sure the fish is easily separated from the bone and the vegetables are soft but not falling apart.\r\n7. The mackerel dish with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can add sauces such as lemon sauce or butter and garlic to the dish to give it more flavor. You can also experiment with different vegetables and spices to create a unique combination of flavors. This dish is great for dinner or a special meal."
+msgstr ""
+
+#. Key:	Mutton_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Mutton_with_vegetables"
+msgid "Mutton with vegetables"
+msgstr ""
+
+#. Key:	Mutton_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Mutton_with_vegetablesText"
+msgid "Mutton with vegetables is an appetizing and hearty dish that can be prepared with a variety of vegetables. Here is a detailed recipe for its preparation.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take about 1-1.5 kg of mutton and cut it into portioned pieces.\r\n- Peel and cut 2 large onions into half rings.\r\n- Take 3-4 cloves of garlic and mince them.\r\n- Measure out 3 tablespoons of vegetable oil.\r\n- Prepare the vegetables: take 2-3 carrots, 2-3 potatoes, 1-2 peppers (colored), 1 eggplant and 1-2 zucchini. It is better to cut the vegetables into cubes or half rings so that they cook evenly.\r\n- For seasoning, take salt, pepper, paprika and any other spices to taste.\r\n- Prepare herbs (parsley or cilantro) to garnish the dish.\r\n\r\nStep 2: Prepare the dish\r\n1. In a large pot or skillet, heat vegetable oil over medium heat.\r\n2. Add the sliced lamb to the pan and fry it until golden on all sides. This will take about 5-7 minutes. Remove the fried lamb to a plate.\r\n3. In the same pot or pan, add the chopped onion and garlic. Fry them until transparent and fragrant, this will take another 5 minutes.\r\n4. Salt, pepper and add the rest of the spices to taste. Stir all the ingredients together.\r\n5. Add the carrots, potatoes and the rest of the chopped vegetables to the pot with the onion and garlic. Continue to cook the vegetables and stir fry them for 10 minutes so that they become soft but still hold their shape.\r\n6. Return the roasted lamb to the pot with the vegetables and mix all the ingredients.\r\n7. Cover the pot with a lid and cook the dish over medium heat for 30-40 minutes to allow the lamb to become soft and juicy and the vegetables to soak up the flavors and seasonings.\r\n8. Check the readiness of the lamb and vegetables, making sure they are soft and well soaked in the sauce.\r\n9. The lamb dish with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can top this dish with toppings or sauces of your choice. You can also add other vegetables like mushrooms or sweet peppers to give it more variety. This hearty and tasty dish will be a great choice for a holiday dinner or dinner with family."
 msgstr ""
 
 #. Key:	NoIngredients
@@ -4150,6 +4234,34 @@ msgctxt "Kitchen,PastaFlotText"
 msgid "Flotsky-style pasta is a classic Russian dish that has a simple and hearty execution. It got its name from the fact that it was often cooked on Navy ships. The dish consists of pasta, meat, onions, carrots and spices.\r\n\r\nTo cook pasta in flotsky, start by frying chopped onions in a frying pan until golden. Then add chopped carrots and fry together with onions until soft. After that, chopped meat is added to the pan - usually beef or pork, which is also fried until ready.\r\n\r\nAfter the meat has acquired a golden crust, add boiled pasta to the frying pan and stew everything together on low heat. At this time, you can season the dish with various spices to taste, such as salt, pepper, paprika or other seasonings. The pasta can be seasoned with Italian herbs such as basil or oregano to add flavor and aroma.\r\n\r\nFinished flotsam pasta usually has a rich and intense flavor, combining the softness of the pasta with the juiciness and flavor of the roasted meat and vegetables. The dish is simple and easy to prepare, as well as being nutritious and filling. It is often served hot and can be garnished with herbs or cheese.\r\n\r\nFlotsky-style pasta is a popular and well-loved dish in Russia and there are many different variations of this recipe. This sophisticated trick allows you to enjoy a traditional flavor that appeals to pasta and meat lovers."
 msgstr ""
 
+#. Key:	Perch_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Perch_with_vegetables"
+msgid "Perch with vegetables"
+msgstr ""
+
+#. Key:	Perch_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Perch_with_vegetablesText"
+msgid "Perch with vegetables is a delicious and healthy dish that combines tender meat of perch and fresh flavor of vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Preparing the ingredients\r\n- Take fresh perch, wash it and divide it into portioned pieces.\r\n- Peel and chop the vegetables. You can use carrots, cauliflower, broccoli, sweet peppers, zucchini or any other preferred vegetables.\r\n- Prepare the onion: take 1 medium onion and cut it into half rings.\r\n- Prepare the herbs (parsley, dill or basil) to garnish the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt, pepper and any other spices to taste.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a deep skillet or saucepan.\r\n2. Add the sliced onions to the skillet and fry them until transparent and tender, this will take about 5 minutes.\r\n3. Add the chopped vegetables to the skillet and fry them along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and sprinkle spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the portioned pieces of perch on top of the vegetables in the skillet. Cook them along with the vegetables for 8-10 minutes until the fish is cooked through.\r\n6. Check the perch and vegetables for doneness, making sure the fish is easily separated from the bone and the vegetables are soft but not falling apart.\r\n7. The dish of perch with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can add sauces such as lemon sauce or butter and garlic to the dish to give it more flavor. You can also experiment with different vegetables and spices to create a unique combination of flavors. This dish is perfect for a healthy and balanced lunch or dinner."
+msgstr ""
+
+#. Key:	Pike_with_vegetables
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Pike_with_vegetables"
+msgid "Pike with vegetables"
+msgstr ""
+
+#. Key:	Pike_with_vegetablesText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Pike_with_vegetablesText"
+msgid "Pike with vegetables is a tender and flavorful dish that combines the taste of fish and fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take one fresh pike, wash it and cut it into portioned pieces.\r\n- Peel and cut 1 medium onion into half rings.\r\n- Take 2-3 cloves of garlic and mince them.\r\n- Measure out 3 tablespoons of vegetable oil.\r\n- Prepare the vegetables: take 2 carrots, 2 potatoes, 1 paprika (cauliflower) and 1 zucchini. It is better to cut the vegetables into cubes or half-rings, so that they are evenly cooked.\r\n- For seasoning, take salt, pepper, paprika and any other spices to taste.\r\n- Prepare herbs (parsley or dill) to garnish the dish.\r\n\r\nStep 2: Preparation of the dish\r\n1. In a large pot or skillet, heat vegetable oil over medium heat.\r\n2. Add the chopped onion and garlic to the pan and fry them until transparent and fragrant, this will take about 5 minutes.\r\n3. Salt and pepper the pike to taste and add it to the pot with the onion and garlic. Fry the pike on each side until golden.\r\n4. When the pike is cooked through, add the carrots, potatoes and the rest of the chopped vegetables to the pot. Continue to cook the vegetables and stir fry for 10 minutes so that they become soft but still hold their shape.\r\n5. Salt, pepper and add any other spices to taste. Stir all the ingredients in the pot to evenly distribute the seasonings.\r\n6. Cover the pot with a lid and cook the dish over medium heat for 20-25 minutes, until the fish and vegetables are fully cooked.\r\n7. Check the fish and vegetables for doneness by making sure they are soft and well soaked in the sauce.\r\n8. The pike dish with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can top this dish with sauces or lemon juice for added freshness. You can also add other vegetables such as mushrooms or sweet peppers to give it more variety. This gourmet and nutritious dish will be a great choice for a special dinner or lunch with family and friends."
+msgstr ""
+
 #. Key:	Pilaf
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
@@ -4164,6 +4276,34 @@ msgctxt "Kitchen,PilafText"
 msgid "Plov is a traditional dish that is one of the symbols of Uzbek and Central Asian cuisine. It is a hearty and flavorful rice dish cooked with meat, vegetables and spices.\r\n\r\nTo make pilaf, ingredients such as lamb, rice, onions, carrots, oil and various spices such as zira (wood dill), turmeric and salt are used. The meat is cut into pieces and fried in a deep pan or cauldron until golden. Then add chopped onions and carrots, which are also fried until soft and acquire a pleasant flavor.\r\n\r\nAfter frying the vegetables, rice is added to the cauldron or pan. Rice is washed thoroughly before cooking pilaf to remove excess starch and get a crumbly structure. Then the rice is laid on top of the vegetables and meat, and all the ingredients are mixed. When the rice is already on the surface, hot water or broth is added. The mixture is brought to a boil, then reduce the heat and the dish is stewed until ready. In the process of cooking pilaf rice is saturated with the flavor of spices and meat.\r\n\r\nReady pilaf has a shell (thin crispy crust) - this is one of the important components of this dish. At the time of serving, pilau is usually decorated with a golden shell, which creates an appetizing appearance. Plov can be served with fresh herbs, vegetables or salad.\r\n\r\nPlov is not only an exquisite dish, it is also a symbol of hospitality and an important element of the culture of many Central Asian peoples. It is prepared at large family gatherings, weddings and festivals. The combination of soft rice, tender meat and fragrant spices makes plov an unforgettable and delicious dish."
 msgstr ""
 
+#. Key:	Pork_cutlets
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Pork_cutlets"
+msgid "Pork cutlets"
+msgstr ""
+
+#. Key:	Pork_cutletsText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Pork_cutletsText"
+msgid "   - pork\r\n   - 1 onion, diced\r\n   - 2 garlic cloves, chopped\r\n   - 1 egg\r\n   - salt, pepper to taste\r\n   - vegetable oil for frying\r\n\r\nMake minced meat. In a large bowl, mix the minced meat, onion, garlic, and egg. Add salt and pepper to taste. Form cutlets from the resulting mass and fry on a hot frying pan on both sides until golden. Serve the cutlets with a garnish of your choice."
+msgstr ""
+
+#. Key:	Roast_pork
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Roast_pork"
+msgid "Roast pork"
+msgstr ""
+
+#. Key:	Roast_porkText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Roast_porkText"
+msgid "   - pork\r\n   - 2 onions, chopped\r\n   - 2 diced carrots\r\n   - 2 diced potatoes\r\n   - 1 tbsp. vegetable oil\r\n   - salt, pepper to taste\r\n\r\n   Heat oil in a frying pan and fry the pork until golden. Add onions, carrots and potatoes, fry for about 5 minutes more. Then add salt and pepper. Stew under a lid for about 20 minutes over low heat until all the food is soft. Serve the roast hot, sprinkled with herbs."
+msgstr ""
+
 #. Key:	Shchi
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
@@ -4176,6 +4316,20 @@ msgstr ""
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,ShchiText"
 msgid "Shchi is a traditional Russian dish that is one of the symbols of Russian cuisine. It is a soup made from cabbage, vegetables, meat or mushrooms.\r\n\r\nThe ingredients used to make shchi are white cabbage, potatoes, carrots, onions, oil, meat (usually beef or pork), spices and herbs. The meat is cut into pieces and boiled in hot water to get broth. Then potato cubes, chopped onions and carrots are added and fried until soft. Cabbage is also chopped and added to the soup.\r\n\r\nAfter adding the vegetables, the soup is cooked over low heat until all the ingredients are soft and flavorful. At the end, spices such as salt, pepper, bay leaf, and various herbs such as parsley and dill are added for extra flavor.\r\n\r\nShchi is a soup with tender and flavorful cabbage, fresh vegetables and tender meat or mushrooms. It has a rich flavor and has a pleasant sourness due to the addition of sauerkraut or lemon juice. Shchi is often served hot with a piece of bread or sour cream, which is added for a softer and creamier flavor.\r\n\r\nShchi is an integral part of Russian cuisine and is often prepared during the cold season. It is a hearty and nutritious dish that warms and satisfies hunger. Shchi also has a long history and has many regional variations, which makes it even more diverse and interesting."
+msgstr ""
+
+#. Key:	Stewed_beef_with_vegetable
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Stewed_beef_with_vegetable"
+msgid "Stewed beef with vegetable"
+msgstr ""
+
+#. Key:	Stewed_beef_with_vegetableText
+#. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
+#: /Game/Objects/Texts/Kitchen.Kitchen
+msgctxt "Kitchen,Stewed_beef_with_vegetableText"
+msgid "Stewed beef with vegetables is a classic dish that combines juicy meat and flavorful vegetables. Below is a detailed description of the recipe.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take 1kg of beef and cut it into small pieces.\r\n- Also prepare 1 onion by cutting it into half rings.\r\n- Peel and cut 2 carrots and 2 potatoes into cubes.\r\n- Take 1 bell pepper and cut it into half rings.\r\n- Measure out 2 tablespoons of tomato paste.\r\n- Prepare 2 cups of beef broth.\r\n- Prepare salt, pepper and dry herbs to taste.\r\n\r\nStep 2: Cooking\r\n1. In a deep pan, heat 2 tablespoons of vegetable oil.\r\n2. Fry the beef in it until golden. This will help to enhance the flavor and aroma of the meat.\r\n3. Add onions, carrots, potatoes, peppers, tomato paste and spices. Stir all ingredients so they are evenly distributed.\r\n4- Braise the vegetables and beef together for about 5 minutes, covered with a lid. This will allow the vegetables to soften and release their juices.\r\n5. Once done, pour the beef broth into the pot.\r\n6. Bring the contents of the pot to a boil, and then reduce the heat to medium and braise the dish under a lid for about 1.5-2 hours. Check occasionally to make sure the meat has become soft and juicy.\r\n7. If the dish appears too dry, you can add a little hot water or broth.\r\n8. Ready stewed beef with vegetables can be served hot on the table, sprinkled with herbs for decoration.\r\n\r\nThis dish goes well with a side dish of boiled rice or mashed potatoes. Stewed beef with vegetables has a delicate taste and flavor that will make your lunch or dinner special and delicious."
 msgstr ""
 
 #. Key:	Vareniki
@@ -4470,6 +4624,20 @@ msgstr ""
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,28Text"
 msgid "The old ZIL-130 is a good deliverer of old electrical junk from the locals such as televisions.\r\nTo get the reward, find and throw the TV into the back of the ZIL and bring it to the appropriate point.\r\n\r\nTVs are delivered 1-2 pieces per one trip to the drop-off point."
+msgstr ""
+
+#. Key:	29Name
+#. SourceLocation:	/Game/Objects/Texts/Learning.Learning
+#: /Game/Objects/Texts/Learning.Learning
+msgctxt "Learning,29Name"
+msgid "Photomode"
+msgstr ""
+
+#. Key:	29Text
+#. SourceLocation:	/Game/Objects/Texts/Learning.Learning
+#: /Game/Objects/Texts/Learning.Learning
+msgctxt "Learning,29Text"
+msgid "Press the P button to call up the photo mod.\r\nThis photo mod allows you to take beautiful screenshots.\r\n\r\nBy pressing the Q button you can call the shortcut menu."
 msgstr ""
 
 #. Key:	2Name
