@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-09-26 11:18\n"
-"PO-Revision-Date: 2023-09-26 11:18\n"
+"POT-Creation-Date: 2023-10-07 12:07\n"
+"PO-Revision-Date: 2023-10-07 12:07\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -1784,6 +1784,13 @@ msgctxt "BaseNPC,Arsenii"
 msgid "Arsenii"
 msgstr "Arsenii"
 
+#. Key:	BabaEga
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,BabaEga"
+msgid "Baba Egorovna"
+msgstr ""
+
 #. Key:	David
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -2694,6 +2701,125 @@ msgctxt "Bedding,WatermelonText"
 msgid "Watermelon is a large berry with juicy sweet flesh and a thin green or striped rind. It belongs to the pumpkin family (Cucurbitaceae) and is one of the most popular and recognizable fruits of the summer season.\r\n\r\nWatermelons vary in size and shape, but are usually rounded or oval in shape. Their rind can be dark green with stripes or have a light green coloring, depending on the variety. Inside the watermelon is a juicy and sweet flesh of bright red color, which usually contains many black seeds.\r\n\r\nWatermelons are known for their refreshing and refreshing flavor, especially in hot summer weather. They are widely consumed fresh and are a popular component of various desserts, drinks and salads. Watermelons can also be used to make juices, marmalades and other canned foods.\r\n\r\nApart from their pleasant flavor, watermelons are also a source of vitamins and nutrients. They contain significant amounts of vitamin C, which helps support the immune system, and vitamin A, which promotes healthy eyes and skin. In addition, watermelons are rich in antioxidants such as lycine and lycopene, which help fight free radicals and reduce the risk of various diseases.\r\n\r\nWater is the main component of watermelons and makes up about 90% of their total mass. Because of this high water content, watermelons have excellent hydrating properties and help quench thirst on hot days. In addition, watermelons are a low calorie food and can be included in the diet to maintain a healthy weight.\r\n\r\nGrowing watermelons requires a warm climate and fertile soil. They usually ripen in summer and can be harvested when their rinds become hard and sound when pounded. Different varieties of watermelons have different characteristics and sizes, allowing you to choose the right one according to your preference.\r\n\r\nOverall, watermelon is a delicious and refreshing fruit, great for quenching thirst during summer days. It contains many nutrients and is good for health. However, watermelon consumption may be restricted for people with certain health conditions such as diabetes, so it is advisable to consult experts before including it in your diet."
 msgstr "L'anguria è una bacca grande con polpa succosa e dolce e una sottile scorza verde o striata. Appartiene alla famiglia delle zucche (Cucurbitaceae) ed è uno dei frutti più apprezzati e riconoscibili della stagione estiva.\n\nLe angurie variano in dimensioni e forma, ma solitamente sono rotondeggianti o ovali. La loro crosta può essere di colore verde scuro striato oppure avere una colorazione verde chiaro, a seconda della varietà. All'interno dell'anguria c'è una polpa succosa e dolce di colore rosso brillante, che solitamente contiene molti semi neri.\n\nLe angurie sono note per il loro sapore rinfrescante e rinfrescante, soprattutto nella calda stagione estiva. Sono ampiamente consumati freschi e sono una componente popolare di vari dessert, bevande e insalate. Le angurie possono essere utilizzate anche per preparare succhi, marmellate e altri cibi in scatola.\n\nOltre al loro sapore gradevole, le angurie sono anche una fonte di vitamine e sostanze nutritive. Contengono quantità significative di vitamina C, che aiuta a sostenere il sistema immunitario, e vitamina A, che promuove la salute degli occhi e della pelle. Inoltre, le angurie sono ricche di antiossidanti come la licina e il licopene, che aiutano a combattere i radicali liberi e a ridurre il rischio di varie malattie.\n\nL'acqua è il componente principale dei cocomeri e costituisce circa il 90% della loro massa totale. A causa di questo alto contenuto di acqua, le angurie hanno eccellenti proprietà idratanti e aiutano a dissetare nelle giornate calde. Inoltre, le angurie sono un alimento ipocalorico e possono essere incluse nella dieta per mantenere un peso sano.\n\nLa coltivazione delle angurie richiede un clima caldo e un terreno fertile. Maturano solitamente in estate e possono essere raccolti quando la loro buccia diventa dura e sana quando viene pestata. Diverse varietà di angurie hanno caratteristiche e dimensioni diverse, permettendoti di scegliere quella giusta in base alle tue preferenze.\n\nNel complesso, l’anguria è un frutto delizioso e rinfrescante, ottimo per dissetarsi durante le giornate estive. Contiene molti nutrienti e fa bene alla salute. Tuttavia, il consumo di anguria può essere limitato alle persone con determinate condizioni di salute come il diabete, quindi è consigliabile consultare gli esperti prima di includerla nella propria dieta."
 
+#. Key:	Beehive
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Beehive"
+msgid "Beehive"
+msgstr ""
+
+#. Key:	Beehive1
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Beehive1"
+msgid "Beehive 1"
+msgstr ""
+
+#. Key:	Beehive2
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Beehive2"
+msgid "Beehive 2"
+msgstr ""
+
+#. Key:	Beehive3
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Beehive3"
+msgid "Beehive 3"
+msgstr ""
+
+#. Key:	BeehiveText
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,BeehiveText"
+msgid "A hive is a small wooden or plastic container used for keeping bees and producing honey. Uliks are often used in small beekeepers or for home beehives.\r\n\r\nEvidence hives are compact in size and easy to install on a patio, balcony or garden. They usually consist of two parts: a base and a lid. The base has internal cavities, called frames, where bees build honeycombs and store honey, pollen and the bees' nest.\r\n\r\nThe cover of the cochlea is usually removable and serves to protect the bees from weather conditions and to prevent intruders. It may be provided with ventilation holes to allow air circulation in the snail.\r\n\r\nEvidence provides the bees with the space they need to develop and live a bee society. Bees build honeycombs on frames on which they lay eggs and raise larvae. The honeycomb also serves to store stores of honey, pollen, and wax.\r\n\r\nThe honeycombs should be placed on a slope to allow good circulation of internal air and prevent moisture buildup. They should also be protected from strong sunlight and weather to prevent damage to the honeycomb and bees.\r\n\r\nBeehives require regular maintenance and attention from the beekeeper. This includes checking and ensuring the health of the bees, monitoring the weight of the hive and detecting possible diseases or parasites.\r\n\r\nEvidence is a simple and convenient beekeeping tool that allows home bees to thrive and produce delicious honey. They help keep the bee community and products safe, and provide an observation platform for a fascinating study of bee life."
+msgstr ""
+
+#. Key:	Bees
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Bees"
+msgid "Bees"
+msgstr ""
+
+#. Key:	BeesText
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,BeesText"
+msgid "Bees are small insects that belong to the Apidae family. They are among the most important and beneficial insects on the planet. Bees play a critical role in pollinating plants, which helps in the reproduction and conservation of a variety of plant species.\r\n\r\nThe main species of bee, known as the honeybee (Apis mellifera), is the most common. They live in organized social groups known as hives. Each hive consists of one uterus, worker bees (females that perform various tasks), and several males called trunks.\r\n\r\nBees have a complex body structure. They possess three pairs of articulated legs, and on their head they have a pair of compound eyes, stalks, and flagella. On the back pair of legs there are special baskets with which they collect pollen from flowers.\r\n\r\nThe most famous and valuable product obtained from bees is honey. Bees collect nectar from flowers and process it in the hive, adding enzymes to preserve the honey. Besides honey, bees also produce other products such as beeswax, bee venom, propolis and bee milk.\r\n\r\nBees also play an important role in collecting bee pollen. They collect pollen on their bodies and move it from flower to flower, which helps pollinate plants. This process is critical for biodiversity and food production.\r\n\r\nBees are of great importance to humankind and nature as a whole. Without their important role in plant pollination, many types of fruits and vegetables would grow much smaller, resulting in food shortages. In addition, bee honey and other bee products are natural and beneficial and provide many benefits to human health."
+msgstr ""
+
+#. Key:	BeeWork
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,BeeWork"
+msgid "Bees are working..."
+msgstr ""
+
+#. Key:	Gethoney
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Gethoney"
+msgid "Get honey"
+msgstr ""
+
+#. Key:	Harvesthoney
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Harvesthoney"
+msgid "Harvest honey"
+msgstr ""
+
+#. Key:	Harvestinghoney
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Harvestinghoney"
+msgid "Harvesting honey..."
+msgstr ""
+
+#. Key:	Honey
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Honey"
+msgid "Honey"
+msgstr ""
+
+#. Key:	HoneyText
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,HoneyText"
+msgid "Honey is a naturally sweet product produced by bees from flower nectar or honeydew. It serves as a major nutrient and energy source for bees and is of great value to humans.\r\n\r\nHoney has many different variations in taste, aroma, color, and texture, depending on which flowers the bees collected the nectar from. It can be light, golden, dark or even black. Other factors such as climate and terrain can also affect its properties.\r\n\r\nHoney contains many nutrients including vitamins, minerals, antioxidants and enzymes. It is a natural source of energy, carbohydrates and natural sugars, making it a great alternative sweet food. Due to its natural medicinal and antibacterial activity, honey is also often used medicinally to treat wounds, infections and colds.\r\n\r\nHoney can be eaten on its own, added to tea or coffee, used in baked goods, marinades, sauces and desserts. It is also one of the main ingredients in traditional medicine and cosmetics. Honey has a long shelf life due to its natural preserving properties.\r\n\r\nHoney is popular all over the world as a delicacy, a healthy product and a symbol of nature. Its unique flavor and medicinal properties make it an indispensable element of many cultural and culinary traditions."
+msgstr ""
+
+#. Key:	Install
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,Install"
+msgid "Install beehive"
+msgstr ""
+
+#. Key:	No
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,No"
+msgid "I don't have a beehive..."
+msgstr ""
+
+#. Key:	NoHoney
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,NoHoney"
+msgid "Honey's not ready yet..."
+msgstr ""
+
+#. Key:	NoHoney2
+#. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
+#: /Game/Objects/Texts/Beehive.Beehive
+msgctxt "Beehive,NoHoney2"
+msgid "I can't get honey yet...."
+msgstr ""
+
 #. Key:	Inventory
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2728,6 +2854,62 @@ msgstr "Missioni"
 msgctxt "CoreMenu,Reputation"
 msgid "Reputation: "
 msgstr "Reputazione "
+
+#. Key:	Berryfridge
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,Berryfridge"
+msgid "Berry fridge"
+msgstr ""
+
+#. Key:	Chest
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,Chest"
+msgid "Chest"
+msgstr ""
+
+#. Key:	Fridge
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,Fridge"
+msgid "Food fridge"
+msgstr ""
+
+#. Key:	In
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,In"
+msgid "What do we take?"
+msgstr ""
+
+#. Key:	No
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,No"
+msgid "I have nothing left to put..."
+msgstr ""
+
+#. Key:	Out
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,Out"
+msgid "What do we want to put in?"
+msgstr ""
+
+#. Key:	Put
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,Put"
+msgid "Put"
+msgstr ""
+
+#. Key:	Take
+#. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+#: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
+msgctxt "CoreWareHouse,Take"
+msgid "Take"
+msgstr ""
 
 #. Key:	Barn
 #. SourceLocation:	/Game/Objects/Texts/CreateSystemText.CreateSystemText
@@ -2846,6 +3028,20 @@ msgstr ""
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,15"
 msgid "Stop at the church"
+msgstr ""
+
+#. Key:	16
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,16"
+msgid "Hunting areas"
+msgstr ""
+
+#. Key:	17
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,17"
+msgid "Nature Reserve"
 msgstr ""
 
 #. Key:	2
@@ -2978,14 +3174,14 @@ msgstr ""
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Sazan"
-msgid "Sazan"
+msgid "Yazi"
 msgstr ""
 
 #. Key:	SazanText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,SazanText"
-msgid "Carp (Latin: Cyprinus carpio) is a freshwater fish belonging to the carp family. It is known for its large size, strong body and specific appearance.\r\n\r\nThe carp has a massive body with a high body and rounded back. Its coloration can range from dark olive to golden, with a silvery tint on the sides. The carp also has pomaceous scales that cover its body, making it look like a mirror. The head of the carp is proportionately large, with small mouth openings.\r\n\r\nThe carp is a gathering fish - it actively feeds on a variety of aquatic organisms including algae, plants, small crustaceans, invertebrates and even insects. It usually lives in slow-flowing or standing bodies of water such as rivers, ponds, lakes and canals.\r\n\r\nThe carp is widely distributed in many parts of the world and is a popular fish for fishing. In fishing communities, it is known for its fight and strength when fished on a fishing rod. Given its size, carp can reach weights of up to 30 kg and lengths of up to 120 cm. It is also known for its jumping and strong jerks when trying to free itself.\r\n\r\nThe meat of carp is considered tasty and nutritious, and it is widely used in cooking. It can be fried, baked, boiled or smoked. However, some regions regulate the catch of carp to prevent its rapid increase in numbers and to maintain ecological balance.\r\n\r\nCarp also plays an important ecological role in aquatic ecosystems. It helps maintain water clarity, controls populations of aquatic organisms, and serves as a food source for other predators such as grouse and pike.\r\n\r\nIn general, carp is a large, strong and popular fish of fishing interest and widely used in cooking. It has a unique appearance and is an important element of freshwater ecosystems."
+msgid "The yazi is a large freshwater fish from the pike family. It has a distinctive appearance and has a number of unique features. \r\n\r\nThe body of the yazya elongated and slightly laterally compressed, reaches a length of 40-60 cm and weighs from 1 to 5 kg, although sometimes you can meet and more specimens. Its skin is covered with large, thick and coarse scales, which serves it as a good defense against enemies. The scales have a greenish-gray coloration with yellowish or white spots, making it easily recognizable.\r\n\r\nJazzy eyes are large and elongated, colored yellow or reddish-orange. They allow him to see perfectly even in the murky waters where he lives. \r\n\r\nYazya also has a large and wide mouth with a number of sharp teeth, their shape and size allow him to successfully hunt his prey. Thanks to his teeth, he can easily hold his prey and cut it into pieces before swallowing it.\r\n\r\nThe yaz is a predator and an active hunter. In his diet swims a huge number of aquatic invertebrates - crustaceans, mollusks and small fish. He also does not mind eating plants - algae and aquatic plants are an important part of his diet.\r\n\r\nDuring the breeding season, yazi actively move to shallow water or river tributaries to lay eggs and ensure the survival of the next generation. Their spawning occurs in spring or early summer, and male yazi are characterized by becoming particularly bright and aggressive, guarding their territory from competitors.\r\n\r\nYazi is not only an object of fishing, but also a subject of interest to scientists. It serves as an indicator of the state of the water body, as it reacts to changes in water quality and pollution. Also, yazi can be used in aquaristics because of its bright and noticeable appearance.\r\n\r\nIn general, the yazi is a unique fish that combines strength, aggressiveness and elegance. Its characteristic appearance and features can mesmerize the observer and arouse interest in the study of nature and the world of aquatic organisms."
 msgstr ""
 
 #. Key:	Som
@@ -4878,6 +5074,118 @@ msgctxt "LearningNPC,9"
 msgid "Here comes Gregory."
 msgstr "Arriva Gregory."
 
+#. Key:	(Beginner)
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,(Beginner)"
+msgid "(Beginner)"
+msgstr ""
+
+#. Key:	(Intermediate)
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,(Intermediate)"
+msgid "(Intermediate)"
+msgstr ""
+
+#. Key:	(Master)
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,(Master)"
+msgid "(Master)"
+msgstr ""
+
+#. Key:	BeginnerLock
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,BeginnerLock"
+msgid "Beginner Lock"
+msgstr ""
+
+#. Key:	Collected
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,Collected"
+msgid "Collected"
+msgstr ""
+
+#. Key:	Door
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,Door"
+msgid "Door"
+msgstr ""
+
+#. Key:	IntermediateLock
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,IntermediateLock"
+msgid "Intermediate Lock"
+msgstr ""
+
+#. Key:	Locked
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,Locked"
+msgid "Locked"
+msgstr ""
+
+#. Key:	Lockpick
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,Lockpick"
+msgid "Lockpick"
+msgstr ""
+
+#. Key:	LockpickBox
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,LockpickBox"
+msgid "Lockpick Box"
+msgstr ""
+
+#. Key:	Lockpicks
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,Lockpicks"
+msgid "Lockpicks"
+msgstr ""
+
+#. Key:	MasterLock
+#. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+#: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
+msgctxt "Lockpicking_StringTable,MasterLock"
+msgid "Master Lock"
+msgstr ""
+
+#. Key:	Balance
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Balance"
+msgid "Balance"
+msgstr ""
+
+#. Key:	CoreOptimization
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,CoreOptimization"
+msgid "Game Mode"
+msgstr ""
+
+#. Key:	CoreOptimizationText
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,CoreOptimizationText"
+msgid "Select your preferred game mode based on the characteristics of your computer.\r\nOn graphics cards below 30 series Nvidia/AMD RX 6700 XT, we recommend setting the Performance option.\r\n\r\nFor best performance, enable DirectX 11 in the game settings."
+msgstr ""
+
+#. Key:	NewsGame
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,NewsGame"
+msgid "News Game"
+msgstr ""
+
 #. Key:	NvidiaReflex
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
@@ -4891,6 +5199,20 @@ msgstr "Nvidia Reflex"
 msgctxt "Menu,OnBoost"
 msgid "On+Boost"
 msgstr "On+Boost"
+
+#. Key:	Performance
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Performance"
+msgid "Performance"
+msgstr ""
+
+#. Key:	Quality
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Quality"
+msgid "Quality"
+msgstr ""
 
 #. Key:	QuickMenu
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -4961,6 +5283,20 @@ msgstr "Le ombre con ray tracing simulano effetti di illuminazione morbida per g
 msgctxt "Menu,RayTracing"
 msgid "Ray Tracing"
 msgstr "Ray Tracing"
+
+#. Key:	Ultraperformance
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Ultraperformance"
+msgid "Ultra performance"
+msgstr ""
+
+#. Key:	Warning
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Warning"
+msgid "Warning"
+msgstr ""
 
 #. Key:	1
 #. SourceLocation:	/Game/Objects/Texts/NotesText.NotesText
@@ -5269,6 +5605,13 @@ msgstr "La porta è chiusa!"
 msgctxt "Notice,Map"
 msgid "A map of the village is under development..."
 msgstr "Una mappa del villaggio è in fase di sviluppo..."
+
+#. Key:	Medical
+#. SourceLocation:	/Game/Objects/Texts/Notice.Notice
+#: /Game/Objects/Texts/Notice.Notice
+msgctxt "Notice,Medical"
+msgid "Medicaid isn't free, honey :-)"
+msgstr ""
 
 #. Key:	Money
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5646,6 +5989,20 @@ msgstr ""
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,BeerbarrelText"
 msgid "A beer keg is a container designed to store and transport beer. It is usually made of stainless steel or aluminum, which ensures durability and tightness.\r\n\r\nA beer keg has a cylindrical shape and can have different sizes and volumes, from a few liters to several hundred liters. It usually has two openings - one for filling the keg with beer and the other for drawing out the beer.\r\n\r\nTo ensure the quality of the beer, the beer keg is equipped with special valves and an airtight lid. The valves allow you to control the pressure inside the keg and draw the beer without access to air. The lid provides protection from external influences such as light or dirt, which ensures the stability and freshness of the beer.\r\n\r\nThe beer keg can be used both for storing beer in breweries or restaurants and for transporting and selling beer at various events - festivals, concerts, sporting events, etc.\r\n\r\nUsing a beer keg has its advantages. Firstly, it saves space - instead of storing many separate bottles or cans, beer can be stored in a single container. Secondly, a beer keg provides better beer quality due to the lack of air access.\r\n\r\nIn addition, using a beer keg can be more environmentally friendly because there is less waste - no need to throw away many empty bottles or cans.\r\n\r\nOverall, a beer keg is a convenient and efficient way to store and sell beer that preserves its freshness, quality and reduces environmental impact."
+msgstr ""
+
+#. Key:	Bluemushroom
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,Bluemushroom"
+msgid "Blue mushroom"
+msgstr ""
+
+#. Key:	BluemushroomText
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,BluemushroomText"
+msgid "Blue mushrooms are a group of mushrooms that are characterized by the presence of blue or blue color on their fruiting bodies. They belong to different families and genera, and their color is due to the presence of certain pigments.\r\n\r\nOne of the best known species of blue fungi is the blue mushroom (Entoloma hochstetteri). It is common in New Zealand and the island of Tasmania. The fruiting bodies of this mushroom have a deep blue color and grow in dense clusters. The blue mushroom is poisonous and is not recommended for eating.\r\n\r\nOther species of blue mushrooms are found in different regions of the world. For example, the tit (Lactarius indigo), a mushroom native to North America, has an intense blue or bluish color on its fruiting bodies. It is edible and has a sweetish flavor.\r\n\r\nBlue mushrooms have a variety of shapes and structures. They may have a cap, stalk and plates or tubes on the underside of the cap. There are small mushrooms as well as large-sized species. Like other fungi, blue fungi fulfill an important ecological role by decomposing organic material and contributing to the food cycle in natural ecosystems.\r\n\r\nIt is important to note that not all blue or blue mushrooms are safe to eat. Many contain toxic compounds or are poisonous. Therefore, you should always consult experienced mushroom pickers or experts before picking and consuming mushrooms to avoid possible poisoning."
 msgstr ""
 
 #. Key:	Guitar
@@ -6285,6 +6642,62 @@ msgctxt "QuestsList,45Text"
 msgid "Hello, darling!\r\nWould you like me to read your hand? I'll tell you the whole truth!\r\nDon't be stingy, darling."
 msgstr ""
 
+#. Key:	46Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,46Name"
+msgid "To bring honey to the legend"
+msgstr ""
+
+#. Key:	46Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,46Text"
+msgid "I'm going hunting and will be back soon.\r\nI would like to see a jar of quality country honey on my table.\r\nI'll thank you well for that."
+msgstr ""
+
+#. Key:	47Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,47Name"
+msgid "Man of Steel. Part 1"
+msgstr ""
+
+#. Key:	47Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,47Text"
+msgid "Hello, friend!\r\nI hear you are a strong and brave hunter and not afraid to go into the woods.\r\nI am afraid to go there myself, for I am afraid to meet green crystals, as they annoy me.\r\nBring me five deer pelts, please."
+msgstr ""
+
+#. Key:	48Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,48Name"
+msgid "Man of Steel. Part 2"
+msgstr ""
+
+#. Key:	48Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,48Text"
+msgid "I see you did your job! Thank you!\r\nCan you get me five wolf pelts?\r\n\r\nThat would be a good way to keep our settlement safe from predators."
+msgstr ""
+
+#. Key:	49Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,49Name"
+msgid "Man of Steel. Part 3"
+msgstr ""
+
+#. Key:	49Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,49Text"
+msgid "I see you got that one, too! Oh, cool!\r\nCan you get me five bear skins? I bet you can't do that!"
+msgstr ""
+
 #. Key:	4Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
@@ -6298,6 +6711,55 @@ msgstr "Cristalleria"
 msgctxt "QuestsList,4Text"
 msgid "I need vodka bottles to make moonshine.\r\nPlease find and bring me 10 bottles."
 msgstr "Mi servono bottiglie di vodka per fare il chiaro di luna.\nPer favore, trova e portami 10 bottiglie."
+
+#. Key:	50Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,50Name"
+msgid "Potions"
+msgstr ""
+
+#. Key:	50Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,50Text"
+msgid "Hello, dear traveler!\r\nHow are you?\r\nCan you help your old grandmother to brew a potion?\r\nBring me, my dear, some special blue mushrooms. Don't eat the red ones!"
+msgstr ""
+
+#. Key:	51Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,51Name"
+msgid "To bring the girl supplies"
+msgstr ""
+
+#. Key:	51text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,51text"
+msgid "Hi!\r\nI'm the keeper of the sanctuary. Keeping an eye on the local forest dwellers and nature.\r\nI just don't have time to go get supplies in the village center.\r\nWould you help me?"
+msgstr ""
+
+#. Key:	52Completed
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,52Completed"
+msgid "I'll visit you in the bathhouse :-)"
+msgstr ""
+
+#. Key:	52Name
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,52Name"
+msgid "Bathhouse steam room"
+msgstr ""
+
+#. Key:	52Text
+#. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
+#: /Game/Objects/Texts/QuestsList.QuestsList
+msgctxt "QuestsList,52Text"
+msgid "Hi!\r\nI heard you have a bathhouse!\r\nI'd love to go there!\r\n\r\nI want to make sure you have them. Dial them up, please."
+msgstr ""
 
 #. Key:	5Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
