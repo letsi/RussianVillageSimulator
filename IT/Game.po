@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-26 01:42\n"
-"PO-Revision-Date: 2023-11-26 01:42\n"
+"POT-Creation-Date: 2023-11-26 11:09\n"
+"PO-Revision-Date: 2023-11-26 11:09\n"
 "Language-Team: \n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
@@ -2706,140 +2706,140 @@ msgstr "L'anguria è una bacca grande con polpa succosa e dolce e una sottile sc
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Beehive"
 msgid "Beehive"
-msgstr ""
+msgstr "Alveare"
 
 #. Key:	Beehive1
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Beehive1"
 msgid "Beehive 1"
-msgstr ""
+msgstr "Alveare1"
 
 #. Key:	Beehive2
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Beehive2"
 msgid "Beehive 2"
-msgstr ""
+msgstr "Alveare2"
 
 #. Key:	Beehive3
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Beehive3"
 msgid "Beehive 3"
-msgstr ""
+msgstr "Alveare3"
 
 #. Key:	BeehiveText
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,BeehiveText"
 msgid "A hive is a small wooden or plastic container used for keeping bees and producing honey. Uliks are often used in small beekeepers or for home beehives.\r\n\r\nEvidence hives are compact in size and easy to install on a patio, balcony or garden. They usually consist of two parts: a base and a lid. The base has internal cavities, called frames, where bees build honeycombs and store honey, pollen and the bees' nest.\r\n\r\nThe cover of the cochlea is usually removable and serves to protect the bees from weather conditions and to prevent intruders. It may be provided with ventilation holes to allow air circulation in the snail.\r\n\r\nEvidence provides the bees with the space they need to develop and live a bee society. Bees build honeycombs on frames on which they lay eggs and raise larvae. The honeycomb also serves to store stores of honey, pollen, and wax.\r\n\r\nThe honeycombs should be placed on a slope to allow good circulation of internal air and prevent moisture buildup. They should also be protected from strong sunlight and weather to prevent damage to the honeycomb and bees.\r\n\r\nBeehives require regular maintenance and attention from the beekeeper. This includes checking and ensuring the health of the bees, monitoring the weight of the hive and detecting possible diseases or parasites.\r\n\r\nEvidence is a simple and convenient beekeeping tool that allows home bees to thrive and produce delicious honey. They help keep the bee community and products safe, and provide an observation platform for a fascinating study of bee life."
-msgstr ""
+msgstr "I semi di barbabietola sono piccoli semi di forma ovale contenuti nel frutto colorato della pianta. Un'arnia è un piccolo contenitore di legno o di plastica utilizzato per tenere le api e produrre miele. Le arnie sono spesso utilizzate dai piccoli apicoltori o per gli alveari domestici.\n\nLe arnie di prova sono di dimensioni compatte e facili da installare su un patio, un balcone o un giardino. Di solito sono costituite da due parti: una base e un coperchio. La base è dotata di cavità interne, chiamate telaini, dove le api costruiscono i favi e conservano il miele, il polline e il nido delle api.\n\nIl coperchio della coclea è di solito rimovibile e serve a proteggere le api dagli agenti atmosferici e a evitare intrusioni. Può essere dotato di fori di ventilazione per consentire la circolazione dell'aria nella chiocciola.\n\nL'evidenza fornisce alle api lo spazio necessario per svilupparsi e vivere una società apistica. Le api costruiscono i favi sui telai sui quali depongono le uova e allevano le larve. Il favo serve anche a conservare le scorte di miele, polline e cera.\nI favi devono essere collocati in pendenza per consentire una buona circolazione dell'aria interna ed evitare l'accumulo di umidità. Devono inoltre essere protetti dalla forte luce solare e dalle intemperie per evitare danni al favo e alle api.\n\nGli alveari richiedono una regolare manutenzione e attenzione da parte dell'apicoltore. Ciò include il controllo e la garanzia della salute delle api, il monitoraggio del peso dell'alveare e l'individuazione di eventuali malattie o parassiti.\n\nLe prove sono uno strumento apistico semplice e conveniente che consente alle api domestiche di prosperare e produrre miele delizioso. Contribuiscono a mantenere la comunità apistica e i prodotti sicuri e forniscono una piattaforma di osservazione per uno studio affascinante della vita delle api."
 
 #. Key:	Bees
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Bees"
 msgid "Bees"
-msgstr ""
+msgstr "Api"
 
 #. Key:	BeesText
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,BeesText"
 msgid "Bees are small insects that belong to the Apidae family. They are among the most important and beneficial insects on the planet. Bees play a critical role in pollinating plants, which helps in the reproduction and conservation of a variety of plant species.\r\n\r\nThe main species of bee, known as the honeybee (Apis mellifera), is the most common. They live in organized social groups known as hives. Each hive consists of one uterus, worker bees (females that perform various tasks), and several males called trunks.\r\n\r\nBees have a complex body structure. They possess three pairs of articulated legs, and on their head they have a pair of compound eyes, stalks, and flagella. On the back pair of legs there are special baskets with which they collect pollen from flowers.\r\n\r\nThe most famous and valuable product obtained from bees is honey. Bees collect nectar from flowers and process it in the hive, adding enzymes to preserve the honey. Besides honey, bees also produce other products such as beeswax, bee venom, propolis and bee milk.\r\n\r\nBees also play an important role in collecting bee pollen. They collect pollen on their bodies and move it from flower to flower, which helps pollinate plants. This process is critical for biodiversity and food production.\r\n\r\nBees are of great importance to humankind and nature as a whole. Without their important role in plant pollination, many types of fruits and vegetables would grow much smaller, resulting in food shortages. In addition, bee honey and other bee products are natural and beneficial and provide many benefits to human health."
-msgstr ""
+msgstr "Le api sono piccoli insetti che appartengono alla famiglia degli Apidae. Sono tra gli insetti più importanti e benefici del pianeta. Le api svolgono un ruolo fondamentale nell'impollinazione delle piante, contribuendo alla riproduzione e alla conservazione di diverse specie vegetali.\n\nLa specie principale di ape, nota come ape mellifera (Apis mellifera), è la più comune. Esse vivono in gruppi sociali organizzati, noti come alveari. Ogni alveare è composto da un utero, da api operaie (femmine che svolgono vari compiti) e da diversi maschi chiamati tronchi.\n\nLe api hanno una struttura corporea complessa. Possiedono tre paia di zampe articolate e sulla testa hanno un paio di occhi composti, peduncoli e flagelli. Sulle zampe posteriori sono presenti speciali cestini con cui raccolgono il polline dai fiori.\n\nIl prodotto più famoso e prezioso ottenuto dalle api è il miele. Le api raccolgono il nettare dai fiori e lo lavorano nell'alveare, aggiungendovi enzimi per conservare il miele. Oltre al miele, le api producono anche altri prodotti come la cera d'api, il veleno d'api, la propoli e il latte d'api.\n\nLe api svolgono anche un ruolo importante nella raccolta del polline. Raccolgono il polline sul loro corpo e lo spostano da un fiore all'altro, contribuendo così all'impollinazione delle piante. Questo processo è fondamentale per la biodiversità e la produzione alimentare.\n\nLe api sono di grande importanza per l'umanità e per la natura nel suo complesso. Senza il loro importante ruolo nell'impollinazione delle piante, molti tipi di frutta e verdura crescerebbero molto meno, con conseguente scarsità di cibo. Inoltre, il miele e gli altri prodotti delle api sono naturali e benefici e apportano molti vantaggi alla salute umana."
 
 #. Key:	BeeWork
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,BeeWork"
 msgid "Bees are working..."
-msgstr ""
+msgstr "Le api lavorano..."
 
 #. Key:	Gethoney
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Gethoney"
 msgid "Get honey"
-msgstr ""
+msgstr "Ottenere il miele"
 
 #. Key:	Harvesthoney
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Harvesthoney"
 msgid "Harvest honey"
-msgstr ""
+msgstr "Raccolta del miele"
 
 #. Key:	Harvestinghoney
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Harvestinghoney"
 msgid "Harvesting honey..."
-msgstr ""
+msgstr "Raccolta del miele..."
 
 #. Key:	Honey
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Honey"
 msgid "Honey"
-msgstr ""
+msgstr "Il miele"
 
 #. Key:	HoneyText
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,HoneyText"
 msgid "Honey is a naturally sweet product produced by bees from flower nectar or honeydew. It serves as a major nutrient and energy source for bees and is of great value to humans.\r\n\r\nHoney has many different variations in taste, aroma, color, and texture, depending on which flowers the bees collected the nectar from. It can be light, golden, dark or even black. Other factors such as climate and terrain can also affect its properties.\r\n\r\nHoney contains many nutrients including vitamins, minerals, antioxidants and enzymes. It is a natural source of energy, carbohydrates and natural sugars, making it a great alternative sweet food. Due to its natural medicinal and antibacterial activity, honey is also often used medicinally to treat wounds, infections and colds.\r\n\r\nHoney can be eaten on its own, added to tea or coffee, used in baked goods, marinades, sauces and desserts. It is also one of the main ingredients in traditional medicine and cosmetics. Honey has a long shelf life due to its natural preserving properties.\r\n\r\nHoney is popular all over the world as a delicacy, a healthy product and a symbol of nature. Its unique flavor and medicinal properties make it an indispensable element of many cultural and culinary traditions."
-msgstr ""
+msgstr "Le api sono piccoli insetti che appartengono alla famiglia degli Apidae. Sono tra gli insetti più importanti e benefici del pianeta. Le api giocanoIl miele è un prodotto naturalmente dolce prodotto dalle api a partire dal nettare dei fiori o dalla melata. È un'importante fonte di nutrimento ed energia per le api e ha un grande valore per gli esseri umani.\n\nIl miele presenta molte variazioni di gusto, aroma, colore e consistenza, a seconda dei fiori da cui le api hanno raccolto il nettare. Può essere chiaro, dorato, scuro o addirittura nero. Anche altri fattori, come il clima e il terreno, possono influenzare le sue proprietà.\n\nIl miele contiene molti nutrienti, tra cui vitamine, minerali, antiossidanti ed enzimi. È una fonte naturale di energia, carboidrati e zuccheri naturali, che lo rendono un'ottima alternativa ai dolci. Grazie alla sua naturale attività medicinale e antibatterica, il miele è spesso usato anche a livello medico per trattare ferite, infezioni e raffreddori.\nIl miele può essere consumato da solo, aggiunto al tè o al caffè, utilizzato in prodotti da forno, marinate, salse e dessert. È anche uno degli ingredienti principali della medicina tradizionale e dei cosmetici. Il miele ha una lunga durata di conservazione grazie alle sue proprietà conservanti naturali.\n\nIl miele è popolare in tutto il mondo come prelibatezza, prodotto salutare e simbolo della natura. Il suo sapore unico e le sue proprietà medicinali lo rendono un elemento indispensabile di molte tradizioni culturali e culinarie."
 
 #. Key:	Install
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,Install"
 msgid "Install beehive"
-msgstr ""
+msgstr "Installare l'alveare"
 
 #. Key:	No
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,No"
 msgid "I don't have a beehive..."
-msgstr ""
+msgstr "Non ho un alveare..."
 
 #. Key:	NoHoney
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,NoHoney"
 msgid "Honey's not ready yet..."
-msgstr ""
+msgstr "Il miele non è ancora pronto..."
 
 #. Key:	NoHoney2
 #. SourceLocation:	/Game/Objects/Texts/Beehive.Beehive
 #: /Game/Objects/Texts/Beehive.Beehive
 msgctxt "Beehive,NoHoney2"
 msgid "I can't get honey yet...."
-msgstr ""
+msgstr "Non riesco a ottenere ancora il miele...."
 
 #. Key:	Firestation
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Firestation"
 msgid "Fire station"
-msgstr ""
+msgstr "Stazione dei pompieri"
 
 #. Key:	Hospital
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Hospital"
 msgid "Hospital"
-msgstr ""
+msgstr "Ospedale"
 
 #. Key:	House
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,House"
 msgid "House"
-msgstr ""
+msgstr "Casa"
 
 #. Key:	Inventory
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2860,7 +2860,7 @@ msgstr "Registro dell'apprendimento"
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Metalwarehouse"
 msgid "Metal warehouse"
-msgstr ""
+msgstr "Magazzino metallico"
 
 #. Key:	Money
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2888,77 +2888,77 @@ msgstr "Reputazione "
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shool"
 msgid "Shool"
-msgstr ""
+msgstr "Scuola"
 
 #. Key:	Shop
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shop"
 msgid "Shop"
-msgstr ""
+msgstr "Negozio"
 
 #. Key:	VillageDisco
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,VillageDisco"
 msgid "Village Disco"
-msgstr ""
+msgstr "Discoteca del villaggio"
 
 #. Key:	Berryfridge
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Berryfridge"
 msgid "Berry fridge"
-msgstr ""
+msgstr "Frigorifero a bacche"
 
 #. Key:	Chest
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Chest"
 msgid "Chest"
-msgstr ""
+msgstr "Cassa"
 
 #. Key:	Fridge
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Fridge"
 msgid "Food fridge"
-msgstr ""
+msgstr "Frigorifero per alimenti"
 
 #. Key:	In
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,In"
 msgid "What do we take?"
-msgstr ""
+msgstr "Cosa prendiamo?"
 
 #. Key:	No
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,No"
 msgid "I have nothing left to put..."
-msgstr ""
+msgstr "Non ho più nulla da mettere..."
 
 #. Key:	Out
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Out"
 msgid "What do we want to put in?"
-msgstr ""
+msgstr "Cosa vogliamo inserire?"
 
 #. Key:	Put
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Put"
 msgid "Put"
-msgstr ""
+msgstr "Mettere"
 
 #. Key:	Take
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Take"
 msgid "Take"
-msgstr ""
+msgstr "Prendere"
 
 #. Key:	Barn
 #. SourceLocation:	/Game/Objects/Texts/CreateSystemText.CreateSystemText
@@ -3049,49 +3049,49 @@ msgstr "Ospedale"
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,11"
 msgid "Theme Park"
-msgstr ""
+msgstr "Parco a tema"
 
 #. Key:	12
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,12"
 msgid "At the fortune teller's"
-msgstr ""
+msgstr "Dalla cartomante"
 
 #. Key:	13
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,13"
 msgid "Train station"
-msgstr ""
+msgstr "Train station"
 
 #. Key:	14
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,14"
 msgid "Metal warehouse"
-msgstr ""
+msgstr "Magazzino metallico"
 
 #. Key:	15
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,15"
 msgid "Stop at the church"
-msgstr ""
+msgstr "Fermatevi in chiesa"
 
 #. Key:	16
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,16"
 msgid "Hunting areas"
-msgstr ""
+msgstr "Aree di caccia"
 
 #. Key:	17
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,17"
 msgid "Nature Reserve"
-msgstr ""
+msgstr "Riserva naturale"
 
 #. Key:	2
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
@@ -3154,105 +3154,105 @@ msgstr "Gong dell'acqua"
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,FishRod"
 msgid "Fish rod"
-msgstr ""
+msgstr "Canna da pesca"
 
 #. Key:	FishRodError
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,FishRodError"
 msgid "I don't have a fishing rod..."
-msgstr ""
+msgstr "Non ho una canna da pesca..."
 
 #. Key:	FishRodText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,FishRodText"
 msgid "A fishing rod is a tool that is used when fishing. It consists of several main components:\r\n\r\n1. Spinning/composite rod: the main part of a fishing rod, which is a flexible and lightweight retractable or non-retractable handle. It is usually made of carbon fiber or other composite materials that provide strength and flexibility.\r\n\r\n2. Reel: is a device attached to the fishing rod designed to hold and pull line or cord. Reels can be spinning reels (for predator fishing) or spool reels (for larger fish or long distance fishing).\r\n\r\n3. line/cord: this is a long, transparent or colored thread that connects to the reel and ends with a hook or trolling rod. The line can be made from a variety of materials including monofilament, fluorocarbon or braided line and is selected depending on the type of fishing and water conditions.\r\n\r\n4.Assembly tools: include rings, spool fasteners and scallop joints, which are used to assemble the fishing rod and ensure its strength and stability.\r\n\r\n5. Handle: usually made of a durable material such as cork or plastic and is designed to provide a comfortable and secure grip on the fishing rod.\r\n\r\nDepending on the type of fishing and the angler's preference, fishing rods can have different characteristics such as length, power and action. They can be specialized for certain types of fish or situations, such as fishing on a large river or in the sea.\r\n\r\nA fishing rod is the primary tool for catching fish and is available in many varieties and price ranges. The choice of rod depends on the angler's experience, preferences and budget."
-msgstr ""
+msgstr "La canna da pesca è uno strumento utilizzato per pescare. È composta da diversi componenti principali:\n\n1. Canna da spinning/composito: la parte principale di una canna da pesca, che è un manico flessibile e leggero, retrattile o non retrattile. Di solito è realizzata in fibra di carbonio o in altri materiali compositi che garantiscono resistenza e flessibilità.\n\n2. Mulinello: è un dispositivo collegato alla canna da pesca progettato per trattenere e tirare la lenza o la corda. I mulinelli possono essere da spinning (per la pesca ai predatori) o a bobina (per pesci più grandi o per la pesca a lunga distanza).\n\n3. lenza/corda: si tratta di un lungo filo trasparente o colorato che si collega al mulinello e termina con l'amo o la canna da traina. La lenza può essere realizzata in diversi materiali, tra cui monofilo, fluorocarbonio o trecciato, e viene scelta in base al tipo di pesca e alle condizioni dell'acqua.\n\n4.Attrezzi di montaggio: comprendono anelli, fermi per la bobina e giunti a smerlo, che servono per assemblare la canna da pesca e garantirne la resistenza e la stabilità.\n\n5. Impugnatura: di solito è realizzata in un materiale resistente come il sughero o la plastica ed è progettata per fornire una presa comoda e sicura sulla canna da pesca.\n\nA seconda del tipo di pesca e delle preferenze del pescatore, le canne da pesca possono avere caratteristiche diverse, come lunghezza, potenza e azione. Possono essere specializzate per determinati tipi di pesci o situazioni, come la pesca su un grande fiume o in mare.\n\nLa canna da pesca è lo strumento principale per la cattura dei pesci ed è disponibile in molte varietà e fasce di prezzo. La scelta della canna dipende dall'esperienza, dalle preferenze e dal budget del pescatore."
 
 #. Key:	FishYes
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,FishYes"
 msgid "Pull the rod!"
-msgstr ""
+msgstr "Tirare l'asta!"
 
 #. Key:	Macrel
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Macrel"
 msgid "Mackerel"
-msgstr ""
+msgstr "Sgombro"
 
 #. Key:	MacrelText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,MacrelText"
 msgid "The mackerel (Latin: Scomber scombrus) is a fish of the scombrus family distributed in the oceans of the world, especially in the North Atlantic Ocean and the Mediterranean Sea. It is a strong and fast fish that is a popular target for both sport fishing and commercial fisheries.\r\n\r\nThe mackerel has an elongated body covered with small scales. It is distinguished by its bright metallic coloration, blue-green on the back and silver on the sides. It also has a distinctive band of black spots called the \"shadow band\" that extends the entire length of its body.\r\n\r\nThe mackerel is a migratory fish and often forms large flocks. It feeds on other small fish, crustaceans and squid. Mackerel usually inhabit open ocean waters, but may come closer to the coast during their migrations.\r\n\r\nThis fish has a high consumer value and is widely used in cooking. Mackerel meat is rich in omega-3 fatty acids, which are good for heart and brain health. Mackerel can be fried, baked, smoked or used for sushi and sashimi.\r\n\r\nMackerel also plays an important ecological role in marine ecosystems. It is food for many predatory fish, birds and marine mammals, and is involved in the transfer of energy and nutrients through food chains.\r\n\r\nOverall, mackerel is a fast, beautiful and tasty fish that plays an important role in fisheries, cooking and ocean ecosystems."
-msgstr ""
+msgstr "Lo sgombro (latino: Scomber scombrus) è un pesce della famiglia degli scombri distribuito negli oceani di tutto il mondo, soprattutto nell'Oceano Atlantico settentrionale e nel Mar Mediterraneo. È un pesce forte e veloce che è un bersaglio popolare sia per la pesca sportiva che per quella commerciale.\n\nLo sgombro ha un corpo allungato ricoperto di piccole squame. Si distingue per la sua brillante colorazione metallica, blu-verde sul dorso e argento sui fianchi. Presenta inoltre una caratteristica banda di macchie nere, chiamata \"banda d'ombra\", che si estende per tutta la lunghezza del corpo.\n\nLo sgombro è un pesce migratore e spesso forma grandi branchi. Si nutre di altri piccoli pesci, crostacei e calamari. Gli sgombri abitano di solito le acque dell'oceano aperto, ma possono avvicinarsi alla costa durante le loro migrazioni.\nQuesto pesce ha un alto valore di consumo ed è ampiamente utilizzato in cucina. Le carni dello sgombro sono ricche di acidi grassi omega-3, utili per la salute del cuore e del cervello. Lo sgombro può essere fritto, cotto al forno, affumicato o utilizzato per sushi e sashimi.\n\nLo sgombro svolge anche un importante ruolo ecologico negli ecosistemi marini. È cibo per molti pesci predatori, uccelli e mammiferi marini e partecipa al trasferimento di energia e nutrienti attraverso le catene alimentari.\n\nNel complesso, lo sgombro è un pesce veloce, bello e gustoso che svolge un ruolo importante nella pesca, nella cucina e negli ecosistemi oceanici."
 
 #. Key:	Perch
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Perch"
 msgid "Perch"
-msgstr ""
+msgstr "Pesce persico"
 
 #. Key:	PerchText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,PerchText"
 msgid "The perch (Latin: Perca fluviatilis) is a fish of the perch family that inhabits freshwater bodies in Europe and Northern Asia. It has a long body covered with shields and is distinguished from other fish by its brightly colored transverse stripes on the back, sides and tail. The perch can reach an adult size of 15 to 60 centimeters, depending on habitat conditions.\r\n\r\nThe perch actively preys on other fish, crustaceans and small aquatic fauna, so it is a predatory fish. It usually lives in groups, preferring fresh waters such as rivers, lakes and ponds.\r\n\r\nThis fish has an important commercial importance in fisheries and is a popular target for recreational anglers. The flavor of bass meat is considered excellent and it is often grilled, boiled or fried. In addition, perch are also a target of interest for aquarists and are often kept in aquariums and ponds.\r\n\r\nIn nature, perch have an important ecological role, helping to control populations of other fish species and maintaining biological balance in aquatic ecosystems.\r\n\r\nOverall, perch are a common freshwater fish with good consumer value, interesting appearance, and an important ecological role."
-msgstr ""
+msgstr "Il pesce persico (latino: Perca fluviatilis) è un pesce della famiglia dei persici che popola i corpi d'acqua dolce in Europa e nell'Asia settentrionale. Ha un corpo lungo ricoperto di scudi e si distingue dagli altri pesci per le strisce trasversali dai colori vivaci sul dorso, sui fianchi e sulla coda. Il pesce persico può raggiungere una dimensione adulta compresa tra 15 e 60 centimetri, a seconda delle condizioni dell'habitat.\n\nIl pesce persico preda attivamente altri pesci, crostacei e piccola fauna acquatica, quindi è un pesce predatore. Vive solitamente in gruppi, preferendo le acque dolci come fiumi, laghi e stagni.\n\nQuesto pesce ha un'importante importanza commerciale nella pesca ed è un obiettivo popolare per i pescatori ricreativi. Il sapore della carne di branzino è considerato eccellente e viene spesso grigliato, bollito o fritto. Inoltre, il pesce persico è oggetto di interesse anche per gli acquariofili e viene spesso tenuto in acquari e stagni.\nIn natura, il pesce persico svolge un importante ruolo ecologico, aiutando a controllare le popolazioni di altre specie ittiche e a mantenere l'equilibrio biologico negli ecosistemi acquatici.\n\nNel complesso, il pesce persico è un pesce d'acqua dolce comune con un buon valore per il consumatore, un aspetto interessante e un importante ruolo ecologico."
 
 #. Key:	Pike
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Pike"
 msgid "Pike"
-msgstr ""
+msgstr "Luccio"
 
 #. Key:	PikeText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,PikeText"
 msgid "The pike (Latin: Esox lucius) is a freshwater fish belonging to the pike family. It is one of the largest and most common predators in freshwater bodies of Europe, North America and North Asia.\r\n\r\nThe pike has a long body with a flattened shape and a massive head. Its coloration varies from greenish-gray to dark green or brownish, with bright oblique spots on the back and sides. The pike has a powerful jaw equipped with sharp teeth, which allows it to successfully hunt other fish and small aquatic life.\r\n\r\nThe pike is a characteristic inhabitant of standing or slow-flowing water bodies such as lakes, ponds, rivers and marshes. It prefers areas with dense underwater vegetation where it can stalk its prey and use it as a reason. The pike can reach impressive sizes, with adults reaching lengths of up to 150 cm and weighing over 25 kg.\r\n\r\nThe pike is known for its aggressiveness and strength during angling, which is why it is a popular fish to fish for. Its meat is considered tasty and nutritious, and it is widely used in cooking. Pike can be fried, baked, boiled or smoked.\r\n\r\nThis fish plays an important ecological role in aquatic ecosystems. Pike control populations of other fish and help maintain biological balance. It also serves as food for other predators, including fish-eaters and birds.\r\n\r\nOverall, the pike is a large, powerful and popular fish that is an important predator of freshwater ecosystems and is favored for both fishing and food purposes."
-msgstr ""
+msgstr "Il luccio (latino: Esox lucius) è un pesce d'acqua dolce appartenente alla famiglia dei lucci. È uno dei predatori più grandi e più comuni nei corpi d'acqua dolce di Europa, Nord America e Asia settentrionale.\n\nIl luccio ha un corpo lungo con una forma appiattita e una testa massiccia. La sua colorazione varia dal grigio-verdastro al verde scuro o brunastro, con macchie oblique luminose sul dorso e sui fianchi. Il luccio ha una mascella potente dotata di denti affilati, che gli permette di cacciare con successo altri pesci e piccoli animali acquatici.\n\nIl luccio è un abitante caratteristico dei corpi idrici fermi o a lento scorrimento come laghi, stagni, fiumi e paludi. Preferisce le zone con una fitta vegetazione sottomarina, dove può inseguire le sue prede e usarle come motivo. Il luccio può raggiungere dimensioni impressionanti: gli adulti possono raggiungere i 150 cm di lunghezza e pesare oltre 25 kg.\n\nIl luccio è noto per la sua aggressività e forza durante la pesca, motivo per cui è un pesce molto amato. La sua carne è considerata gustosa e nutriente e viene ampiamente utilizzata in cucina. Il luccio può essere fritto, cotto al forno, bollito o affumicato.\nQuesto pesce svolge un importante ruolo ecologico negli ecosistemi acquatici. Il luccio controlla le popolazioni di altri pesci e contribuisce a mantenere l'equilibrio biologico. Serve anche come cibo per altri predatori, tra cui mangiatori di pesce e uccelli.\n\nNel complesso, il luccio è un pesce grande, potente e popolare, importante predatore degli ecosistemi d'acqua dolce e favorito sia per la pesca che per l'alimentazione."
 
 #. Key:	Sazan
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Sazan"
 msgid "Yazi"
-msgstr ""
+msgstr "Yazi"
 
 #. Key:	SazanText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,SazanText"
 msgid "The yazi is a large freshwater fish from the pike family. It has a distinctive appearance and has a number of unique features. \r\n\r\nThe body of the yazya elongated and slightly laterally compressed, reaches a length of 40-60 cm and weighs from 1 to 5 kg, although sometimes you can meet and more specimens. Its skin is covered with large, thick and coarse scales, which serves it as a good defense against enemies. The scales have a greenish-gray coloration with yellowish or white spots, making it easily recognizable.\r\n\r\nJazzy eyes are large and elongated, colored yellow or reddish-orange. They allow him to see perfectly even in the murky waters where he lives. \r\n\r\nYazya also has a large and wide mouth with a number of sharp teeth, their shape and size allow him to successfully hunt his prey. Thanks to his teeth, he can easily hold his prey and cut it into pieces before swallowing it.\r\n\r\nThe yaz is a predator and an active hunter. In his diet swims a huge number of aquatic invertebrates - crustaceans, mollusks and small fish. He also does not mind eating plants - algae and aquatic plants are an important part of his diet.\r\n\r\nDuring the breeding season, yazi actively move to shallow water or river tributaries to lay eggs and ensure the survival of the next generation. Their spawning occurs in spring or early summer, and male yazi are characterized by becoming particularly bright and aggressive, guarding their territory from competitors.\r\n\r\nYazi is not only an object of fishing, but also a subject of interest to scientists. It serves as an indicator of the state of the water body, as it reacts to changes in water quality and pollution. Also, yazi can be used in aquaristics because of its bright and noticeable appearance.\r\n\r\nIn general, the yazi is a unique fish that combines strength, aggressiveness and elegance. Its characteristic appearance and features can mesmerize the observer and arouse interest in the study of nature and the world of aquatic organisms."
-msgstr ""
+msgstr "Ha un aspetto caratteristico e presenta una serie di caratteristiche uniche. \n\nIl corpo dello yazya è allungato e leggermente compresso lateralmente, raggiunge una lunghezza di 40-60 cm e pesa da 1 a 5 kg, anche se a volte si possono incontrare esemplari più numerosi. La sua pelle è ricoperta da squame grandi, spesse e grossolane, che gli servono come buona difesa contro i nemici. Le squame hanno una colorazione grigio-verdastra con macchie giallastre o bianche, che lo rendono facilmente riconoscibile.\n\nGli occhi di Jazzy sono grandi e allungati, di colore giallo o arancione-rossastro. Gli permettono di vedere perfettamente anche nelle acque torbide in cui vive. \n\nYazya ha anche una bocca grande e ampia con numerosi denti affilati, la cui forma e dimensione gli permettono di cacciare con successo le sue prede. Grazie ai suoi denti, può facilmente afferrare la preda e tagliarla a pezzi prima di ingoiarla.\n\nLo yaz è un predatore e un cacciatore attivo. Nella sua dieta nuota un gran numero di invertebrati acquatici: crostacei, molluschi e piccoli pesci. Inoltre, non disdegna di mangiare piante: alghe e piante acquatiche sono una parte importante della sua dieta.\no le acque o gli affluenti dei fiumi per deporre le uova e garantire la sopravvivenza della generazione successiva. La deposizione delle uova avviene in primavera o all'inizio dell'estate e i maschi di yazi sono caratterizzati dal fatto di diventare particolarmente vivaci e aggressivi, difendendo il loro territorio dai concorrenti.\n\nLo yazi non è solo un oggetto di pesca, ma anche un soggetto di interesse per gli scienziati. Serve come indicatore dello stato del corpo idrico, poiché reagisce ai cambiamenti nella qualità dell'acqua e all'inquinamento. Inoltre, lo yazi può essere utilizzato in acquaristica grazie al suo aspetto brillante e evidente.\n\nIn generale, lo yazi è un pesce unico che combina forza, aggressività ed eleganza. Il suo aspetto e le sue caratteristiche possono ipnotizzare l'osservatore e suscitare interesse per lo studio della natura e del mondo degli organismi acquatici."
 
 #. Key:	Som
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Som"
 msgid "Som"
-msgstr ""
+msgstr "Som"
 
 #. Key:	SomText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,SomText"
 msgid "The catfish (Latin: Silurus glanis) is a large freshwater fish belonging to the catfish family. It is known for its long, cylindrical body covered with small scales and its huge head with a wide mouth equipped with strong teeth.\r\n\r\nThere are different species of catfish, but common appearance features include dark coloration, which can range from dark brown to black, and the presence of small black dots on the body. Catfish also have long antennae, called beards, which are located above the lip and aid in sensing the environment and searching for food.\r\n\r\nCatfish are predatory fish and feed on a variety of aquatic animals such as fish, frogs, aquatic insects, mollusks and even rodents that come their way. They are active at night and may hide in underwater hiding places during the day, such as hollow trees, tree roots or underwater rocks.\r\n\r\nCatfish live in freshwater bodies of water such as rivers, lakes and ponds and prefer waters with low currents or standing water with muddy or deep bottoms. They are hardy and can tolerate poor water conditions such as low oxygen levels.\r\n\r\nCatfish are known for their large size and impressive weights. They can reach lengths of up to 5 meters and weights of up to 300 kg, although most individuals encountered are much smaller. Catfish also have strong musculature, making them excellent fighters when fishing.\r\n\r\nIn some countries, catfish are popular for fishing on special airplane-shaped structures. They are also prized in fishing communities because of their meat, which is considered tender and flavorful. Catfish meat can be used for a variety of dishes including fried or baked fish.\r\n\r\nCatfish play an important ecological role. They help control populations of small fish and other aquatic organisms and act as a natural water filter, feeding on dead organisms and waste.\r\n\r\nOverall, catfish are large predatory fish with a unique appearance and an important place in the ecosystem of freshwater aquatic systems. While they can be a challenge for anglers because of their strength and size, they are also of interest to recreational and extreme anglers."
-msgstr ""
+msgstr "Il pesce gatto (latino: Silurus glanis) è un grande pesce d'acqua dolce appartenente alla famiglia dei pesci gatto. È noto per il suo corpo lungo e cilindrico ricoperto di piccole squame e per la sua enorme testa con un'ampia bocca dotata di forti denti.\n\nEsistono diverse specie di pesce gatto, ma le caratteristiche comuni dell'aspetto includono la colorazione scura, che può variare dal marrone scuro al nero, e la presenza di piccoli punti neri sul corpo. I pesci gatto hanno anche lunghe antenne, chiamate barbe, che si trovano sopra il labbro e aiutano a percepire l'ambiente e a cercare il cibo.\n\nI pesci gatto sono pesci predatori e si nutrono di una varietà di animali acquatici come pesci, rane, insetti acquatici, molluschi e persino roditori che incontrano. Sono attivi di notte e durante il giorno possono nascondersi in nascondigli sottomarini, come alberi cavi, radici di alberi o rocce sottomarine.\n\nI pesci gatto vivono in corpi d'acqua dolce come fiumi, laghi e stagni e preferiscono acque con correnti basse o acque stagnanti con fondali fangosi o profondi. Sono resistenti e possono tollerare cattive condizioni dell'acqua come bassi livelli di ossigeno.\n\nI pesci gatto sono noti per le loro grandi dimensioni e i loro pesi impressionanti. Possono raggiungere una lunghezza fino a 5 metri e un peso fino a 300 kg, anche se la maggior parte degli individui incontrati sono molto più piccoli. I pesci gatto hanno anche una forte muscolatura, che li rende ottimi combattenti durante la pesca.\n\nIn alcuni paesi, il pesce gatto è popolare per la pesca su speciali strutture a forma di aeroplano. Sono anche apprezzati nelle comunità di pescatori per la loro carne, considerata tenera e saporita. La carne di pesce gatto può essere utilizzata per una varietà di piatti, tra cui pesce fritto o al forno.\n\nI pesci gatto svolgono un importante ruolo ecologico. Aiutano a controllare le popolazioni di piccoli pesci e altri organismi acquatici e agiscono come un filtro naturale dell'acqua, nutrendosi di organismi morti e rifiuti.\n\nNel complesso, i pesci gatto sono grandi pesci predatori con un aspetto unico e un posto importante nell'ecosistema dei sistemi acquatici d'acqua dolce. Sebbene possano rappresentare una sfida per i pescatori a causa della loro forza e dimensione, interessano anche i pescatori ricreativi ed estremi."
 
 #. Key:	Waiting
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Waiting"
 msgid "Waiting..."
-msgstr ""
+msgstr "Inattesa..."
 
 #. Key:	Collapse
 #. SourceLocation:	/Game/Objects/Texts/Interaction.Interaction
@@ -3294,14 +3294,14 @@ msgstr "All"
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreled"
 msgid "Ammo for double-barreled"
-msgstr ""
+msgstr "Munizioni per doppia canna"
 
 #. Key:	Ammo_for_a_double-barreledText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreledText"
 msgid "Double-barrel cartridges are special projectiles used in double-barrel firearms. They consist of a cartridge case (casing) in which the primer (igniter), powder and projectile (bullet or shot) are inserted.\r\n\r\nThe cartridge case is usually made of brass or steel. It is shaped like a cylinder with tapered edges and opens at one end to load powder and projectile. The casing can be easily removed from the barrel of the gun after firing.\r\n\r\nThe primer is an igniter, a container containing a small amount of explosive that is ignited by the impact of the firing pin when the shot is fired. The explosion of the primer causes a fire flash, which in turn ignites the gunpowder inside the cartridge case.\r\n\r\nGunpowder is an explosive substance that burns when the primer ignites, creating a high pressure of gases inside the cartridge case. This pressure pushes the projectile forward down the barrel of the gun.\r\n\r\nThe projectile in a double-barreled shotgun cartridge can be a bullet or shot. A bullet is a metal projectile of one caliber designed for long-range shooting. Shot is a projectile consisting of many small metal balls of different caliber, intended for shooting at short distances with a wide spread.\r\n\r\nDouble-barrel ammunition can have different parameters such as caliber, projectile weight, type and amount of powder, and type of primer. These parameters can vary depending on the specific model of gun and its purpose - for hunting, sport shooting or self-defense.\r\n\r\nIt is important to follow all safety rules and correctly use cartridges for double-barrel shotguns. Failure to follow the rules and improper use may result in serious injury or damage to the shotgun."
-msgstr ""
+msgstr "Le cartucce a doppia canna sono proiettili speciali utilizzati nelle armi da fuoco a doppia canna. Sono costituiti da un bossolo (involucro) in cui sono inseriti l'innesco (accenditore), la polvere e il proiettile (proiettile o pallottola).\n\nIl bossolo è solitamente in ottone o acciaio. Ha la forma di un cilindro con bordi rastremati e si apre ad un'estremità per caricare polvere e proiettili. L'involucro può essere facilmente rimosso dalla canna della pistola dopo lo sparo.\n\nL'innesco è un accenditore, un contenitore contenente una piccola quantità di esplosivo che si accende grazie all'impatto del percussore quando viene sparato il colpo. L'esplosione dell'innesco provoca un lampo di fuoco, che a sua volta accende la polvere da sparo all'interno del bossolo.\n\nLa polvere da sparo è una sostanza esplosiva che brucia quando l'innesco si accende, creando un'alta pressione di gas all'interno del bossolo. Questa pressione spinge il proiettile in avanti lungo la canna della pistola.\n\nIl proiettile in una cartuccia per fucile a doppia canna può essere un proiettile o un colpo. Un proiettile è un proiettile metallico di un calibro progettato per il tiro a lungo raggio. Il tiro è un proiettile costituito da tante piccole sfere metalliche di diverso calibro, destinato al tiro a breve distanza con un'ampia diffusione.\n\nLe munizioni a doppia canna possono avere parametri diversi come calibro, peso del proiettile, tipo e quantità di polvere e tipo di innesco. Questi parametri possono variare a seconda del modello specifico dell'arma e del suo scopo: caccia, tiro sportivo o autodifesa.\n\nÈ importante seguire tutte le norme di sicurezza e utilizzare correttamente le cartucce per fucili a doppia canna. La mancata osservanza delle regole e l’uso improprio possono provocare lesioni gravi o danni al fucile."
 
 #. Key:	Animals
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3448,14 +3448,14 @@ msgstr "Il colore della bacca è viola scuro. Alcune specie hanno una patina blu
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Bleach"
 msgid "Bleach"
-msgstr ""
+msgstr "Candeggina"
 
 #. Key:	BleachText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,BleachText"
 msgid "Bleach is a chemical used to remove stains and lighten fabrics. It helps to restore white color to previously soiled or graying fabrics.\r\n\r\nBleach can be available in different forms including liquid, powder or gel. It contains active ingredients such as hydrogen peroxide (oxidant) or strong bleaching agents that provide effective removal of stains and redness.\r\n\r\nBleach penetrates into the fabric structure and oxidizes the organic matter that causes stains. It breaks down pigments and erases stains, returning fabrics to a fresh and vibrant appearance. Bleach can also remove yellowness and write on the surface of fabrics, returning them to their \"newness\".\r\n\r\nIt is important to use bleach as directed and follow safety guidelines, as it contains chemicals that can be harmful to skin and health. Improper use of bleach or improper exposure to other surfaces can damage or discolor materials.\r\n\r\nBleach can be used on various types of textiles including clothing, bedding, towels and curtains. It can also be effective in removing stains from coffee, tea, wine, blood and other organic substances.\r\n\r\nIn addition to fabrics, bleach can also be used to clean and brighten other surfaces such as ceramics, plastic and even some types of leather.\r\n\r\nIt is important to remember that some types of fabrics and materials can be sensitive to bleach, so it is always advisable to test it on a small area before use or follow the directions on the product label."
-msgstr ""
+msgstr "La candeggina è una sostanza chimica utilizzata per rimuovere le macchie e schiarire i tessuti. Aiuta a ripristinare il colore bianco dei tessuti precedentemente sporchi o ingrigiti.\n\nLa candeggina può essere disponibile in diverse forme tra cui liquida, polvere o gel. Contiene principi attivi come l'acqua ossigenata (ossidante) o forti agenti sbiancanti che garantiscono un'efficace rimozione di macchie e arrossamenti.\n\nLa candeggina penetra nella struttura del tessuto e ossida la materia organica che causa le macchie. Decompone i pigmenti e cancella le macchie, restituendo ai tessuti un aspetto fresco e vibrante. La candeggina può anche rimuovere il giallo e scrivere sulla superficie dei tessuti, riportandoli alla loro \"novità\".\n\nÈ importante utilizzare la candeggina come indicato e seguire le linee guida di sicurezza, poiché contiene sostanze chimiche che possono essere dannose per la pelle e la salute. L'uso improprio della candeggina o l'esposizione impropria ad altre superfici possono danneggiare o scolorire i materiali.\n\nLa candeggina può essere utilizzata su vari tipi di tessuti tra cui vestiti, biancheria da letto, asciugamani e tende. Può risultare efficace anche per rimuovere macchie da caffè, tè, vino, sangue e altre sostanze organiche.\n\nOltre ai tessuti, la candeggina può essere utilizzata anche per pulire e ravvivare altre superfici come la ceramica, la plastica e anche alcuni tipi di pelle.\n\nÈ importante ricordare che alcune tipologie di tessuti e materiali possono essere sensibili alla candeggina, per questo è sempre consigliabile testarlo su una piccola zona prima dell'uso o seguire le indicazioni riportate sull'etichetta del prodotto."
 
 #. Key:	Blueberry
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3707,14 +3707,14 @@ msgstr "Prendi un po' d'acqua"
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Goosemeat"
 msgid "Goose meat"
-msgstr ""
+msgstr "Carne d'oca"
 
 #. Key:	GoosemeatText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,GoosemeatText"
 msgid "Goose meat is meat obtained from a goose. It has a distinctive texture and flavor. Goose meat has a juicy and tender texture with a distinctive flavor.\r\n\r\nGoose meat is considered dietary and nutritious at the same time. It contains proteins, fats, vitamins and minerals necessary for good health. Goose meat is rich in iron, zinc, selenium and B vitamins, especially vitamin B12. These elements contribute to immunity, bone health and nervous system health.\r\n\r\nGoose meat is an important component of many traditional dishes. It is often used in the preparation of holiday banquets and family dinners. Goose meat can be baked, stewed, roasted or used in broths and sauces. It combines perfectly with various spices and seasonings, adding an exquisite flavor to dishes.\r\n\r\nGoose meat is also known for its fatty skin and roasted fat, which becomes crispy after cooking. Goose hams, roasted breast and baked legs are popular in Russian cuisine.\r\n\r\nGoose meat is a delicacy, which is distinguished by its flavor and nutrition, and is a popular ingredient in a variety of culinary recipes."
-msgstr ""
+msgstr "La carne d'oca è la carne ottenuta da un'oca. Ha una consistenza e un sapore caratteristici. La carne d'oca ha una consistenza succosa e tenera con un sapore caratteristico.\n\nLa carne d'oca è considerata dietetica e nutriente allo stesso tempo. Contiene proteine, grassi, vitamine e minerali necessari per una buona salute. La carne d'oca è ricca di ferro, zinco, selenio e vitamine del gruppo B, in particolare la vitamina B12. Questi elementi contribuiscono all’immunità, alla salute delle ossa e alla salute del sistema nervoso.\n\nLa carne d'oca è una componente importante di molti piatti tradizionali. Viene spesso utilizzato nella preparazione dei banchetti festivi e delle cene in famiglia. La carne d'oca può essere cotta al forno, in umido, arrosto o utilizzata in brodi e salse. Si combina perfettamente con varie spezie e condimenti, aggiungendo un sapore squisito ai piatti.\n\nLa carne d'oca è nota anche per la pelle grassa e il grasso arrostito, che diventa croccante dopo la cottura. Il prosciutto d'oca, il petto arrosto e le cosce al forno sono popolari nella cucina russa.\n\nLa carne d'oca è una prelibatezza che si distingue per il suo sapore e il suo valore nutritivo ed è un ingrediente popolare in una varietà di ricette culinarie."
 
 #. Key:	Humus
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3889,14 +3889,14 @@ msgstr "I fiammiferi sono piccoli bastoncini di legno con teste progettate per c
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScrap"
 msgid "Metal scrap"
-msgstr ""
+msgstr "Rottame"
 
 #. Key:	MetalScraptext
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScraptext"
 msgid "Scrap metal is waste and scrap metal products that are no longer usable in their original form. They can include various types of metals such as steel, iron, aluminum, copper, tin, nickel, lead, etc.\r\n\r\nScrap metal can come from a variety of sources including automobiles, electronics, appliances, building structures, packaging materials, old plumbing fixtures, and other metal products.\r\n\r\nIt can come in a variety of shapes and sizes, including lump, scrap, chip or powdered scrap metal. Each type has a different degree of value and specific recycling requirements.\r\n\r\nScrap metal is an important source of secondary raw materials that can be melted down and used to produce new metal products. This reduces the need to mine and recycle primary metals, reducing the negative impact on the environment."
-msgstr ""
+msgstr "I rottami metallici sono rifiuti e prodotti di scarto metallici che non sono più utilizzabili nella loro forma originale. Possono includere vari tipi di metalli come acciaio, ferro, alluminio, rame, stagno, nichel, piombo, ecc.\n\nI rottami metallici possono provenire da una varietà di fonti, tra cui automobili, dispositivi elettronici, elettrodomestici, strutture edili, materiali di imballaggio, vecchi impianti idraulici e altri prodotti metallici.\n\nPuò presentarsi in una varietà di forme e dimensioni, compresi pezzi, rottami, trucioli o rottami metallici in polvere. Ciascun tipo ha un diverso grado di valore e requisiti di riciclaggio specifici.\n\nI rottami metallici sono un'importante fonte di materie prime secondarie che possono essere fuse e utilizzate per produrre nuovi prodotti metallici. Ciò riduce la necessità di estrarre e riciclare i metalli primari, riducendo l’impatto negativo sull’ambiente."
 
 #. Key:	Moonshine
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4197,7 +4197,7 @@ msgstr "Rifiuti - rifiuti solidi di origine vegetale, animale e minerale, accumu
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Use"
 msgid "Use"
-msgstr "Utilizzo"
+msgstr "Usa"
 
 #. Key:	Weapons
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4337,28 +4337,28 @@ msgstr "Il borscht è un piatto tradizionale ucraino diventato popolare anche in
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Carp_with_vegetables"
 msgid "Carp with vegetables"
-msgstr ""
+msgstr "Carpa con verdure"
 
 #. Key:	Carp_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Carp_with_vegetablesText"
 msgid "Carp with vegetables is an excellent dish that harmoniously combines tender carp meat and fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take a fresh carp and clean it from scales and innards. Rinse the fish thoroughly under running water and dry it with a paper towel.\r\n- Prepare the vegetables: carrots, onions, peppers, zucchini and other preferred vegetables. Peel them and cut them into small pieces or half rings.\r\n- Prepare herbs (parsley, dill or basil) to garnish the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt and pepper to taste.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a skillet or saucepan.\r\n2. Add the sliced onion to the skillet and saute until translucent and tender, about 5 minutes.\r\n3. Once done, add the carrots and peppers to the skillet. Fry the vegetables along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and add any other spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the carp on top of the vegetables in the skillet. Cook the fish along with the vegetables for 15-20 minutes until cooked through.\r\n6. Check the carp and vegetables for doneness, making sure the fish is easily separated from the bone and the vegetables are soft but not falling apart.\r\n7. The dish of carp with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can also add lemon sauce or a sauce of fresh herbs and garlic to enhance the flavor of the dish. Enjoy!"
-msgstr ""
+msgstr "La carpa con verdure è un ottimo piatto che unisce armoniosamente carne tenera di carpa e verdure fresche. Di seguito è riportata una descrizione dettagliata di questo piatto.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete una carpa fresca e pulitela dalle squame e dalle interiora. Sciacquare accuratamente il pesce sotto l'acqua corrente e asciugarlo con carta assorbente.\n- Preparare le verdure: carote, cipolle, peperoni, zucchine e altre verdure preferite. Sbucciateli e tagliateli a pezzetti o semianelli.\n- Preparare le erbe aromatiche (prezzemolo, aneto o basilico) per guarnire il piatto.\n- Misurare 2 cucchiai di olio d'oliva.\n- Preparare sale e pepe a piacere.\n\nPassaggio 2: preparare il piatto\n1. Scaldare l'olio d'oliva a fuoco medio in una padella o una casseruola.\n2. Aggiungi la cipolla affettata nella padella e rosola fino a quando diventa traslucida e tenera, circa 5 minuti.\n3. Una volta terminato, aggiungi le carote e i peperoni nella padella. Friggere le verdure insieme alle cipolle fino a quando saranno morbide ma manterranno la loro forma. Ci vorranno circa 10-15 minuti.\n4. Salare, pepare le verdure e aggiungere eventuali altre spezie a piacere. Mescolare per distribuire uniformemente i condimenti.\n5. Metti la carpa sopra le verdure nella padella. Cuocere il pesce insieme alle verdure per 15-20 minuti fino a cottura ultimata.\n6. Controllare la cottura della carpa e delle verdure, assicurandosi che il pesce si separi facilmente dalle lische e che le verdure siano morbide ma non si sfaldino.\n7. Il piatto di carpa con verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPotete anche aggiungere una salsa al limone o una salsa di erbe fresche e aglio per esaltare il sapore del piatto. Godere!"
 
 #. Key:	Catfish_with_vegetables
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Catfish_with_vegetables"
 msgid "Catfish with vegetables"
-msgstr ""
+msgstr "Pesce gatto con verdure"
 
 #. Key:	Catfish_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Catfish_with_vegetablesText"
 msgid "Catfish with vegetables is an exquisite dish that combines tender catfish meat and fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take a fresh catfish and clean it from scales and innards. Rinse the fish thoroughly under running water and dry it with a paper towel.\r\n- Prepare the vegetables: carrots, onions, peppers, zucchini and any other preferred vegetables. Peel them and cut them into small pieces or half rings.\r\n- Prepare herbs (parsley, dill or basil) to garnish the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt and pepper to taste. You can also add any other spices and seasonings of your choice.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a skillet or saucepan.\r\n2. Add the sliced onion to the skillet and fry until translucent and tender, about 5 minutes.\r\n3. Next, add the carrots and peppers to the skillet. Fry the vegetables along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and add any other spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the catfish on top of the vegetables in the skillet. Cook the fish along with the vegetables for 15-20 minutes until cooked through. Note that cooking time may vary depending on the thickness of the piece of fish. The fish should become tender and easily separate from the bone.\r\n6. Check that the catfish and vegetables are ready. Make sure the fish is fully cooked and the vegetables are soft but not falling apart.\r\n7. The catfish and vegetables dish is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can also add lemon sauce or a sauce of fresh herbs and garlic to give the dish a brighter flavor. Enjoy!"
-msgstr ""
+msgstr "Il pesce gatto con verdure è un piatto squisito che unisce la tenera carne del pesce gatto e le verdure fresche. Di seguito è riportata una descrizione dettagliata di questo piatto.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete un pesce gatto fresco e pulitelo dalle squame e dalle interiora. Sciacquare accuratamente il pesce sotto l'acqua corrente e asciugarlo con carta assorbente.\n- Preparare le verdure: carote, cipolle, peperoni, zucchine e qualsiasi altra verdura preferita. Sbucciateli e tagliateli a pezzetti o semianelli.\n- Preparare le erbe aromatiche (prezzemolo, aneto o basilico) per guarnire il piatto.\n- Misurare 2 cucchiai di olio d'oliva.\n- Preparare sale e pepe a piacere. Puoi anche aggiungere altre spezie e condimenti a tua scelta.\n\nPassaggio 2: preparare il piatto\n1. Scaldare l'olio d'oliva a fuoco medio in una padella o una casseruola.\n2. Aggiungi la cipolla affettata nella padella e friggi fino a quando diventa traslucida e tenera, circa 5 minuti.\n3. Successivamente, aggiungi le carote e i peperoni nella padella. Friggere le verdure insieme alle cipolle fino a quando saranno morbide ma manterranno la loro forma. Ci vorranno circa 10-15 minuti.\n4. Salare, pepare le verdure e aggiungere eventuali altre spezie a piacere. Mescolare per distribuire uniformemente i condimenti.\n5. Metti il ​​pesce gatto sopra le verdure nella padella. Cuocere il pesce insieme alle verdure per 15-20 minuti fino a cottura ultimata. Tieni presente che il tempo di cottura può variare a seconda dello spessore del pezzo di pesce. Il pesce dovrebbe diventare tenero e separarsi facilmente dalle lische.\n6. Controlla che il pesce gatto e le verdure siano pronti. Assicuratevi che il pesce sia completamente cotto e che le verdure siano morbide ma non si sfaldino.\n7. Il piatto di pesce gatto e verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPuoi anche aggiungere salsa al limone o una salsa di erbe fresche e aglio per dare al piatto un sapore più brillante. Godere!"
 
 #. Key:	Cheesecakes
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4379,14 +4379,14 @@ msgstr "Le cheesecake sono un piatto popolare spesso servito a colazione o come 
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Chicken_with_vegetables"
 msgid "Chicken with vegetables"
-msgstr ""
+msgstr "Pollo con verdure"
 
 #. Key:	Chicken_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Chicken_with_vegetablesText"
 msgid "Chicken is a popular and delicious product that can be used to cook a variety of dishes. Here is a detailed recipe for chicken dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take 500 g of chicken fillet and cut it into small pieces or strips.\r\n- Peel and cut 1 onion into small cubes.\r\n- Take 2-3 cloves of garlic and mince them.\r\n- Measure out 2 tablespoons of vegetable oil.\r\n- Prepare salt, pepper and any other spices according to taste.\r\n\r\nStep 2: Cooking\r\n1. In a deep skillet, heat the vegetable oil over medium heat.\r\n2. Add the sliced chicken fillets to the skillet and fry them until golden, stirring occasionally. This should take about 5-7 minutes.\r\n3. Add the chopped onion and garlic to the skillet to the chicken. Continue cooking the dish until the onions are soft and golden. This is another 5 minutes.\r\n4. Salt and pepper the chicken and vegetables to taste, add any other spices or herbs you like. Stir all the ingredients to evenly distribute the spices.\r\n5. Cover the skillet with a lid and braise the dish over medium heat for about 10-15 minutes, stirring occasionally. If the chicken starts to burn, add a little water or broth.\r\n6. Check the readiness of the chicken by cutting one piece - it should be tender and juicy.\r\n7. The chicken dish is ready! Serve it hot with a side dish of your choice: boiled rice, mashed potatoes, vegetable salad or pasta.\r\n\r\nYou can add different vegetables such as carrots, bell peppers or mushrooms to this dish to give it more variety. Chicken with vegetables is a simple, tasty and nutritious dish that the whole family or guests will enjoy."
-msgstr ""
+msgstr "Il pollo è un prodotto popolare e delizioso che può essere utilizzato per cucinare una varietà di piatti. Ecco una ricetta dettagliata per il piatto di pollo.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete 500 g di filetto di pollo e tagliatelo a pezzetti o listarelle.\n- Sbucciare e tagliare 1 cipolla a cubetti.\n- Prendete 2-3 spicchi d'aglio e tritateli.\n- Misurare 2 cucchiai di olio vegetale.\n- Preparare sale, pepe ed eventuali altre spezie a piacere.\n\nPassaggio 2: cottura\n1. In una padella profonda, scalda l'olio vegetale a fuoco medio.\n2. Aggiungi i filetti di pollo a fette nella padella e friggili fino a doratura, mescolando di tanto in tanto. Dovrebbero essere necessari circa 5-7 minuti.\n3. Aggiungi la cipolla e l'aglio tritati nella padella al pollo. Continuare la cottura finché le cipolle non saranno morbide e dorate. Sono altri 5 minuti.\n4. Salare e pepare il pollo e le verdure a piacere, aggiungere altre spezie o erbe aromatiche a piacere. Mescolare tutti gli ingredienti per distribuire uniformemente le spezie.\n5. Copri la padella con un coperchio e fai brasare la pirofila a fuoco medio per circa 10-15 minuti, mescolando di tanto in tanto. Se il pollo comincia a bruciarsi aggiungete un po' d'acqua o brodo.\n6. Controlla la prontezza del pollo tagliando un pezzo: dovrebbe essere tenero e succoso.\n7. Il piatto di pollo è pronto! Servitela calda con un contorno a vostra scelta: riso bollito, purè di patate, insalata di verdure o pasta.\n\nPuoi aggiungere diverse verdure come carote, peperoni o funghi a questo piatto per dargli più varietà. Il pollo con verdure è un piatto semplice, gustoso e nutriente che piacerà a tutta la famiglia o agli ospiti."
 
 #. Key:	Cookfood
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4442,14 +4442,14 @@ msgstr "Le patate fritte sono un piatto classico preparato friggendo le fette o 
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Goose_with_vegetables"
 msgid "Goose with vegetables"
-msgstr ""
+msgstr "Oca con verdure"
 
 #. Key:	Goose_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Goose_with_vegetablesText"
 msgid "The dish of goose with vegetables is exquisite and delicious. Here is a detailed recipe for its preparation.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take 1-1.5 kg of goose meat and cut it into portioned pieces or into individual pieces with bones.\r\n- Peel and cut 1 onion into small cubes.\r\n- Take 2-3 cloves of garlic and mince them.\r\n- Measure 2 tablespoons of vegetable oil.\r\n- Prepare the vegetables: take 2-3 carrots, 2-3 potatoes, 1 processed cheese and 1 tablespoon of flour.\r\n- Prepare herbs (parsley or dill) to decorate the dish.\r\n- Prepare salt, pepper and any other spices to taste.\r\n\r\nStep 2: Cooking\r\n1. In a large deep skillet or saucepan, heat vegetable oil over medium heat.\r\n2. Add the sliced goose pieces to the skillet and fry them until golden on all sides. This will take about 5-7 minutes.\r\n3. Add the chopped onion and garlic to the skillet with the goose. Continue cooking the dish until the onions are translucent and flavorful. This is another 5 minutes.\r\n4. Salt and pepper the goose and onions to taste, add any other spices or herbs you like. Stir all the ingredients to evenly distribute the spices.\r\n5. Add the carrots and potatoes to the skillet with the goose. Continue cooking the vegetables and meat together until the vegetables are soft and baked. This should take about 20-25 minutes.\r\n6. In a separate skillet, melt the melted cheese and add the flour. Stirring constantly, cook the sauce until thickened.\r\n7. Add the cooked sauce to the goose and vegetables, mix all ingredients.\r\n8. Cover the skillet with a lid and cook the dish over medium heat for 10-15 minutes to allow the sauce to penetrate the goose and vegetables.\r\n9. Check the readiness of the goose and vegetables, making sure they are soft and juicy.\r\n10. The goose and vegetable dish is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can complement this dish with a sauce or side dish of your choice. You can also add other vegetables such as broccoli or mushrooms to give it more variety. This exquisite dish will be a great decoration for your table and will be enjoyed by all connoisseurs of culinary delights."
-msgstr ""
+msgstr "Il piatto d'oca con verdure è squisito e delizioso. Ecco la ricetta dettagliata per la sua preparazione.\n\nPassaggio 1: preparare gli ingredienti\n- Prendere 1-1,5 kg di carne d'oca e tagliarla in pezzi porzionati o in pezzi singoli con le ossa.\n- Sbucciare e tagliare 1 cipolla a cubetti.\n- Prendete 2-3 spicchi d'aglio e tritateli.\n- Misurare 2 cucchiai di olio vegetale.\n- Preparare le verdure: prendere 2-3 carote, 2-3 patate, 1 formaggio fuso e 1 cucchiaio di farina.\n- Preparare le erbe aromatiche (prezzemolo o aneto) per decorare il piatto.\n- Preparare sale, pepe ed eventuali altre spezie a piacere.\n\nPassaggio 2: cottura\n1. In una padella o casseruola ampia e profonda, scaldare l'olio vegetale a fuoco medio.\n2. Aggiungi i pezzi d'oca affettati nella padella e friggili finché non saranno dorati su tutti i lati. Ci vorranno circa 5-7 minuti.\n3. Aggiungi la cipolla e l'aglio tritati nella padella con l'oca. Continuare a cuocere il piatto finché le cipolle non saranno traslucide e saporite. Sono altri 5 minuti.\n4. Salare e pepare l'oca e le cipolle a piacere, aggiungere altre spezie o erbe aromatiche a piacere. Mescolare tutti gli ingredienti per distribuire uniformemente le spezie.\n5. Aggiungi le carote e le patate nella padella con l'oca. Continuate a cuocere insieme le verdure e la carne fino a quando le verdure saranno morbide e cotte. Dovrebbero volerci circa 20-25 minuti.\n6. In una padella separata, sciogliere il formaggio fuso e aggiungere la farina. Mescolando continuamente, cuocere la salsa finché non si sarà addensata.\n7. Aggiungi la salsa cotta all'oca e alle verdure, mescola tutti gli ingredienti.\n8. Copri la padella con un coperchio e cuoci la pirofila a fuoco medio per 10-15 minuti per consentire alla salsa di penetrare nell'oca e nelle verdure.\n9. Controlla la prontezza dell'oca e delle verdure, assicurandoti che siano morbide e succose.\n10. Il piatto d'oca e verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPotete completare questo piatto con una salsa o un contorno a vostra scelta. Puoi aggiungere anche altre verdure come broccoli o funghi per dare più varietà. Questo piatto squisito sarà un'ottima decorazione per la tua tavola e sarà apprezzato da tutti gli intenditori di delizie culinarie."
 
 #. Key:	Ingredients
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4463,28 +4463,28 @@ msgstr "Ingredienti"
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Mackerel_with_vegetables"
 msgid "Mackerel with vegetables"
-msgstr ""
+msgstr "Sgombro con verdure"
 
 #. Key:	Mackerel_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Mackerel_with_vegetablesText"
 msgid "Mackerel with vegetables is an exquisite dish that combines juicy and flavorful mackerel meat with fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take fresh mackerel and rinse it well under cold water. After that, dry the fish with a paper towel.\r\n- Peel and chop the vegetables. You can use carrots, cauliflower, broccoli, sweet peppers, zucchini or other preferred vegetables.\r\n- Prepare the onion: take 1 medium onion and cut it into half rings.\r\n- Prepare the herbs (parsley, dill or basil) to decorate the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt and pepper to taste.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a skillet or saucepan.\r\n2. Add the sliced onion to the skillet and fry until translucent and tender, about 5 minutes.\r\n3. Add the vegetables to the skillet and fry them along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and add any other spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the mackerel on top of the vegetables in the skillet. Cook the fish along with the vegetables for 10-15 minutes until cooked through.\r\n6. Check the mackerel and vegetables are cooked through, making sure the fish is easily separated from the bone and the vegetables are soft but not falling apart.\r\n7. The mackerel dish with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can add sauces such as lemon sauce or butter and garlic to the dish to give it more flavor. You can also experiment with different vegetables and spices to create a unique combination of flavors. This dish is great for dinner or a special meal."
-msgstr ""
+msgstr "Lo sgombro alle verdure è un piatto squisito che unisce la carne di sgombro succosa e saporita alle verdure fresche. Di seguito è riportata una descrizione dettagliata di questo piatto.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete lo sgombro fresco e sciacquatelo bene sotto l'acqua fredda. Successivamente, asciuga il pesce con un tovagliolo di carta.\n- Sbucciare e tritare le verdure. Potete utilizzare carote, cavolfiori, broccoli, peperoni, zucchine o altre verdure a vostra scelta.\n- Preparare la cipolla: prendere 1 cipolla media e tagliarla a semianelli.\n- Preparare le erbe aromatiche (prezzemolo, aneto o basilico) per decorare il piatto.\n- Misurare 2 cucchiai di olio d'oliva.\n- Preparare sale e pepe a piacere.\n\nPassaggio 2: preparare il piatto\n1. Scaldare l'olio d'oliva a fuoco medio in una padella o una casseruola.\n2. Aggiungi la cipolla affettata nella padella e friggi fino a quando diventa traslucida e tenera, circa 5 minuti.\n3. Aggiungi le verdure nella padella e friggile insieme alle cipolle fino a renderle morbide ma mantenendo la loro forma. Ci vorranno circa 10-15 minuti.\n4. Salare, pepare le verdure e aggiungere eventuali altre spezie a piacere. Mescolare per distribuire uniformemente i condimenti.\n5. Metti gli sgombri sopra le verdure nella padella. Cuocere il pesce insieme alle verdure per 10-15 minuti fino a cottura ultimata.\n6. Controllate che gli sgombri e le verdure siano cotti, assicurandovi che il pesce si separi facilmente dalle lische e che le verdure siano morbide ma non si sfaldino.\n7. Il piatto di sgombro con verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPuoi aggiungere al piatto salse come salsa al limone o burro e aglio per dargli più sapore. Puoi anche sperimentare diverse verdure e spezie per creare una combinazione unica di sapori. Questo piatto è ottimo per una cena o un pasto speciale."
 
 #. Key:	Mutton_with_vegetables
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Mutton_with_vegetables"
 msgid "Mutton with vegetables"
-msgstr ""
+msgstr "Montone con verdure"
 
 #. Key:	Mutton_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Mutton_with_vegetablesText"
 msgid "Mutton with vegetables is an appetizing and hearty dish that can be prepared with a variety of vegetables. Here is a detailed recipe for its preparation.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take about 1-1.5 kg of mutton and cut it into portioned pieces.\r\n- Peel and cut 2 large onions into half rings.\r\n- Take 3-4 cloves of garlic and mince them.\r\n- Measure out 3 tablespoons of vegetable oil.\r\n- Prepare the vegetables: take 2-3 carrots, 2-3 potatoes, 1-2 peppers (colored), 1 eggplant and 1-2 zucchini. It is better to cut the vegetables into cubes or half rings so that they cook evenly.\r\n- For seasoning, take salt, pepper, paprika and any other spices to taste.\r\n- Prepare herbs (parsley or cilantro) to garnish the dish.\r\n\r\nStep 2: Prepare the dish\r\n1. In a large pot or skillet, heat vegetable oil over medium heat.\r\n2. Add the sliced lamb to the pan and fry it until golden on all sides. This will take about 5-7 minutes. Remove the fried lamb to a plate.\r\n3. In the same pot or pan, add the chopped onion and garlic. Fry them until transparent and fragrant, this will take another 5 minutes.\r\n4. Salt, pepper and add the rest of the spices to taste. Stir all the ingredients together.\r\n5. Add the carrots, potatoes and the rest of the chopped vegetables to the pot with the onion and garlic. Continue to cook the vegetables and stir fry them for 10 minutes so that they become soft but still hold their shape.\r\n6. Return the roasted lamb to the pot with the vegetables and mix all the ingredients.\r\n7. Cover the pot with a lid and cook the dish over medium heat for 30-40 minutes to allow the lamb to become soft and juicy and the vegetables to soak up the flavors and seasonings.\r\n8. Check the readiness of the lamb and vegetables, making sure they are soft and well soaked in the sauce.\r\n9. The lamb dish with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can top this dish with toppings or sauces of your choice. You can also add other vegetables like mushrooms or sweet peppers to give it more variety. This hearty and tasty dish will be a great choice for a holiday dinner or dinner with family."
-msgstr ""
+msgstr "La carne di montone con verdure è un piatto appetitoso e sostanzioso che può essere preparato con una varietà di verdure. Ecco la ricetta dettagliata per la sua preparazione.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete circa 1-1,5 kg di carne di montone e tagliatela a pezzi porzionati.\n- Sbucciare e tagliare 2 cipolle grandi a semianelli.\n- Prendete 3-4 spicchi d'aglio e tritateli.\n- Misurare 3 cucchiai di olio vegetale.\n- Preparare le verdure: prendere 2-3 carote, 2-3 patate, 1-2 peperoni (colorati), 1 melanzana e 1-2 zucchine. È meglio tagliare le verdure a cubetti o semianelli in modo che cuociano in modo uniforme.\n- Per condire, prendere sale, pepe, paprika e altre spezie a piacere.\n- Preparare le erbe aromatiche (prezzemolo o coriandolo) per guarnire il piatto.\n\nPassaggio 2: preparare il piatto\n1. In una pentola capiente o in una padella, scalda l'olio vegetale a fuoco medio.\n2. Aggiungere l'agnello a fette nella padella e friggerlo finché non sarà dorato su tutti i lati. Ci vorranno circa 5-7 minuti. Rimuovi l'agnello fritto in un piatto.\n3. Nella stessa pentola o padella, aggiungere la cipolla e l'aglio tritati. Friggerli fino a renderli trasparenti e fragranti, ci vorranno altri 5 minuti.\n4. Salare, pepare e aggiungere il resto delle spezie a piacere. Mescolare tutti gli ingredienti insieme.\n5. Aggiungere le carote, le patate e il resto delle verdure tritate nella pentola con la cipolla e l'aglio. Continuate a cuocere le verdure e fatele saltare in padella per 10 minuti in modo che diventino morbide ma mantengano la loro forma.\n6. Rimetti l'agnello arrosto nella pentola con le verdure e mescola tutti gli ingredienti.\n7. Coprite la pentola con un coperchio e fate cuocere la pirofila a fuoco medio per 30-40 minuti per permettere all'agnello di diventare morbido e succoso e alle verdure di assorbire sapori e condimenti.\n8. Controlla la prontezza dell'agnello e delle verdure, assicurandoti che siano morbide e ben inzuppate nella salsa.\n9. Il piatto di agnello con verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPuoi completare questo piatto con condimenti o salse a tua scelta. Puoi anche aggiungere altre verdure come funghi o peperoni per dare più varietà. Questo piatto abbondante e gustoso sarà un'ottima scelta per una cena festiva o una cena con la famiglia."
 
 #. Key:	NoIngredients
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4526,28 +4526,28 @@ msgstr "La pasta alla Flotsky è un classico piatto russo dall'esecuzione sempli
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Perch_with_vegetables"
 msgid "Perch with vegetables"
-msgstr ""
+msgstr "Pesce persico con verdure"
 
 #. Key:	Perch_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Perch_with_vegetablesText"
 msgid "Perch with vegetables is a delicious and healthy dish that combines tender meat of perch and fresh flavor of vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Preparing the ingredients\r\n- Take fresh perch, wash it and divide it into portioned pieces.\r\n- Peel and chop the vegetables. You can use carrots, cauliflower, broccoli, sweet peppers, zucchini or any other preferred vegetables.\r\n- Prepare the onion: take 1 medium onion and cut it into half rings.\r\n- Prepare the herbs (parsley, dill or basil) to garnish the dish.\r\n- Measure out 2 tablespoons of olive oil.\r\n- Prepare salt, pepper and any other spices to taste.\r\n\r\nStep 2: Prepare the dish\r\n1. Heat the olive oil over medium heat in a deep skillet or saucepan.\r\n2. Add the sliced onions to the skillet and fry them until transparent and tender, this will take about 5 minutes.\r\n3. Add the chopped vegetables to the skillet and fry them along with the onions until soft but still holding their shape. This will take about 10-15 minutes.\r\n4. Salt, pepper the vegetables and sprinkle spices to taste. Stir to evenly distribute the seasonings.\r\n5. Place the portioned pieces of perch on top of the vegetables in the skillet. Cook them along with the vegetables for 8-10 minutes until the fish is cooked through.\r\n6. Check the perch and vegetables for doneness, making sure the fish is easily separated from the bone and the vegetables are soft but not falling apart.\r\n7. The dish of perch with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can add sauces such as lemon sauce or butter and garlic to the dish to give it more flavor. You can also experiment with different vegetables and spices to create a unique combination of flavors. This dish is perfect for a healthy and balanced lunch or dinner."
-msgstr ""
+msgstr "Il pesce persico con verdure è un piatto delizioso e salutare che unisce la carne tenera del pesce persico e il sapore fresco delle verdure. Di seguito è riportata una descrizione dettagliata di questo piatto.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete il persico fresco, lavatelo e dividetelo in porzioni.\n- Sbucciare e tritare le verdure. Puoi utilizzare carote, cavolfiori, broccoli, peperoni, zucchine o qualsiasi altra verdura preferita.\n- Preparare la cipolla: prendere 1 cipolla media e tagliarla a semianelli.\n- Preparare le erbe aromatiche (prezzemolo, aneto o basilico) per guarnire il piatto.\n- Misurare 2 cucchiai di olio d'oliva.\n- Preparare sale, pepe ed eventuali altre spezie a piacere.\n\nPassaggio 2: preparare il piatto\n1. Scaldare l'olio d'oliva a fuoco medio in una padella profonda.\n2. Aggiungi le cipolle affettate nella padella e friggile finché diventano trasparenti e tenere, ci vorranno circa 5 minuti.\n3. Aggiungi le verdure tritate nella padella e friggile insieme alle cipolle fino a renderle morbide ma mantenendo la loro forma. Ci vorranno circa 10-15 minuti.\n4. Salare, pepare le verdure e cospargere le spezie a piacere. Mescolare per distribuire uniformemente i condimenti.\n5. Metti i pezzi di pesce persico porzionati sopra le verdure nella padella. Cuocerli insieme alle verdure per 8-10 minuti fino a quando il pesce sarà completamente cotto.\n6. Controllare la cottura del pesce persico e delle verdure, assicurandosi che il pesce si separi facilmente dalle lische e che le verdure siano morbide ma non si sfaldino.\n7. Il piatto di pesce persico con verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPuoi aggiungere al piatto salse come salsa al limone o burro e aglio per dargli più sapore. Puoi anche sperimentare diverse verdure e spezie per creare una combinazione unica di sapori. Questo piatto è perfetto per un pranzo o una cena sana ed equilibrata."
 
 #. Key:	Pike_with_vegetables
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Pike_with_vegetables"
 msgid "Pike with vegetables"
-msgstr ""
+msgstr "Luccio con verdure"
 
 #. Key:	Pike_with_vegetablesText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Pike_with_vegetablesText"
 msgid "Pike with vegetables is a tender and flavorful dish that combines the taste of fish and fresh vegetables. Below is a detailed description of this dish.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take one fresh pike, wash it and cut it into portioned pieces.\r\n- Peel and cut 1 medium onion into half rings.\r\n- Take 2-3 cloves of garlic and mince them.\r\n- Measure out 3 tablespoons of vegetable oil.\r\n- Prepare the vegetables: take 2 carrots, 2 potatoes, 1 paprika (cauliflower) and 1 zucchini. It is better to cut the vegetables into cubes or half-rings, so that they are evenly cooked.\r\n- For seasoning, take salt, pepper, paprika and any other spices to taste.\r\n- Prepare herbs (parsley or dill) to garnish the dish.\r\n\r\nStep 2: Preparation of the dish\r\n1. In a large pot or skillet, heat vegetable oil over medium heat.\r\n2. Add the chopped onion and garlic to the pan and fry them until transparent and fragrant, this will take about 5 minutes.\r\n3. Salt and pepper the pike to taste and add it to the pot with the onion and garlic. Fry the pike on each side until golden.\r\n4. When the pike is cooked through, add the carrots, potatoes and the rest of the chopped vegetables to the pot. Continue to cook the vegetables and stir fry for 10 minutes so that they become soft but still hold their shape.\r\n5. Salt, pepper and add any other spices to taste. Stir all the ingredients in the pot to evenly distribute the seasonings.\r\n6. Cover the pot with a lid and cook the dish over medium heat for 20-25 minutes, until the fish and vegetables are fully cooked.\r\n7. Check the fish and vegetables for doneness by making sure they are soft and well soaked in the sauce.\r\n8. The pike dish with vegetables is ready! Serve it hot, garnished with fresh herbs.\r\n\r\nYou can top this dish with sauces or lemon juice for added freshness. You can also add other vegetables such as mushrooms or sweet peppers to give it more variety. This gourmet and nutritious dish will be a great choice for a special dinner or lunch with family and friends."
-msgstr ""
+msgstr "Il luccio con verdure è un piatto tenero e saporito che unisce il gusto del pesce e delle verdure fresche. Di seguito è riportata una descrizione dettagliata di questo piatto.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete un luccio fresco, lavatelo e tagliatelo a pezzetti.\n- Sbucciare e tagliare 1 cipolla media a semianelli.\n- Prendete 2-3 spicchi d'aglio e tritateli.\n- Misurare 3 cucchiai di olio vegetale.\n- Preparare le verdure: prendere 2 carote, 2 patate, 1 paprika (cavolfiore) e 1 zucchina. È meglio tagliare le verdure a cubetti o semianelli, in modo che siano cotte in modo uniforme.\n- Per condire, prendere sale, pepe, paprika e altre spezie a piacere.\n- Preparare le erbe aromatiche (prezzemolo o aneto) per guarnire il piatto.\n\nPassaggio 2: preparazione del piatto\n1. In una pentola capiente o in una padella, scalda l'olio vegetale a fuoco medio.\n2. Aggiungi la cipolla e l'aglio tritati nella padella e friggili finché diventano trasparenti e fragranti, ci vorranno circa 5 minuti.\n3. Salare e pepare il luccio a piacere e aggiungerlo nella pentola con la cipolla e l'aglio. Friggere il luccio su ciascun lato finché non diventa dorato.\n4. Quando il luccio sarà cotto, aggiungere nella pentola le carote, le patate e il resto delle verdure tritate. Continuate a cuocere le verdure e fatele saltare in padella per 10 minuti in modo che diventino morbide ma mantengano la loro forma.\n5. Salare, pepare e aggiungere eventuali altre spezie a piacere. Mescola tutti gli ingredienti nella pentola per distribuire uniformemente i condimenti.\n6. Copri la pentola con un coperchio e cuoci la pirofila a fuoco medio per 20-25 minuti, fino a quando il pesce e le verdure saranno completamente cotti.\n7. Controllate la cottura del pesce e delle verdure assicurandovi che siano morbidi e ben inzuppati nella salsa.\n8. Il piatto di luccio con verdure è pronto! Servitelo caldo, guarnito con erbe fresche.\n\nPuoi completare questo piatto con salse o succo di limone per una maggiore freschezza. Puoi anche aggiungere altre verdure come funghi o peperoni per dare più varietà. Questo piatto gourmet e nutriente sarà un'ottima scelta per una cena o un pranzo speciale con la famiglia e gli amici."
 
 #. Key:	Pilaf
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4568,28 +4568,28 @@ msgstr "Il plov è un piatto tradizionale che è uno dei simboli della cucina uz
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Pork_cutlets"
 msgid "Pork cutlets"
-msgstr ""
+msgstr "Cotolette di maiale"
 
 #. Key:	Pork_cutletsText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Pork_cutletsText"
 msgid "   - pork\r\n   - 1 onion, diced\r\n   - 2 garlic cloves, chopped\r\n   - 1 egg\r\n   - salt, pepper to taste\r\n   - vegetable oil for frying\r\n\r\nMake minced meat. In a large bowl, mix the minced meat, onion, garlic, and egg. Add salt and pepper to taste. Form cutlets from the resulting mass and fry on a hot frying pan on both sides until golden. Serve the cutlets with a garnish of your choice."
-msgstr ""
+msgstr "- maiale\n   - 1 cipolla tagliata a dadini\n   - 2 spicchi d'aglio, tritati\n   - 1 uovo\n   - sale, pepe a piacere\n   - olio vegetale per friggere\n\nPrepara la carne macinata. In una ciotola capiente, mescolare la carne macinata, la cipolla, l'aglio e l'uovo. Aggiungere sale e pepe a piacere. Formare delle cotolette dalla massa risultante e friggerle su una padella calda su entrambi i lati fino a doratura. Servite le cotolette con un contorno a vostra scelta."
 
 #. Key:	Roast_pork
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Roast_pork"
 msgid "Roast pork"
-msgstr ""
+msgstr "Maiale arrosto"
 
 #. Key:	Roast_porkText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Roast_porkText"
 msgid "   - pork\r\n   - 2 onions, chopped\r\n   - 2 diced carrots\r\n   - 2 diced potatoes\r\n   - 1 tbsp. vegetable oil\r\n   - salt, pepper to taste\r\n\r\n   Heat oil in a frying pan and fry the pork until golden. Add onions, carrots and potatoes, fry for about 5 minutes more. Then add salt and pepper. Stew under a lid for about 20 minutes over low heat until all the food is soft. Serve the roast hot, sprinkled with herbs."
-msgstr ""
+msgstr "- maiale\n   - 2 cipolle, tritate\n   - 2 carote a cubetti\n   - 2 patate a cubetti\n   - 1 cucchiaio. olio vegetale\n   - sale, pepe a piacere\n\n   Scaldare l'olio in una padella e friggere la carne di maiale fino a doratura. Aggiungere cipolle, carote e patate, friggere per altri 5 minuti circa. Quindi aggiungere sale e pepe. Cuocere sotto un coperchio per circa 20 minuti a fuoco basso fino a quando tutto il cibo sarà morbido. Servire l'arrosto caldo, cosparso di erbe aromatiche."
 
 #. Key:	Shchi
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4610,14 +4610,14 @@ msgstr "Lo Shchi è un piatto tradizionale russo che è uno dei simboli della cu
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Stewed_beef_with_vegetable"
 msgid "Stewed beef with vegetable"
-msgstr ""
+msgstr "Manzo in umido con verdure"
 
 #. Key:	Stewed_beef_with_vegetableText
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
 #: /Game/Objects/Texts/Kitchen.Kitchen
 msgctxt "Kitchen,Stewed_beef_with_vegetableText"
 msgid "Stewed beef with vegetables is a classic dish that combines juicy meat and flavorful vegetables. Below is a detailed description of the recipe.\r\n\r\nStep 1: Prepare the ingredients\r\n- Take 1kg of beef and cut it into small pieces.\r\n- Also prepare 1 onion by cutting it into half rings.\r\n- Peel and cut 2 carrots and 2 potatoes into cubes.\r\n- Take 1 bell pepper and cut it into half rings.\r\n- Measure out 2 tablespoons of tomato paste.\r\n- Prepare 2 cups of beef broth.\r\n- Prepare salt, pepper and dry herbs to taste.\r\n\r\nStep 2: Cooking\r\n1. In a deep pan, heat 2 tablespoons of vegetable oil.\r\n2. Fry the beef in it until golden. This will help to enhance the flavor and aroma of the meat.\r\n3. Add onions, carrots, potatoes, peppers, tomato paste and spices. Stir all ingredients so they are evenly distributed.\r\n4- Braise the vegetables and beef together for about 5 minutes, covered with a lid. This will allow the vegetables to soften and release their juices.\r\n5. Once done, pour the beef broth into the pot.\r\n6. Bring the contents of the pot to a boil, and then reduce the heat to medium and braise the dish under a lid for about 1.5-2 hours. Check occasionally to make sure the meat has become soft and juicy.\r\n7. If the dish appears too dry, you can add a little hot water or broth.\r\n8. Ready stewed beef with vegetables can be served hot on the table, sprinkled with herbs for decoration.\r\n\r\nThis dish goes well with a side dish of boiled rice or mashed potatoes. Stewed beef with vegetables has a delicate taste and flavor that will make your lunch or dinner special and delicious."
-msgstr ""
+msgstr "Il manzo in umido con verdure è un piatto classico che unisce carne succosa e verdure saporite. Di seguito la descrizione dettagliata della ricetta.\n\nPassaggio 1: preparare gli ingredienti\n- Prendete 1kg di carne di manzo e tagliatela a pezzetti.\n- Preparare anche 1 cipolla tagliandola a semianelli.\n- Sbucciare e tagliare a cubetti 2 carote e 2 patate.\n- Prendi 1 peperone e taglialo a semianelli.\n- Misurare 2 cucchiai di concentrato di pomodoro.\n- Preparare 2 tazze di brodo di manzo.\n- Preparare sale, pepe ed erbe secche a piacere.\n\nPassaggio 2: cottura\n1. In una padella profonda, scalda 2 cucchiai di olio vegetale.\n2. Friggere la carne fino a doratura. Ciò contribuirà ad esaltare il sapore e l'aroma della carne.\n3. Aggiungi cipolle, carote, patate, peperoni, concentrato di pomodoro e spezie. Mescolare tutti gli ingredienti in modo che siano distribuiti uniformemente.\n4- Far stufare insieme le verdure e la carne per circa 5 minuti, coperto con un coperchio. Questo permetterà alle verdure di ammorbidirsi e rilasciare i loro succhi.\n5. Una volta pronto, versare il brodo di manzo nella pentola.\n6. Portare a ebollizione il contenuto della pentola, quindi ridurre il fuoco a medio e brasare la pirofila sotto il coperchio per circa 1,5-2 ore. Controllate di tanto in tanto che la carne sia diventata morbida e succosa.\n7. Se la pietanza vi sembra troppo asciutta potete aggiungere un po' di acqua calda o brodo.\n8. Il manzo in umido pronto con verdure può essere servito caldo in tavola, cosparso di erbe aromatiche per la decorazione.\n\nQuesto piatto si sposa bene con un contorno di riso bollito o purè di patate. Il manzo in umido con verdure ha un gusto ed un sapore delicato che renderà il vostro pranzo o la vostra cena speciale e prelibato."
 
 #. Key:	Vareniki
 #. SourceLocation:	/Game/Objects/Texts/Kitchen.Kitchen
@@ -4918,14 +4918,14 @@ msgstr "Il vecchio ZIL-130 è un buon fornitore di vecchi rifiuti elettrici dell
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,29Name"
 msgid "Photomode"
-msgstr ""
+msgstr "Modalità foto"
 
 #. Key:	29Text
 #. SourceLocation:	/Game/Objects/Texts/Learning.Learning
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,29Text"
 msgid "Press the P button to call up the photo mod.\r\nThis photo mod allows you to take beautiful screenshots.\r\n\r\nBy pressing the Q button you can call the shortcut menu."
-msgstr ""
+msgstr "Premi il pulsante P per richiamare la modalità foto.\nQuesta mod fotografica ti consente di acquisire bellissimi screenshot.\n\nPremendo il pulsante Q è possibile richiamare il menu di scelta rapida."
 
 #. Key:	2Name
 #. SourceLocation:	/Game/Objects/Texts/Learning.Learning
@@ -5170,119 +5170,119 @@ msgstr "Arriva Gregory."
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,(Beginner)"
 msgid "(Beginner)"
-msgstr ""
+msgstr "(Principiante)"
 
 #. Key:	(Intermediate)
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,(Intermediate)"
 msgid "(Intermediate)"
-msgstr ""
+msgstr "(Intermedia)"
 
 #. Key:	(Master)
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,(Master)"
 msgid "(Master)"
-msgstr ""
+msgstr "(Maestro)"
 
 #. Key:	BeginnerLock
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,BeginnerLock"
 msgid "Beginner Lock"
-msgstr ""
+msgstr "Blocco per principianti"
 
 #. Key:	Collected
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,Collected"
 msgid "Collected"
-msgstr ""
+msgstr "Raccolto"
 
 #. Key:	Door
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,Door"
 msgid "Door"
-msgstr ""
+msgstr "Porta"
 
 #. Key:	IntermediateLock
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,IntermediateLock"
 msgid "Intermediate Lock"
-msgstr ""
+msgstr "Blocco intermedio"
 
 #. Key:	Locked
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,Locked"
 msgid "Locked"
-msgstr ""
+msgstr "Chiuso"
 
 #. Key:	Lockpick
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,Lockpick"
 msgid "Lockpick"
-msgstr ""
+msgstr "Grimaldello"
 
 #. Key:	LockpickBox
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,LockpickBox"
 msgid "Lockpick Box"
-msgstr ""
+msgstr "Scatola per grimaldello"
 
 #. Key:	Lockpicks
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,Lockpicks"
 msgid "Lockpicks"
-msgstr ""
+msgstr "Grimaldelli"
 
 #. Key:	MasterLock
 #. SourceLocation:	/Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 #: /Game/LockPicking/Data/Lockpicking_StringTable.Lockpicking_StringTable
 msgctxt "Lockpicking_StringTable,MasterLock"
 msgid "Master Lock"
-msgstr ""
+msgstr "Blocco principale"
 
 #. Key:	Balance
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Balance"
 msgid "Balance"
-msgstr ""
+msgstr "Bilancia"
 
 #. Key:	CoreOptimization
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,CoreOptimization"
 msgid "Game Mode"
-msgstr ""
+msgstr "Modalità di gioco"
 
 #. Key:	CoreOptimizationText
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,CoreOptimizationText"
 msgid "Select your preferred game mode based on the characteristics of your computer.\r\nOn graphics cards below 30 series Nvidia/AMD RX 6700 XT, we recommend setting the Performance option.\r\n\r\nFor best performance, enable DirectX 11 in the game settings."
-msgstr ""
+msgstr "Seleziona la modalità di gioco preferita in base alle caratteristiche del tuo computer.\nSulle schede grafiche Nvidia/AMD RX 6700 XT serie inferiori a 30, consigliamo di impostare l'opzione Prestazioni.\n\nPer prestazioni ottimali, abilita DirectX 11 nelle impostazioni del gioco."
 
 #. Key:	Mobile
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobile"
 
 #. Key:	NewsGame
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,NewsGame"
 msgid "News Game"
-msgstr ""
+msgstr "Nuova Partita"
 
 #. Key:	NvidiaReflex
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5303,14 +5303,14 @@ msgstr "On+Boost"
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Performance"
 msgid "Performance"
-msgstr ""
+msgstr "Prestazioni"
 
 #. Key:	Quality
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Quality"
 msgid "Quality"
-msgstr ""
+msgstr "Qualita'"
 
 #. Key:	QuickMenu
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5387,28 +5387,28 @@ msgstr "Ray Tracing"
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Shader"
 msgid "Shader"
-msgstr ""
+msgstr "Shader"
 
 #. Key:	ShaderText
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,ShaderText"
 msgid "Select your preferred shader, apply the settings and restart the game."
-msgstr ""
+msgstr "Seleziona il tuo shader preferito, applica le impostazioni e riavvia il gioco."
 
 #. Key:	Ultraperformance
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Ultraperformance"
 msgid "Ultra performance"
-msgstr ""
+msgstr "Prestazioni ultra"
 
 #. Key:	Warning
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Warning"
 msgid "Warning"
-msgstr ""
+msgstr "Avvertimento"
 
 #. Key:	1
 #. SourceLocation:	/Game/Objects/Texts/NotesText.NotesText
@@ -5555,7 +5555,7 @@ msgstr "Disegnare graffiti"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Dumpster"
 msgid "Throw in the trash"
-msgstr ""
+msgstr "Gettare nella spazzatura"
 
 #. Key:	ErrorChopping
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5583,7 +5583,7 @@ msgstr "Prima di fare il bagno bisogna accendere il fornello..."
 #: /Game/Objects/Texts/Notice.Notice
 msgctxt "Notice,ErrorSawing"
 msgid "A failed attempt at sawing it off. Try again..."
-msgstr ""
+msgstr "Un tentativo fallito di segarlo. Riprova..."
 
 #. Key:	ErrorWater
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5737,7 +5737,7 @@ msgstr "Una mappa del villaggio è in fase di sviluppo..."
 #: /Game/Objects/Texts/Notice.Notice
 msgctxt "Notice,Medical"
 msgid "Medicaid isn't free, honey :-)"
-msgstr ""
+msgstr "Medicaid non è gratuito, tesoro :-)"
 
 #. Key:	Money
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5807,7 +5807,7 @@ msgstr "Canale precedente"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,PutShelfs"
 msgid "Put it on a shelf"
-msgstr ""
+msgstr "Mettilo su uno scaffale"
 
 #. Key:	Radio
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5884,7 +5884,7 @@ msgstr "Andare a"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Specifythequantity"
 msgid "Specify the quantity"
-msgstr ""
+msgstr "Specificare la quantità"
 
 #. Key:	Stamina
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5940,7 +5940,7 @@ msgstr "Bere"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Throwaway"
 msgid "Throw away"
-msgstr ""
+msgstr "Buttar via"
 
 #. Key:	Time
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -6024,7 +6024,7 @@ msgstr "XeSS (Xe Super Sampling) è una tecnologia di supercampionamento svilupp
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Zoom"
 msgid " - Zoom"
-msgstr "-Ingrandisci  "
+msgstr " -Ingrandisci "
 
 #. Key:	Accept
 #. SourceLocation:	/Game/Objects/Texts/Quests.Quests
@@ -6129,63 +6129,63 @@ msgstr "Resa"
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,Beerbarrel"
 msgid "Beer barrel"
-msgstr ""
+msgstr "Barile Birra"
 
 #. Key:	BeerbarrelText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,BeerbarrelText"
 msgid "A beer keg is a container designed to store and transport beer. It is usually made of stainless steel or aluminum, which ensures durability and tightness.\r\n\r\nA beer keg has a cylindrical shape and can have different sizes and volumes, from a few liters to several hundred liters. It usually has two openings - one for filling the keg with beer and the other for drawing out the beer.\r\n\r\nTo ensure the quality of the beer, the beer keg is equipped with special valves and an airtight lid. The valves allow you to control the pressure inside the keg and draw the beer without access to air. The lid provides protection from external influences such as light or dirt, which ensures the stability and freshness of the beer.\r\n\r\nThe beer keg can be used both for storing beer in breweries or restaurants and for transporting and selling beer at various events - festivals, concerts, sporting events, etc.\r\n\r\nUsing a beer keg has its advantages. Firstly, it saves space - instead of storing many separate bottles or cans, beer can be stored in a single container. Secondly, a beer keg provides better beer quality due to the lack of air access.\r\n\r\nIn addition, using a beer keg can be more environmentally friendly because there is less waste - no need to throw away many empty bottles or cans.\r\n\r\nOverall, a beer keg is a convenient and efficient way to store and sell beer that preserves its freshness, quality and reduces environmental impact."
-msgstr ""
+msgstr "Un fusto di birra è un contenitore progettato per conservare e trasportare la birra. Di solito è realizzato in acciaio inossidabile o alluminio, che garantisce durata e tenuta.\n\nUn fusto di birra ha forma cilindrica e può avere dimensioni e volumi diversi, da pochi litri a diverse centinaia di litri. Di solito ha due aperture: una per riempire il fusto con la birra e l'altra per spillare la birra.\n\nPer garantire la qualità della birra, il fusto di birra è dotato di valvole speciali e di un coperchio ermetico. Le valvole consentono di controllare la pressione all'interno del fusto e spillare la birra senza accesso all'aria. Il coperchio protegge dagli agenti esterni come luce o sporco, garantendo la stabilità e la freschezza della birra.\n\nIl fusto di birra può essere utilizzato sia per conservare la birra in birrifici o ristoranti, sia per trasportare e vendere birra in occasione di vari eventi: festival, concerti, eventi sportivi, ecc.\n\nUsare un fusto di birra ha i suoi vantaggi. In primo luogo, consente di risparmiare spazio: invece di conservare molte bottiglie o lattine separate, la birra può essere conservata in un unico contenitore. In secondo luogo, un fusto di birra fornisce una migliore qualità della birra a causa della mancanza di accesso all'aria.\n\nInoltre, l'utilizzo di un fusto di birra può essere più rispettoso dell'ambiente perché si producono meno rifiuti: non è necessario buttare via molte bottiglie o lattine vuote.\n\nNel complesso, un fusto di birra è un modo conveniente ed efficiente per conservare e vendere birra che ne preserva la freschezza, la qualità e riduce l'impatto ambientale."
 
 #. Key:	Bluemushroom
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,Bluemushroom"
 msgid "Blue mushroom"
-msgstr ""
+msgstr "Fungo blu"
 
 #. Key:	BluemushroomText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,BluemushroomText"
 msgid "Blue mushrooms are a group of mushrooms that are characterized by the presence of blue or blue color on their fruiting bodies. They belong to different families and genera, and their color is due to the presence of certain pigments.\r\n\r\nOne of the best known species of blue fungi is the blue mushroom (Entoloma hochstetteri). It is common in New Zealand and the island of Tasmania. The fruiting bodies of this mushroom have a deep blue color and grow in dense clusters. The blue mushroom is poisonous and is not recommended for eating.\r\n\r\nOther species of blue mushrooms are found in different regions of the world. For example, the tit (Lactarius indigo), a mushroom native to North America, has an intense blue or bluish color on its fruiting bodies. It is edible and has a sweetish flavor.\r\n\r\nBlue mushrooms have a variety of shapes and structures. They may have a cap, stalk and plates or tubes on the underside of the cap. There are small mushrooms as well as large-sized species. Like other fungi, blue fungi fulfill an important ecological role by decomposing organic material and contributing to the food cycle in natural ecosystems.\r\n\r\nIt is important to note that not all blue or blue mushrooms are safe to eat. Many contain toxic compounds or are poisonous. Therefore, you should always consult experienced mushroom pickers or experts before picking and consuming mushrooms to avoid possible poisoning."
-msgstr ""
+msgstr "I funghi blu sono un gruppo di funghi caratterizzati dalla presenza di colore blu o blu sui loro corpi fruttiferi. Appartengono a famiglie e generi diversi e il loro colore è dovuto alla presenza di alcuni pigmenti.\n\nUna delle specie di funghi blu più conosciute è il fungo blu (Entoloma hochstetteri). È comune in Nuova Zelanda e nell'isola della Tasmania. I corpi fruttiferi di questo fungo hanno un colore blu intenso e crescono in densi grappoli. Il fungo blu è velenoso e non è raccomandato per il consumo.\n\nAltre specie di funghi blu si trovano in diverse regioni del mondo. Ad esempio, la cincia (Lactarius indigo), fungo originario del Nord America, presenta sui corpi fruttiferi un colore azzurro intenso o bluastro. È commestibile e ha un sapore dolciastro.\n\nI funghi blu hanno una varietà di forme e strutture. Possono avere un cappello, un gambo e piastre o tubi sul lato inferiore del cappello. Esistono funghi piccoli ma anche specie di grandi dimensioni. Come altri funghi, i funghi blu svolgono un importante ruolo ecologico decomponendo il materiale organico e contribuendo al ciclo alimentare negli ecosistemi naturali.\n\nÈ importante notare che non tutti i funghi blu o blu sono sicuri da mangiare. Molti contengono composti tossici o sono velenosi. Pertanto, dovresti sempre consultare raccoglitori di funghi esperti o esperti prima di raccogliere e consumare funghi per evitare possibili avvelenamenti."
 
 #. Key:	Guitar
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,Guitar"
 msgid "Guitar"
-msgstr ""
+msgstr "Chitarra"
 
 #. Key:	GuitarText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,GuitarText"
 msgid "The guitar is a stringed musical instrument most popular among musicians of all genres and levels of playing. It has a characteristic shape consisting of a body and a fingerboard.\r\n\r\nThe body of the guitar is usually made of wood and has an oval or flat shape. It plays an important role in shaping the sound as it serves as a resonator for the vibrations of the strings. The body can be acoustic, electro-acoustic or electric, depending on the type of guitar.\r\n\r\nThe guitar's fingerboard is a long and thin wooden bar on which the metal fret and strings are located. The fingerboard usually has cross markings to help the musician find the right notes and chords.\r\n\r\nA guitar has 6 to 12 strings that are strung along the entire length of the fingerboard. The strings can be made of metal or nylon, depending on the type of guitar. Various techniques are used to play the guitar such as picking, barricades, bends, fingerpicking, chord strumming and others.\r\n\r\nThe guitar allows you to play many styles of music including classical, rock, pop, jazz, folk and many others. It can be used as a solo instrument or as an accompaniment for vocals and other instruments.\r\n\r\nThe guitar is not only a musical instrument, but also a symbol of freedom and self-expression. It allows the musician to express himself and his emotions through music. Thanks to its availability and popularity, the guitar has become an indispensable means of musical creativity and entertainment for people all over the world."
-msgstr ""
+msgstr "La chitarra è uno strumento musicale a corde molto popolare tra i musicisti di tutti i generi e livelli di esecuzione. Ha una forma caratteristica composta da un corpo e una tastiera.\n\nIl corpo della chitarra è solitamente in legno e ha una forma ovale o piatta. Svolge un ruolo importante nel modellare il suono poiché funge da risonatore per le vibrazioni delle corde. Il corpo può essere acustico, elettroacustico o elettrico, a seconda del tipo di chitarra.\n\nLa tastiera della chitarra è una barra di legno lunga e sottile su cui si trovano i tasti e le corde di metallo. La tastiera di solito ha delle croci per aiutare il musicista a trovare le note e gli accordi giusti.\n\nUna chitarra ha da 6 a 12 corde tese lungo l'intera lunghezza della tastiera. Le corde possono essere in metallo o nylon, a seconda del tipo di chitarra. Per suonare la chitarra vengono utilizzate varie tecniche come il plettro, le barricate, i bending, il fingerpicking, lo strimpellamento di accordi e altre.\n\nLa chitarra ti permette di suonare molti stili musicali tra cui classica, rock, pop, jazz, folk e molti altri. Può essere utilizzato come strumento solista o come accompagnamento per voci e altri strumenti.\n\nLa chitarra non è solo uno strumento musicale, ma anche un simbolo di libertà e di espressione di sé. Permette al musicista di esprimere se stesso e le proprie emozioni attraverso la musica. Grazie alla sua disponibilità e popolarità, la chitarra è diventata un mezzo indispensabile di creatività e intrattenimento musicale per persone di tutto il mondo."
 
 #. Key:	Mishascow
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,Mishascow"
 msgid "Misha's cow"
-msgstr ""
+msgstr "La mucca di Misha"
 
 #. Key:	OldTV
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTV"
 msgid "Old TV"
-msgstr ""
+msgstr "Vecchia televisione"
 
 #. Key:	OldTVText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTVText"
 msgid "An old TV. Can be handed over to a metal depot for 250 rubles."
-msgstr ""
+msgstr "Un vecchio televisore. Può essere consegnato a un deposito di metalli per 250 rubli."
 
 #. Key:	10Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -6269,7 +6269,7 @@ msgstr "Per prendere l'acqua per la nonna"
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,14Text"
 msgid "Honey, please bring me some water from the well or the well. I would really like to drink fresh water to quench my thirst. It will also help me to feel the pleasant sensation of coolness on a hot summer day. "
-msgstr "Tesoro, per favore portami un po' d'acqua dal pozzo o dal pozzo. Vorrei davvero bere acqua fresca per dissetarmi. Mi aiuterà anche a provare la piacevole sensazione di fresco in una calda giornata estiva"
+msgstr "Tesoro, per favore portami un po' d'acqua dal pozzo o dal pozzo. Vorrei davvero bere acqua fresca per dissetarmi. Mi aiuterà anche a provare la piacevole sensazione di fresco in una calda giornata estiva "
 
 #. Key:	15Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -6465,77 +6465,77 @@ msgstr "Saluti e auguri!\nRecentemente c'è stata una festa ad un matrimonio e c
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,25Name"
 msgid "Election campaign. Stage 1"
-msgstr ""
+msgstr "Campagna elettorale. Fase 1"
 
 #. Key:	25Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,25Text"
 msgid "Hello, student!\r\nYou are new to us, and we need new staff in the village!\r\nI propose you to be a candidate for the post of village head. But in order to do that, we need to make the villagers happy.\r\n\r\n1. Offer to help with various tasks and projects that the villagers are doing. This could be helping on the farm, repairing houses, harvesting crops, organizing events, etc.\r\n2. Build a positive reputation: be polite, helpful, and positive in your interactions with residents. Offer solutions to their problems and try to help them in any way you can.\r\n\r\nThe challenge is to earn the trust and support of the residents, show your dedication and ability to effectively manage the village. Good luck with this task and with gaining new staff for the village!\r\n\r\nBut to start campaigning I need to:\r\n1. A loaf - 10 pieces.\r\n2. Pickled tomatoes - 7 cans.\r\n3. Pickled cucumbers - 10 jars.\r\n4. Sauerkraut - 5 jars.\r\n5. Samogon - 30 bottles.\r\n6. Podberezoviki - 50 pieces.\r\n7. Eggs - 100 pieces.\r\n8. Sunflower oil - 5 bottles.\r\n9. Watermelons - 10 pieces.\r\n10. Sausage - 10 pieces."
-msgstr ""
+msgstr "Ciao, studente!\nSei nuovo per noi e abbiamo bisogno di nuovo personale nel villaggio!\nTi propongo di candidarti per il posto di capo villaggio. Ma per fare ciò dobbiamo rendere felici gli abitanti del villaggio.\n\n1. Offrirsi di aiutare con vari compiti e progetti che gli abitanti del villaggio stanno portando avanti. Potrebbe trattarsi di aiutare nella fattoria, riparare case, raccogliere raccolti, organizzare eventi, ecc.\n2. Costruisci una reputazione positiva: sii educato, disponibile e positivo nelle tue interazioni con i residenti. Offri soluzioni ai loro problemi e cerca di aiutarli in ogni modo possibile.\n\nLa sfida è guadagnare la fiducia e il sostegno dei residenti, mostrare la propria dedizione e capacità di gestire efficacemente il villaggio. Buona fortuna con questo compito e con l'acquisizione di nuovo personale per il villaggio!\n\nMa per iniziare la campagna devo:\n1. Una pagnotta - 10 pezzi.\n2. Pomodori in salamoia - 7 lattine.\n3. Cetrioli sottaceto - 10 vasetti.\n4. Crauti - 5 vasetti.\n5. Samogon - 30 bottiglie.\n6. Podberezoviki - 50 pezzi.\n7. Uova - 100 pezzi.\n8. Olio di semi di girasole - 5 bottiglie.\n9. Angurie - 10 pezzi.\n10. Salsiccia - 10 pezzi."
 
 #. Key:	26Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,26Name"
 msgid "Election campaign. Stage 2"
-msgstr ""
+msgstr "Campagna elettorale. Fase 2"
 
 #. Key:	26Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,26Text"
 msgid "Congratulations on completing the first phase of your campaign!\r\nBut there is still a lot of work ahead!\r\n\r\nIt takes serious money to apply for registration. No one in the village has that kind of money, only our current leader, who we are fed up with and want to see fresh faces at the head of the village.\r\n\r\nI hope you will be able to raise the right amount of money."
-msgstr ""
+msgstr "Congratulazioni per aver completato la prima fase della tua campagna!\nMa c’è ancora molto lavoro da fare!\n\nCi vogliono soldi seri per richiedere la registrazione. Nessuno nel villaggio ha tanti soldi, solo il nostro attuale leader, di cui siamo stufi e vogliamo vedere volti nuovi alla guida del villaggio.\n\nSpero che riuscirai a raccogliere la giusta somma di denaro."
 
 #. Key:	27Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,27Name"
 msgid "Election campaign. Stage 3"
-msgstr ""
+msgstr "Campagna elettorale. Fase 3"
 
 #. Key:	27Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,27Text"
 msgid "I'm glad you were able to raise the necessary amount and we can move on to the next phase of your campaign!\r\n\r\nNikolai was afraid of your candidacy and hid the musical instruments of the musicians who wanted to give a concert in your honor and agitated the villagers.\r\n\r\nPlease help us find them."
-msgstr ""
+msgstr "Sono felice che tu sia riuscito a raccogliere l'importo necessario e possiamo passare alla fase successiva della tua campagna!\n\nNikolai aveva paura della tua candidatura e ha nascosto gli strumenti musicali dei musicisti che volevano tenere un concerto in tuo onore, agitando gli abitanti del villaggio.\n\nPer favore aiutaci a trovarli."
 
 #. Key:	28Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,28Completed"
 msgid "Daddy's gonna feed everybody!"
-msgstr ""
+msgstr "Papà darà da mangiare a tutti!"
 
 #. Key:	28Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,28Name"
 msgid "Election campaign. Stage 4"
-msgstr ""
+msgstr "Campagna elettorale. Fase 4"
 
 #. Key:	28Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,28Text"
 msgid "Let's keep our fingers crossed, shall we?\r\nLet's give people a drink and a snack before the vote.\r\nAccording to the poll, you're in the lead for village chairman."
-msgstr ""
+msgstr "Teniamo le dita incrociate, ok?\nDiamo da bere e da mangiare alla gente prima del voto.\nSecondo il sondaggio sei in testa alla carica di presidente del villaggio."
 
 #. Key:	29Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,29Name"
 msgid "Elections"
-msgstr ""
+msgstr "Elezioni"
 
 #. Key:	29Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,29Text"
 msgid "What's up, student? Congratulations on your convincing victory!\r\nI hope our village will bloom with new colors!"
-msgstr ""
+msgstr "Che succede, studente? Congratulazioni per la tua vittoria convincente!\nSpero che il nostro villaggio fiorisca di nuovi colori!"
 
 #. Key:	2Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -6563,140 +6563,140 @@ msgstr "Le volpi hanno invaso la mia proprietà e rubato le mie galline.\nTi chi
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,30Name"
 msgid "A collection of jokes about America"
-msgstr ""
+msgstr "Una raccolta di barzellette sull'America"
 
 #. Key:	30Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,30Text"
 msgid "Hi!\r\nI have a gig coming up and I've lost a compilation of the best selections of jokes about America.... Help me find it!"
-msgstr ""
+msgstr "Ciao!"
 
 #. Key:	31Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,31Name"
 msgid "Find the cow I'm milking"
-msgstr ""
+msgstr "Trova la mucca che sto mungendo"
 
 #. Key:	31Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,31Text"
 msgid "Hello, traveler!\r\nNot too long ago I was walking through the countryside with my favorite cow that I milk. She got a little behind me and I lost sight of her.\r\nCould you please find her for me - she is very special to me - and tell me where she is.\r\nI wouldn't want anyone from the village to milk her. She's my cow - and I milk her."
-msgstr ""
+msgstr "Ciao, viaggiatore!\nNon molto tempo fa stavo passeggiando per la campagna con la mia mucca preferita che mungo. Si è messa un po' dietro di me e l'ho persa di vista.\nPotresti per favore trovarmela - lei è molto speciale per me - e dirmi dov'è.\nNon vorrei che qualcuno del villaggio la mungesse. Lei è la mia mucca e io la mungo."
 
 #. Key:	32Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,32Name"
 msgid "Restoration of the railroad station. Part 1"
-msgstr ""
+msgstr "Restauro della stazione ferroviaria. Parte 1"
 
 #. Key:	32Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,32Text"
 msgid "Hello.\r\nWe want to rebuild our railroad station.\r\nBut first we need to collect the logs that are blocking the railroad tracks.\r\nCan you help me with that?"
-msgstr ""
+msgstr "Ciao.\nVogliamo ricostruire la nostra stazione ferroviaria.\nMa prima dobbiamo raccogliere i tronchi che bloccano i binari della ferrovia.\nPuoi aiutarmi?"
 
 #. Key:	33Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,33Name"
 msgid "Restoration of the railroad station. Part 2"
-msgstr ""
+msgstr "Restauro della stazione ferroviaria. Parte 2"
 
 #. Key:	33Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,33Text"
 msgid "You did good!\r\nNow we need planks and stone to rebuild the depot."
-msgstr ""
+msgstr "Hai fatto bene!\nOra abbiamo bisogno di assi e pietre per ricostruire il deposito."
 
 #. Key:	34Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,34Name"
 msgid "Kindergarten"
-msgstr ""
+msgstr "Asilo"
 
 #. Key:	34Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,34Text"
 msgid "Hi!\r\nSoon our little kindergarteners will be going to kindergarten.\r\nBut there is quite a lot of garbage accumulated on its territory.\r\nCould you help me clean it up?"
-msgstr ""
+msgstr "CIAO!\nPresto i nostri piccoli bambini dell'asilo andranno all'asilo.\nMa c'è molta spazzatura accumulata sul suo territorio.\nPotresti aiutarmi a ripulirlo?"
 
 #. Key:	35Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,35Name"
 msgid "Berries for the little kindergartners"
-msgstr ""
+msgstr "Bacche per i più piccoli dell'asilo"
 
 #. Key:	35Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,35Text"
 msgid "Thank you for your help.\r\nI would also like to ask you to pick berries for our little ones.\r\nThey often get sick in the fall and could use vitamins to strengthen the immunity of their growing bodies.\r\nI will make them delicious compotes and jam from the berries you have collected."
-msgstr ""
+msgstr "Grazie per l'aiuto.\nVorrei anche chiedervi di raccogliere le bacche per i nostri piccoli.\nSpesso si ammalano in autunno e potrebbero usare le vitamine per rafforzare l'immunità dei loro corpi in crescita.\nLi preparerò deliziose composte e marmellate con le bacche che hai raccolto."
 
 #. Key:	36Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,36Name"
 msgid "Ear for the little kindergartners"
-msgstr ""
+msgstr "Orecchio per i piccoli dell'asilo"
 
 #. Key:	36Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,36Text"
 msgid "Thank you for bringing me berries for our kindergartners.\r\nBut can I ask you something else?\r\nThere are quite a lot of fish in our lake and the kids could use some phosphorus and fish oil.\r\nCan you catch us 3 pike and 2 catfish?"
-msgstr ""
+msgstr "Grazie per avermi portato le bacche per i nostri bambini dell'asilo.\nMa posso chiederti un'altra cosa?\nCi sono molti pesci nel nostro lago e ai bambini farebbe bene un po' di fosforo e olio di pesce.\nRiesci a prenderci 3 lucci e 2 pesci gatto?"
 
 #. Key:	37Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,37Name"
 msgid "Moonshiners"
-msgstr ""
+msgstr "Distillatori"
 
 #. Key:	37Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,37Text"
 msgid "Hello, friend!\r\nMe and my two friends need a hangover! But not with anything, but with moonshine!\r\nCan you help us?"
-msgstr ""
+msgstr "Ciao amico!\nIo e i miei due amici abbiamo bisogno dei postumi di una sbornia! Ma non con niente, ma con il chiaro di luna!\nPuoi aiutarci?"
 
 #. Key:	38Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,38Name"
 msgid "Beer master"
-msgstr ""
+msgstr "Maestro della birra"
 
 #. Key:	38Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,38Text"
 msgid "Hello, comrade!\r\nThe festival ended not long ago. And it's time to collect all the used beer kegs.\r\nAll my helpers have already gone home and I have no one to ask for help but you.\r\nWill you help me collect them?"
-msgstr ""
+msgstr "Ciao, compagno!\nIl festival si è concluso non molto tempo fa. Ed è il momento di raccogliere tutti i fusti di birra usati.\nTutti i miei aiutanti sono già andati a casa e non ho nessuno a cui chiedere aiuto tranne te.\nMi aiuti a raccoglierli?"
 
 #. Key:	39Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,39Name"
 msgid "Bring a girl a fish"
-msgstr ""
+msgstr "Porta un pesce a una ragazza"
 
 #. Key:	39Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,39Text"
 msgid "Thank you for your help, darling!\r\nI'm so tired and would like some fresh fish.\r\nWill you give the girl some fish?"
-msgstr ""
+msgstr "Grazie per il tuo aiuto, tesoro!\nSono così stanco e vorrei del pesce fresco.\nDarai del pesce alla ragazza?"
 
 #. Key:	3Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -6717,147 +6717,147 @@ msgstr "Ciao!\nSei nuovo?\nAndiamo da nonno Maxim a bere il moonshine. Fa il mig
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,40Name"
 msgid "Miller"
-msgstr ""
+msgstr "Mugnaio"
 
 #. Key:	40Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,40Text"
 msgid "Our decorative mill broke down.\r\nI've been wanting to fix it for a long time, but never got around to it.\r\nNow I'm busy, too. Could you help me?"
-msgstr ""
+msgstr "Il nostro mulino decorativo si è rotto.\nEra da molto tempo che volevo sistemarlo, ma non ci sono mai riuscito.\nAdesso sono occupato anch'io. Potresti aiutarmi?"
 
 #. Key:	41Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,41Name"
 msgid "To help the hospital. Part 1"
-msgstr ""
+msgstr "Per aiutare l'ospedale. Parte 1"
 
 #. Key:	41Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,41Text"
 msgid "Greetings, Ivan!\r\nOur hospital gets sick people from time to time. \r\nThe other day they want to bring us a large batch of patients from the region. But there is nothing to feed them because we have a very limited budget.\r\nCould you cook and bring us some food?"
-msgstr ""
+msgstr "Saluti, Ivan!\nIl nostro ospedale riceve malati di tanto in tanto.\nL'altro giorno vogliono portarci un grosso gruppo di pazienti della regione. Ma non c’è niente per sfamarli perché abbiamo un budget molto limitato.\nPotresti cucinare e portarci del cibo?"
 
 #. Key:	42Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,42Name"
 msgid "To help the hospital. Part 2"
-msgstr ""
+msgstr "Per aiutare l'ospedale. Parte 2"
 
 #. Key:	42Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,42Text"
 msgid "Thank you so much!\r\nNow we have to make dinner.\r\nHere's a list of what you need to eat:\r\n1. Borscht - 7 servings.\r\n2. Bread - 7 loaves.\r\n3. Water - 50 liters.\r\n4. Various berries."
-msgstr ""
+msgstr "Grazie mille!\nOra dobbiamo preparare la cena.\nEcco un elenco di ciò che devi mangiare:\n1. Borscht - 7 porzioni.\n2. Pane: 7 pagnotte.\n3. Acqua: 50 litri.\n4. Bacche varie."
 
 #. Key:	43Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,43Name"
 msgid "To help the hospital. Part 3"
-msgstr ""
+msgstr "Per aiutare l'ospedale. Parte 3"
 
 #. Key:	43Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,43Text"
 msgid "Thank you so much!\r\nNow we need to make dinner.\r\nHere's a list of what you need to eat:\r\n1. Bread - 7 loaves.\r\n2. Water - 50 liters.\r\n3. Various fish."
-msgstr ""
+msgstr "Grazie mille!\nAdesso dobbiamo preparare la cena.\nEcco un elenco di ciò che devi mangiare:\n1. Pane - 7 pagnotte.\n2. Acqua: 50 litri.\n3. Vari pesci."
 
 #. Key:	44Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,44Name"
 msgid "Assistant"
-msgstr ""
+msgstr "Assistente"
 
 #. Key:	44Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,44Text"
 msgid "Hello!\r\nCan I ask you a favor: will you bring me some humus, sheep's wool and salt?"
-msgstr ""
+msgstr "Ciao!\nPosso chiederti un favore: mi porti dell'humus, della lana di pecora e del sale?"
 
 #. Key:	45Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,45Completed"
 msgid "Darling, you're going to become a very important person in the village."
-msgstr ""
+msgstr "Tesoro, diventerai una persona molto importante nel villaggio."
 
 #. Key:	45Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,45Name"
 msgid "Fortune-telling"
-msgstr ""
+msgstr "Cartomanzia"
 
 #. Key:	45Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,45Text"
 msgid "Hello, darling!\r\nWould you like me to read your hand? I'll tell you the whole truth!\r\nDon't be stingy, darling."
-msgstr ""
+msgstr "Ciao cara!\nVuoi che ti legga la mano? Ti dirò tutta la verità!\nNon essere avaro, tesoro."
 
 #. Key:	46Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,46Name"
 msgid "To bring honey to the legend"
-msgstr ""
+msgstr "Per portare il miele nella leggenda"
 
 #. Key:	46Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,46Text"
 msgid "I'm going hunting and will be back soon.\r\nI would like to see a jar of quality country honey on my table.\r\nI'll thank you well for that."
-msgstr ""
+msgstr "Vado a caccia e tornerò presto.\nVorrei vedere sulla mia tavola un vasetto di miele di campagna di qualità.\nTi ringrazierò per questo."
 
 #. Key:	47Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,47Name"
 msgid "Man of Steel. Part 1"
-msgstr ""
+msgstr "Uomo d'acciaio. Parte 1"
 
 #. Key:	47Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,47Text"
 msgid "Hello, friend!\r\nI hear you are a strong and brave hunter and not afraid to go into the woods.\r\nI am afraid to go there myself, for I am afraid to meet green crystals, as they annoy me.\r\nBring me five deer pelts, please."
-msgstr ""
+msgstr "Ciao amico!\nHo sentito che sei un cacciatore forte e coraggioso e non hai paura di addentrarti nei boschi.\nHo paura di andarci io stesso, perché ho paura di incontrare i cristalli verdi, perché mi danno fastidio.\nPortami cinque pelli di cervo, per favore."
 
 #. Key:	48Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,48Name"
 msgid "Man of Steel. Part 2"
-msgstr ""
+msgstr "Uomo d'acciaio. Parte 2"
 
 #. Key:	48Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,48Text"
 msgid "I see you did your job! Thank you!\r\nCan you get me five wolf pelts?\r\n\r\nThat would be a good way to keep our settlement safe from predators."
-msgstr ""
+msgstr "Vedo che hai fatto il tuo lavoro! Grazie!\nPuoi procurarmi cinque pelli di lupo?\n\nSarebbe un buon modo per mantenere il nostro insediamento al sicuro dai predatori."
 
 #. Key:	49Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,49Name"
 msgid "Man of Steel. Part 3"
-msgstr ""
+msgstr "Uomo d'acciaio. Parte 3"
 
 #. Key:	49Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,49Text"
 msgid "I see you got that one, too! Oh, cool!\r\nCan you get me five bear skins? I bet you can't do that!"
-msgstr ""
+msgstr "Vedo che hai preso anche quello! Oh, bello!\nPuoi procurarmi cinque pelli d'orso? Scommetto che non puoi farlo!"
 
 #. Key:	4Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -6878,49 +6878,49 @@ msgstr "Mi servono bottiglie di vodka per fare il chiaro di luna.\nPer favore, t
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,50Name"
 msgid "Potions"
-msgstr ""
+msgstr "Pozioni"
 
 #. Key:	50Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,50Text"
 msgid "Hello, dear traveler!\r\nHow are you?\r\nCan you help your old grandmother to brew a potion?\r\nBring me, my dear, some special blue mushrooms. Don't eat the red ones!"
-msgstr ""
+msgstr "Ciao, caro viaggiatore!\nCome stai?\nPuoi aiutare la tua vecchia nonna a preparare una pozione?\nPortami, mia cara, dei funghi blu speciali. Non mangiare quelli rossi!"
 
 #. Key:	51Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,51Name"
 msgid "To bring the girl supplies"
-msgstr ""
+msgstr "Per portare le provviste alla ragazza"
 
 #. Key:	51text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,51text"
 msgid "Hi!\r\nI'm the keeper of the sanctuary. Keeping an eye on the local forest dwellers and nature.\r\nI just don't have time to go get supplies in the village center.\r\nWould you help me?"
-msgstr ""
+msgstr "CIAO!\nSono il custode del santuario. Tenendo d'occhio gli abitanti delle foreste locali e la natura.\nNon ho tempo per andare a fare provviste nel centro del paese.\nMi aiuteresti?"
 
 #. Key:	52Completed
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,52Completed"
 msgid "I'll visit you in the bathhouse :-)"
-msgstr ""
+msgstr "Verrò a trovarti allo stabilimento balneare :-)"
 
 #. Key:	52Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,52Name"
 msgid "Bathhouse steam room"
-msgstr ""
+msgstr "Bagno turco dello stabilimento balneare"
 
 #. Key:	52Text
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
 #: /Game/Objects/Texts/QuestsList.QuestsList
 msgctxt "QuestsList,52Text"
 msgid "Hi!\r\nI heard you have a bathhouse!\r\nI'd love to go there!\r\n\r\nI want to make sure you have them. Dial them up, please."
-msgstr ""
+msgstr "CIAO!\nHo sentito che hai uno stabilimento balneare!\nMi piacerebbe andarci!\n\nVoglio assicurarmi che tu li abbia. Chiamali, per favore."
 
 #. Key:	5Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -7039,35 +7039,35 @@ msgstr "Fuoco da campo"
 #: /Game/Objects/Texts/RadialMenu.RadialMenu
 msgctxt "RadialMenu,ErrorLake"
 msgid "The lake is too far..."
-msgstr ""
+msgstr "Il lago è troppo lontano..."
 
 #. Key:	FishingInfo
 #. SourceLocation:	/Game/Objects/Texts/RadialMenu.RadialMenu
 #: /Game/Objects/Texts/RadialMenu.RadialMenu
 msgctxt "RadialMenu,FishingInfo"
 msgid "Click the left mouse button to pull out the fishing rod.\r\nPress the right mouse button again to cast the rod."
-msgstr ""
+msgstr "Fare clic con il pulsante sinistro del mouse per estrarre la canna da pesca.\nPremere nuovamente il tasto destro del mouse per lanciare la canna."
 
 #. Key:	FishingPole
 #. SourceLocation:	/Game/Objects/Texts/RadialMenu.RadialMenu
 #: /Game/Objects/Texts/RadialMenu.RadialMenu
 msgctxt "RadialMenu,FishingPole"
 msgid "Fishing Pole"
-msgstr ""
+msgstr "Canna da pesca"
 
 #. Key:	Beets
 #. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
 #: /Game/Objects/Texts/Seeds.Seeds
 msgctxt "Seeds,Beets"
 msgid "Beets"
-msgstr ""
+msgstr "Barbabietole"
 
 #. Key:	BeetsText
 #. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
 #: /Game/Objects/Texts/Seeds.Seeds
 msgctxt "Seeds,BeetsText"
 msgid "Beet seeds are small, oval-shaped seeds that are contained within the colored fruit of the plant. They are brown in color and can be quite small.\r\n\r\nBeet seeds are very rich in nutrients such as vitamins, minerals, amino acids and antioxidants. They are an excellent source of B vitamins, including vitamins B1, B2, B3, B5 and B6. They also contain vitamin E, which is a powerful antioxidant. In addition, beet seeds are rich in minerals such as iron, zinc, magnesium, calcium and copper.\r\n\r\nBeet seeds are also high in fiber and vegetable proteins, making them a great source of nutrients for the body. They are also rich in unsaturated fatty acids, which are important for maintaining heart health.\r\n\r\nThese seeds are widely used as a dietary supplement or ingredient in various dishes. They can be added to salads, porridge, baked goods, yogurt or smoothies. They can also be roasted or used to make beet oil.\r\n\r\nBeet seeds have a unique flavor - sweet, nutty and a slight strawberry aftertaste. They also have a delicate and crunchy character.\r\n\r\nHowever, it is important to remember that beet seeds can cause an allergic reaction in some people. Therefore, it is a good idea to do an individual tolerance test before consuming beet seeds.\r\n\r\nIn conclusion, beet seeds are a nutritious and tasty addition to the diet. They contain many beneficial substances and can be used in a variety of dishes. However, as with any product, moderate consumption and consideration of the individual characteristics of the body is recommended."
-msgstr ""
+msgstr "I semi di barbabietola sono piccoli semi di forma ovale contenuti nel frutto colorato della pianta. Sono di colore marrone e possono essere piuttosto piccoli.\n\nI semi di barbabietola sono molto ricchi di sostanze nutritive come vitamine, minerali, aminoacidi e antiossidanti. Sono un'ottima fonte di vitamine del gruppo B, tra cui le vitamine B1, B2, B3, B5 e B6. Contengono anche vitamina E, che è un potente antiossidante. Inoltre, i semi di barbabietola sono ricchi di minerali come ferro, zinco, magnesio, calcio e rame.\n\nI semi di barbabietola sono anche ricchi di fibre e proteine vegetali, che li rendono un'ottima fonte di nutrienti per l'organismo. Sono anche ricchi di acidi grassi insaturi, importanti per la salute del cuore.\n\nQuesti semi sono ampiamente utilizzati come integratori alimentari o come ingredienti di vari piatti. Possono essere aggiunti a insalate, porridge, prodotti da forno, yogurt o frullati. Possono anche essere arrostiti o utilizzati per produrre olio di barbabietola.\nI semi di barbabietola hanno un sapore unico: dolce, di nocciola e con un leggero retrogusto di fragola. Hanno anche un carattere delicato e croccante.\n\nTuttavia, è importante ricordare che i semi di barbabietola possono causare una reazione allergica in alcune persone. Pertanto, è bene effettuare un test di tolleranza individuale prima di consumare i semi di barbabietola.\n\nIn conclusione, i semi di barbabietola sono un'aggiunta nutriente e gustosa alla dieta. Contengono molte sostanze benefiche e possono essere utilizzati in diversi piatti. Tuttavia, come per qualsiasi prodotto, si raccomanda un consumo moderato e la considerazione delle caratteristiche individuali dell'organismo."
 
 #. Key:	Cabbage
 #. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
@@ -10231,7 +10231,7 @@ msgstr "Non ho nessuna doppietta..."
 #: /Game/Objects/Texts/Weapons.Weapons
 msgctxt "Weapons,Double-barrelError2"
 msgid "First, choose a double-barreled..."
-msgstr ""
+msgstr "Per prima cosa, scegliete un…"
 
 #. Key:	Double-barrelText
 #. SourceLocation:	/Game/Objects/Texts/Weapons.Weapons
@@ -10273,7 +10273,7 @@ msgstr "Il piccone è uno strumento utilizzato per la frantumazione, ad esempio 
 #: /Game/Objects/Texts/WorkDesk.WorkDesk
 msgctxt "WorkDesk,Amount"
 msgid "Amount"
-msgstr ""
+msgstr "Importo"
 
 #. Key:	Components
 #. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk
@@ -10301,14 +10301,14 @@ msgstr "Mancano i componenti necessari..."
 #: /Game/Objects/Texts/WorkDesk.WorkDesk
 msgctxt "WorkDesk,Saw"
 msgid "Saw"
-msgstr ""
+msgstr "Sega"
 
 #. Key:	Sawinglogs
 #. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk
 #: /Game/Objects/Texts/WorkDesk.WorkDesk
 msgctxt "WorkDesk,Sawinglogs"
 msgid "Sawing logs"
-msgstr ""
+msgstr "Segare tronchi"
 
 #. Key:	WorkDesk
 #. SourceLocation:	/Game/Objects/Texts/WorkDesk.WorkDesk

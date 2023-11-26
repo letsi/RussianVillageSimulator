@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-26 01:46\n"
-"PO-Revision-Date: 2023-11-26 01:46\n"
+"POT-Creation-Date: 2023-11-26 11:09\n"
+"PO-Revision-Date: 2023-11-26 11:09\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -2825,21 +2825,21 @@ msgstr "Je ne peux pas encore avoir de miel...."
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Firestation"
 msgid "Fire station"
-msgstr ""
+msgstr "Caserne de pompiers"
 
 #. Key:	Hospital
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Hospital"
 msgid "Hospital"
-msgstr ""
+msgstr "Hôpital"
 
 #. Key:	House
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,House"
 msgid "House"
-msgstr ""
+msgstr "Maison"
 
 #. Key:	Inventory
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2860,7 +2860,7 @@ msgstr "Journal d'apprentissage"
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Metalwarehouse"
 msgid "Metal warehouse"
-msgstr ""
+msgstr "Entrepôt métallique"
 
 #. Key:	Money
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2888,21 +2888,21 @@ msgstr "Réputation: "
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shool"
 msgid "Shool"
-msgstr ""
+msgstr "École"
 
 #. Key:	Shop
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shop"
 msgid "Shop"
-msgstr ""
+msgstr "Boutique"
 
 #. Key:	VillageDisco
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,VillageDisco"
 msgid "Village Disco"
-msgstr ""
+msgstr "Discothèque du village"
 
 #. Key:	Berryfridge
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
@@ -3294,14 +3294,14 @@ msgstr "Tout"
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreled"
 msgid "Ammo for double-barreled"
-msgstr ""
+msgstr "Munitions pour double canon"
 
 #. Key:	Ammo_for_a_double-barreledText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreledText"
 msgid "Double-barrel cartridges are special projectiles used in double-barrel firearms. They consist of a cartridge case (casing) in which the primer (igniter), powder and projectile (bullet or shot) are inserted.\r\n\r\nThe cartridge case is usually made of brass or steel. It is shaped like a cylinder with tapered edges and opens at one end to load powder and projectile. The casing can be easily removed from the barrel of the gun after firing.\r\n\r\nThe primer is an igniter, a container containing a small amount of explosive that is ignited by the impact of the firing pin when the shot is fired. The explosion of the primer causes a fire flash, which in turn ignites the gunpowder inside the cartridge case.\r\n\r\nGunpowder is an explosive substance that burns when the primer ignites, creating a high pressure of gases inside the cartridge case. This pressure pushes the projectile forward down the barrel of the gun.\r\n\r\nThe projectile in a double-barreled shotgun cartridge can be a bullet or shot. A bullet is a metal projectile of one caliber designed for long-range shooting. Shot is a projectile consisting of many small metal balls of different caliber, intended for shooting at short distances with a wide spread.\r\n\r\nDouble-barrel ammunition can have different parameters such as caliber, projectile weight, type and amount of powder, and type of primer. These parameters can vary depending on the specific model of gun and its purpose - for hunting, sport shooting or self-defense.\r\n\r\nIt is important to follow all safety rules and correctly use cartridges for double-barrel shotguns. Failure to follow the rules and improper use may result in serious injury or damage to the shotgun."
-msgstr ""
+msgstr "Les cartouches à double canon sont des projectiles spéciaux utilisés dans les armes à feu à double canon. Ils sont constitués d'une douille (boîtier) dans laquelle sont insérés l'amorce (allumeur), la poudre et le projectile (balle ou balle).\n\nL'étui de la cartouche est généralement en laiton ou en acier. Il a la forme d'un cylindre aux bords effilés et s'ouvre à une extrémité pour charger de la poudre et des projectiles. Le boîtier peut être facilement retiré du canon de l'arme après le tir.\n\nL'amorce est un allumeur, un récipient contenant une petite quantité d'explosif qui s'enflamme par l'impact du percuteur lors du tir. L'explosion de l'amorce provoque un éclair de feu, qui à son tour enflamme la poudre à canon à l'intérieur de la douille.\n\nLa poudre à canon est une substance explosive qui brûle lorsque l'amorce s'enflamme, créant une haute pression de gaz à l'intérieur de la douille. Cette pression pousse le projectile vers l’avant du canon de l’arme.\n\nLe projectile dans une cartouche de fusil de chasse à double canon peut être une balle ou un coup de feu. Une balle est un projectile métallique d'un seul calibre conçu pour le tir à longue distance. Shot est un projectile composé de nombreuses petites billes métalliques de différents calibres, destiné au tir à courte distance avec une large diffusion.\n\nLes munitions à double canon peuvent avoir différents paramètres tels que le calibre, le poids du projectile, le type et la quantité de poudre et le type d'amorce. Ces paramètres peuvent varier en fonction du modèle spécifique d'arme et de son objectif - pour la chasse, le tir sportif ou l'autodéfense.\n\nIl est important de respecter toutes les règles de sécurité et d'utiliser correctement les cartouches pour fusils à double canon. Le non-respect des règles et une utilisation inappropriée peuvent entraîner des blessures graves ou des dommages au fusil de chasse."
 
 #. Key:	Animals
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3448,14 +3448,14 @@ msgstr "La couleur de la baie est violet foncé. Certaines espèces ont une pati
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Bleach"
 msgid "Bleach"
-msgstr ""
+msgstr "Eau de javel"
 
 #. Key:	BleachText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,BleachText"
 msgid "Bleach is a chemical used to remove stains and lighten fabrics. It helps to restore white color to previously soiled or graying fabrics.\r\n\r\nBleach can be available in different forms including liquid, powder or gel. It contains active ingredients such as hydrogen peroxide (oxidant) or strong bleaching agents that provide effective removal of stains and redness.\r\n\r\nBleach penetrates into the fabric structure and oxidizes the organic matter that causes stains. It breaks down pigments and erases stains, returning fabrics to a fresh and vibrant appearance. Bleach can also remove yellowness and write on the surface of fabrics, returning them to their \"newness\".\r\n\r\nIt is important to use bleach as directed and follow safety guidelines, as it contains chemicals that can be harmful to skin and health. Improper use of bleach or improper exposure to other surfaces can damage or discolor materials.\r\n\r\nBleach can be used on various types of textiles including clothing, bedding, towels and curtains. It can also be effective in removing stains from coffee, tea, wine, blood and other organic substances.\r\n\r\nIn addition to fabrics, bleach can also be used to clean and brighten other surfaces such as ceramics, plastic and even some types of leather.\r\n\r\nIt is important to remember that some types of fabrics and materials can be sensitive to bleach, so it is always advisable to test it on a small area before use or follow the directions on the product label."
-msgstr ""
+msgstr "L'eau de Javel est un produit chimique utilisé pour éliminer les taches et éclaircir les tissus. Il permet de redonner la couleur blanche aux tissus préalablement sales ou grisonnants.\n\nL'eau de Javel peut être disponible sous différentes formes, notamment liquide, poudre ou gel. Il contient des principes actifs comme le peroxyde d'hydrogène (oxydant) ou des agents blanchissants puissants qui permettent d'éliminer efficacement les taches et les rougeurs.\n\nL'eau de Javel pénètre dans la structure du tissu et oxyde la matière organique à l'origine des taches. Il décompose les pigments et efface les taches, redonnant aux tissus un aspect frais et éclatant. L'eau de Javel peut également éliminer le jaunissement et écrire sur la surface des tissus, leur redonnant ainsi leur « nouveauté ».\n\nIl est important d’utiliser l’eau de Javel comme indiqué et de suivre les consignes de sécurité, car elle contient des produits chimiques qui peuvent être nocifs pour la peau et la santé. Une mauvaise utilisation de l'eau de Javel ou une mauvaise exposition à d'autres surfaces peuvent endommager ou décolorer les matériaux.\n\nL'eau de Javel peut être utilisée sur différents types de textiles, notamment les vêtements, la literie, les serviettes et les rideaux. Il peut également être efficace pour éliminer les taches de café, de thé, de vin, de sang et d’autres substances organiques.\n\nEn plus des tissus, l'eau de Javel peut également être utilisée pour nettoyer et raviver d'autres surfaces telles que la céramique, le plastique et même certains types de cuir.\n\nIl est important de se rappeler que certains types de tissus et matériaux peuvent être sensibles à l'eau de Javel, il est donc toujours conseillé de le tester sur une petite surface avant utilisation ou de suivre les instructions sur l'étiquette du produit."
 
 #. Key:	Blueberry
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3889,14 +3889,14 @@ msgstr "Les allumettes sont de petits bâtons en bois dont les têtes sont conç
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScrap"
 msgid "Metal scrap"
-msgstr ""
+msgstr "Ferraille"
 
 #. Key:	MetalScraptext
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScraptext"
 msgid "Scrap metal is waste and scrap metal products that are no longer usable in their original form. They can include various types of metals such as steel, iron, aluminum, copper, tin, nickel, lead, etc.\r\n\r\nScrap metal can come from a variety of sources including automobiles, electronics, appliances, building structures, packaging materials, old plumbing fixtures, and other metal products.\r\n\r\nIt can come in a variety of shapes and sizes, including lump, scrap, chip or powdered scrap metal. Each type has a different degree of value and specific recycling requirements.\r\n\r\nScrap metal is an important source of secondary raw materials that can be melted down and used to produce new metal products. This reduces the need to mine and recycle primary metals, reducing the negative impact on the environment."
-msgstr ""
+msgstr "La ferraille est constituée de déchets et de produits de ferraille qui ne sont plus utilisables sous leur forme originale. Ils peuvent inclure différents types de métaux tels que l'acier, le fer, l'aluminium, le cuivre, l'étain, le nickel, le plomb, etc.\n\nLa ferraille peut provenir de diverses sources, notamment les automobiles, les appareils électroniques, les appareils électroménagers, les structures de bâtiments, les matériaux d’emballage, les vieux appareils de plomberie et d’autres produits métalliques.\n\nIl peut se présenter sous diverses formes et tailles, notamment en morceaux, en débris, en copeaux ou en poudre. Chaque type a un degré de valeur différent et des exigences de recyclage spécifiques.\n\nLa ferraille est une source importante de matières premières secondaires qui peuvent être fondues et utilisées pour fabriquer de nouveaux produits métalliques. Cela réduit le besoin d’extraire et de recycler les métaux primaires, réduisant ainsi l’impact négatif sur l’environnement."
 
 #. Key:	Moonshine
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -5275,7 +5275,7 @@ msgstr "Sélectionnez votre mode de jeu préféré en fonction des caractéristi
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Mobile"
 
 #. Key:	NewsGame
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5387,14 +5387,14 @@ msgstr "Ray Tracing"
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Shader"
 msgid "Shader"
-msgstr ""
+msgstr "Shader"
 
 #. Key:	ShaderText
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,ShaderText"
 msgid "Select your preferred shader, apply the settings and restart the game."
-msgstr ""
+msgstr "Sélectionnez votre shader préféré, appliquez les paramètres et redémarrez le jeu."
 
 #. Key:	Ultraperformance
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5555,7 +5555,7 @@ msgstr "Dessiner des graffitis"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Dumpster"
 msgid "Throw in the trash"
-msgstr ""
+msgstr "Mettre à la poubelle"
 
 #. Key:	ErrorChopping
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5583,7 +5583,7 @@ msgstr "Avant de prendre un bain, il faut allumer le poêle..."
 #: /Game/Objects/Texts/Notice.Notice
 msgctxt "Notice,ErrorSawing"
 msgid "A failed attempt at sawing it off. Try again..."
-msgstr ""
+msgstr "Une tentative ratée de le scier. Essayer à nouveau..."
 
 #. Key:	ErrorWater
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5807,7 +5807,7 @@ msgstr "Chaîne précédente"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,PutShelfs"
 msgid "Put it on a shelf"
-msgstr ""
+msgstr "Mettez-le sur une étagère"
 
 #. Key:	Radio
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5884,7 +5884,7 @@ msgstr "Dormir"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Specifythequantity"
 msgid "Specify the quantity"
-msgstr ""
+msgstr "Précisez la quantité"
 
 #. Key:	Stamina
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5940,7 +5940,7 @@ msgstr "Soif"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Throwaway"
 msgid "Throw away"
-msgstr ""
+msgstr "Jeter"
 
 #. Key:	Time
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -6178,14 +6178,14 @@ msgstr "La vache de Misha"
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTV"
 msgid "Old TV"
-msgstr ""
+msgstr "Vieille télé"
 
 #. Key:	OldTVText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTVText"
 msgid "An old TV. Can be handed over to a metal depot for 250 rubles."
-msgstr ""
+msgstr "Une vieille télé. Peut être remis à un dépôt de métaux pour 250 roubles."
 
 #. Key:	10Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -10231,7 +10231,7 @@ msgstr "Je n'ai pas de double canon..."
 #: /Game/Objects/Texts/Weapons.Weapons
 msgctxt "Weapons,Double-barrelError2"
 msgid "First, choose a double-barreled..."
-msgstr ""
+msgstr "Tout d'abord, choisissez un double canon..."
 
 #. Key:	Double-barrelText
 #. SourceLocation:	/Game/Objects/Texts/Weapons.Weapons
