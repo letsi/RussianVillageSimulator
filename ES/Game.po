@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-10-07 12:07\n"
-"PO-Revision-Date: 2023-10-07 12:07\n"
+"POT-Creation-Date: 2023-11-26 01:42\n"
+"PO-Revision-Date: 2023-11-26 01:42\n"
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -2820,6 +2820,27 @@ msgctxt "Beehive,NoHoney2"
 msgid "I can't get honey yet...."
 msgstr ""
 
+#. Key:	Firestation
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,Firestation"
+msgid "Fire station"
+msgstr ""
+
+#. Key:	Hospital
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,Hospital"
+msgid "Hospital"
+msgstr ""
+
+#. Key:	House
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,House"
+msgid "House"
+msgstr ""
+
 #. Key:	Inventory
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2832,6 +2853,13 @@ msgstr ""
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,LearningLog"
 msgid "Learning log"
+msgstr ""
+
+#. Key:	Metalwarehouse
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,Metalwarehouse"
+msgid "Metal warehouse"
 msgstr ""
 
 #. Key:	Money
@@ -2853,6 +2881,27 @@ msgstr ""
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Reputation"
 msgid "Reputation: "
+msgstr ""
+
+#. Key:	Shool
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,Shool"
+msgid "Shool"
+msgstr ""
+
+#. Key:	Shop
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,Shop"
+msgid "Shop"
+msgstr ""
+
+#. Key:	VillageDisco
+#. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
+#: /Game/Objects/Texts/CoreMenu.CoreMenu
+msgctxt "CoreMenu,VillageDisco"
+msgid "Village Disco"
 msgstr ""
 
 #. Key:	Berryfridge
@@ -3240,6 +3289,20 @@ msgctxt "Inventory,All"
 msgid "All"
 msgstr ""
 
+#. Key:	Ammo_for_a_double-barreled
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Ammo_for_a_double-barreled"
+msgid "Ammo for double-barreled"
+msgstr ""
+
+#. Key:	Ammo_for_a_double-barreledText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Ammo_for_a_double-barreledText"
+msgid "Double-barrel cartridges are special projectiles used in double-barrel firearms. They consist of a cartridge case (casing) in which the primer (igniter), powder and projectile (bullet or shot) are inserted.\r\n\r\nThe cartridge case is usually made of brass or steel. It is shaped like a cylinder with tapered edges and opens at one end to load powder and projectile. The casing can be easily removed from the barrel of the gun after firing.\r\n\r\nThe primer is an igniter, a container containing a small amount of explosive that is ignited by the impact of the firing pin when the shot is fired. The explosion of the primer causes a fire flash, which in turn ignites the gunpowder inside the cartridge case.\r\n\r\nGunpowder is an explosive substance that burns when the primer ignites, creating a high pressure of gases inside the cartridge case. This pressure pushes the projectile forward down the barrel of the gun.\r\n\r\nThe projectile in a double-barreled shotgun cartridge can be a bullet or shot. A bullet is a metal projectile of one caliber designed for long-range shooting. Shot is a projectile consisting of many small metal balls of different caliber, intended for shooting at short distances with a wide spread.\r\n\r\nDouble-barrel ammunition can have different parameters such as caliber, projectile weight, type and amount of powder, and type of primer. These parameters can vary depending on the specific model of gun and its purpose - for hunting, sport shooting or self-defense.\r\n\r\nIt is important to follow all safety rules and correctly use cartridges for double-barrel shotguns. Failure to follow the rules and improper use may result in serious injury or damage to the shotgun."
+msgstr ""
+
 #. Key:	Animals
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
@@ -3378,6 +3441,20 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Blackberrytext"
 msgid "The color of the berry is dark purple. Some species have a bluish patina.\r\nThey are semi-shrubs, whose stems and shoots are studded; their stem shoots are flexible, sometimes ascending, sometimes recumbent; leaves of Rubus caesius are ternate, lower ones sometimes even with 5 leaflets; leaves of Rubus fruticosus consist of 5 and 7 leaflets.\r\nIn the Caucasus and in some areas of the Middle East (as in Israel, for example), these species, especially Rubus fruticosus, are unusually overgrown, forming impassable thickets together with other shrubs."
+msgstr ""
+
+#. Key:	Bleach
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Bleach"
+msgid "Bleach"
+msgstr ""
+
+#. Key:	BleachText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,BleachText"
+msgid "Bleach is a chemical used to remove stains and lighten fabrics. It helps to restore white color to previously soiled or graying fabrics.\r\n\r\nBleach can be available in different forms including liquid, powder or gel. It contains active ingredients such as hydrogen peroxide (oxidant) or strong bleaching agents that provide effective removal of stains and redness.\r\n\r\nBleach penetrates into the fabric structure and oxidizes the organic matter that causes stains. It breaks down pigments and erases stains, returning fabrics to a fresh and vibrant appearance. Bleach can also remove yellowness and write on the surface of fabrics, returning them to their \"newness\".\r\n\r\nIt is important to use bleach as directed and follow safety guidelines, as it contains chemicals that can be harmful to skin and health. Improper use of bleach or improper exposure to other surfaces can damage or discolor materials.\r\n\r\nBleach can be used on various types of textiles including clothing, bedding, towels and curtains. It can also be effective in removing stains from coffee, tea, wine, blood and other organic substances.\r\n\r\nIn addition to fabrics, bleach can also be used to clean and brighten other surfaces such as ceramics, plastic and even some types of leather.\r\n\r\nIt is important to remember that some types of fabrics and materials can be sensitive to bleach, so it is always advisable to test it on a small area before use or follow the directions on the product label."
 msgstr ""
 
 #. Key:	Blueberry
@@ -3805,6 +3882,20 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MatchesText"
 msgid "Matches are small wooden sticks with heads designed to create fire. They consist of two main parts: the wooden stick (stem) and the head.\r\n\r\nThe stem of a match is usually made from a dry and flammable wood such as pine or birch. It is narrow and thin, which makes it easier to light. The top part of the stem is called the head or lighter.\r\n\r\nThe match head contains a special substance, such as phosphorus or sulfur, that cracks or burns when rubbed against the cavity of the lighter. When the match head rubs against a ground surface or specialty lighter, the friction creates enough heat to ignite and create a flame.\r\n\r\nMatches are a disposable item as they can only be used once to create a fire. They are widely used for domestic and commercial purposes, including lighting candles, starting a fireplace or campfire on vacation, and for lighting gas stoves and campfires.\r\n\r\nIt is important to note that matches should be stored in a dry and cool place so that they do not lose their ignition properties. It is also important to handle them with care and prevent accidental ignition."
+msgstr ""
+
+#. Key:	MetalScrap
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,MetalScrap"
+msgid "Metal scrap"
+msgstr ""
+
+#. Key:	MetalScraptext
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,MetalScraptext"
+msgid "Scrap metal is waste and scrap metal products that are no longer usable in their original form. They can include various types of metals such as steel, iron, aluminum, copper, tin, nickel, lead, etc.\r\n\r\nScrap metal can come from a variety of sources including automobiles, electronics, appliances, building structures, packaging materials, old plumbing fixtures, and other metal products.\r\n\r\nIt can come in a variety of shapes and sizes, including lump, scrap, chip or powdered scrap metal. Each type has a different degree of value and specific recycling requirements.\r\n\r\nScrap metal is an important source of secondary raw materials that can be melted down and used to produce new metal products. This reduces the need to mine and recycle primary metals, reducing the negative impact on the environment."
 msgstr ""
 
 #. Key:	Moonshine
@@ -5179,6 +5270,13 @@ msgctxt "Menu,CoreOptimizationText"
 msgid "Select your preferred game mode based on the characteristics of your computer.\r\nOn graphics cards below 30 series Nvidia/AMD RX 6700 XT, we recommend setting the Performance option.\r\n\r\nFor best performance, enable DirectX 11 in the game settings."
 msgstr ""
 
+#. Key:	Mobile
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Mobile"
+msgid "Mobile"
+msgstr ""
+
 #. Key:	NewsGame
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
@@ -5282,6 +5380,20 @@ msgstr ""
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,RayTracing"
 msgid "Ray Tracing"
+msgstr ""
+
+#. Key:	Shader
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,Shader"
+msgid "Shader"
+msgstr ""
+
+#. Key:	ShaderText
+#. SourceLocation:	/Game/Objects/Texts/Menu.Menu
+#: /Game/Objects/Texts/Menu.Menu
+msgctxt "Menu,ShaderText"
+msgid "Select your preferred shader, apply the settings and restart the game."
 msgstr ""
 
 #. Key:	Ultraperformance
@@ -5438,6 +5550,13 @@ msgctxt "Notice,Drawgraffiti"
 msgid "Draw graffiti"
 msgstr ""
 
+#. Key:	Dumpster
+#. SourceLocation:	/Game/Objects/Texts/Texts.Texts
+#: /Game/Objects/Texts/Texts.Texts
+msgctxt "Notice,Dumpster"
+msgid "Throw in the trash"
+msgstr ""
+
 #. Key:	ErrorChopping
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
 #: /Game/Objects/Texts/Notice.Notice
@@ -5457,6 +5576,13 @@ msgstr ""
 #: /Game/Objects/Texts/Notice.Notice
 msgctxt "Notice,ErrorFurnace"
 msgid "Before you take a bath, you have to light the stove..."
+msgstr ""
+
+#. Key:	ErrorSawing
+#. SourceLocation:	/Game/Objects/Texts/Notice.Notice
+#: /Game/Objects/Texts/Notice.Notice
+msgctxt "Notice,ErrorSawing"
+msgid "A failed attempt at sawing it off. Try again..."
 msgstr ""
 
 #. Key:	ErrorWater
@@ -5676,6 +5802,13 @@ msgctxt "Notice,Previouschannel"
 msgid "Previous channel"
 msgstr ""
 
+#. Key:	PutShelfs
+#. SourceLocation:	/Game/Objects/Texts/Texts.Texts
+#: /Game/Objects/Texts/Texts.Texts
+msgctxt "Notice,PutShelfs"
+msgid "Put it on a shelf"
+msgstr ""
+
 #. Key:	Radio
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
 #: /Game/Objects/Texts/Texts.Texts
@@ -5746,6 +5879,13 @@ msgctxt "Notice,SleepBed"
 msgid "Go to sleep"
 msgstr ""
 
+#. Key:	Specifythequantity
+#. SourceLocation:	/Game/Objects/Texts/Texts.Texts
+#: /Game/Objects/Texts/Texts.Texts
+msgctxt "Notice,Specifythequantity"
+msgid "Specify the quantity"
+msgstr ""
+
 #. Key:	Stamina
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
 #: /Game/Objects/Texts/Texts.Texts
@@ -5793,6 +5933,13 @@ msgstr ""
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Thirst"
 msgid "Thirst"
+msgstr ""
+
+#. Key:	Throwaway
+#. SourceLocation:	/Game/Objects/Texts/Texts.Texts
+#: /Game/Objects/Texts/Texts.Texts
+msgctxt "Notice,Throwaway"
+msgid "Throw away"
 msgstr ""
 
 #. Key:	Time
@@ -6024,6 +6171,20 @@ msgstr ""
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,Mishascow"
 msgid "Misha's cow"
+msgstr ""
+
+#. Key:	OldTV
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,OldTV"
+msgid "Old TV"
+msgstr ""
+
+#. Key:	OldTVText
+#. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
+#: /Game/Objects/Texts/QuestsItems.QuestsItems
+msgctxt "QuestsItems,OldTVText"
+msgid "An old TV. Can be handed over to a metal depot for 250 rubles."
 msgstr ""
 
 #. Key:	10Name
@@ -10063,6 +10224,13 @@ msgstr ""
 #: /Game/Objects/Texts/Weapons.Weapons
 msgctxt "Weapons,Double-barrelError"
 msgid "I don't have any double-barrel..."
+msgstr ""
+
+#. Key:	Double-barrelError2
+#. SourceLocation:	/Game/Objects/Texts/Weapons.Weapons
+#: /Game/Objects/Texts/Weapons.Weapons
+msgctxt "Weapons,Double-barrelError2"
+msgid "First, choose a double-barreled..."
 msgstr ""
 
 #. Key:	Double-barrelText
