@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-23 15:43\n"
-"PO-Revision-Date: 2023-11-23 15:43\n"
+"POT-Creation-Date: 2023-11-26 01:41\n"
+"PO-Revision-Date: 2023-11-26 01:41\n"
 "Language-Team: \n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -179,7 +179,7 @@ msgstr "Értesítés"
 #: /Game/AdvancedPhotoMode/Blueprints/BPC_PhotoMode.Default__BPC_PhotoMode_C.Filters(2).Filters.DisplayName_28_1E494FD947CFBBA44296CCB88F8EC3CB
 msgctxt ",1453F157436D2EDE5FDCE9AA412B25D2"
 msgid "Black and White"
-msgstr "Fekete-fehér"
+msgstr "Fekete és fehér"
 
 #. Key:	14E453EC441D40EF586053AE58229DF2
 #. SourceLocation:	/Game/LockPicking/UserInterface/UI_LockpickingHUD.UI_LockpickingHUD_C:WidgetTree.TextBlock_1.Text
@@ -228,7 +228,7 @@ msgstr "Intenzitás"
 #: /Game/AdvancedPhotoMode/Demo/Map/L_ThirdPersonExampleMap.L_ThirdPersonExampleMap:PersistentLevel.TextRenderActor16.NewTextRenderComponent.Text
 msgctxt ",187783E44C7A07FC6E0CD6BBF19C6024"
 msgid "In this case, the editor captured the\r\nblueprint itself instead of the\r\nviewport! So know that in the\r\npackaged game the photo comes\r\nout perfect! (Except currently for \r\nUE4.27+, which has been reported to UE team)"
-msgstr "Ebben az esetben a szerkesztô rögzítette a\r\ntervrajzot ahelyett, hogy a\r\nviewport! Tehát tudd, hogy a\r\ncsomagolt játékban a kép\r\ntökéletes lesz! (Kivéve jelenleg a\r\nUE4.27+, amit már jelentettünk az UE csapatnak)"
+msgstr "Ebben az esetben a szerkesztô rögzítette a\r\ntervrajzot ahelyett, hogy a\r\nnézôtér! Tehát tudd, hogy a\r\ncsomagolt játékban a kép\r\ntökéletes lesz! (Kivéve jelenleg a\r\nUE4.27+, amit már jelentettünk az UE csapatnak)"
 
 #. Key:	190C3A454A209E717ACBD4B098451A35
 #. SourceLocation:	/Game/AdvancedPhotoMode/Widgets/UI_Slider.UI_Slider_C:WidgetTree.SliderName.Text
@@ -473,7 +473,7 @@ msgstr "Élesség"
 #: /Game/AdvancedPhotoMode/Demo/Map/L_ThirdPersonExampleMap.L_ThirdPersonExampleMap:PersistentLevel.TextRenderActor9.NewTextRenderComponent.Text
 msgctxt ",4D5386A849F2264B453D7D93CA3A6070"
 msgid "G or Select (gamepad)"
-msgstr "G or Select (játékvezérlô)"
+msgstr "G vagy Válassza ki (játékvezérlô)"
 
 #. Key:	4E6B267A443464DA271998896C1F6D15
 #. SourceLocation:	/Game/AdvancedPhotoMode/Blueprints/UI_PhotoMode.UI_PhotoMode_C:WidgetTree.LogoHorizontalAlignment.SliderTitle
@@ -1376,7 +1376,7 @@ msgstr "Alapértelmezett"
 #: /Game/Objects/Character/UI/RadialMenu/RadialMenuType.RadialMenuType.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",DC4A19384618B532369A50B5FF316D13"
 msgid "Hoe"
-msgstr "Kapa"
+msgstr "Csákány"
 
 #. Key:	DC5D36714CD594D86E26F3B45786B435
 #. SourceLocation:	/Game/AdvancedPhotoMode/Blueprints/UI_PhotoMode.UI_PhotoMode_C:ShowHideMouseTxtButton [Script Bytecode]
@@ -2825,21 +2825,21 @@ msgstr "Nem kapok mézet még...."
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Firestation"
 msgid "Fire station"
-msgstr ""
+msgstr "Tûzoltóság"
 
 #. Key:	Hospital
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Hospital"
 msgid "Hospital"
-msgstr ""
+msgstr "Kórház"
 
 #. Key:	House
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,House"
 msgid "House"
-msgstr ""
+msgstr "Ház"
 
 #. Key:	Inventory
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2860,7 +2860,7 @@ msgstr "Oktatási napló"
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Metalwarehouse"
 msgid "Metal warehouse"
-msgstr ""
+msgstr "Fém raktár"
 
 #. Key:	Money
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2888,28 +2888,28 @@ msgstr "Hírnév: "
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shool"
 msgid "Shool"
-msgstr ""
+msgstr "Iskola"
 
 #. Key:	Shop
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shop"
 msgid "Shop"
-msgstr ""
+msgstr "Bolt"
 
 #. Key:	VillageDisco
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,VillageDisco"
 msgid "Village Disco"
-msgstr ""
+msgstr "Falusi diszkó"
 
 #. Key:	Berryfridge
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Berryfridge"
 msgid "Berry fridge"
-msgstr "Berry hûtôszekrény"
+msgstr "Bogyós hûtôszekrény"
 
 #. Key:	Chest
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
@@ -2951,7 +2951,7 @@ msgstr "Mit akarunk beletenni?"
 #: /Game/Objects/Texts/CoreWareHouse.CoreWareHouse
 msgctxt "CoreWareHouse,Put"
 msgid "Put"
-msgstr "Tegye"
+msgstr "Tegye a polcra"
 
 #. Key:	Take
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
@@ -3154,7 +3154,7 @@ msgstr "Suigon"
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,FishRod"
 msgid "Fish rod"
-msgstr "Halászbot"
+msgstr "Horgászbot"
 
 #. Key:	FishRodError
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
@@ -3224,14 +3224,14 @@ msgstr "A csuka (latinul: Esox lucius) a csukafélék családjába tartozó éde
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,Sazan"
 msgid "Yazi"
-msgstr ""
+msgstr "Jász csuka"
 
 #. Key:	SazanText
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
 #: /Game/Objects/Texts/Fish.Fish
 msgctxt "Fish,SazanText"
 msgid "The yazi is a large freshwater fish from the pike family. It has a distinctive appearance and has a number of unique features. \r\n\r\nThe body of the yazya elongated and slightly laterally compressed, reaches a length of 40-60 cm and weighs from 1 to 5 kg, although sometimes you can meet and more specimens. Its skin is covered with large, thick and coarse scales, which serves it as a good defense against enemies. The scales have a greenish-gray coloration with yellowish or white spots, making it easily recognizable.\r\n\r\nJazzy eyes are large and elongated, colored yellow or reddish-orange. They allow him to see perfectly even in the murky waters where he lives. \r\n\r\nYazya also has a large and wide mouth with a number of sharp teeth, their shape and size allow him to successfully hunt his prey. Thanks to his teeth, he can easily hold his prey and cut it into pieces before swallowing it.\r\n\r\nThe yaz is a predator and an active hunter. In his diet swims a huge number of aquatic invertebrates - crustaceans, mollusks and small fish. He also does not mind eating plants - algae and aquatic plants are an important part of his diet.\r\n\r\nDuring the breeding season, yazi actively move to shallow water or river tributaries to lay eggs and ensure the survival of the next generation. Their spawning occurs in spring or early summer, and male yazi are characterized by becoming particularly bright and aggressive, guarding their territory from competitors.\r\n\r\nYazi is not only an object of fishing, but also a subject of interest to scientists. It serves as an indicator of the state of the water body, as it reacts to changes in water quality and pollution. Also, yazi can be used in aquaristics because of its bright and noticeable appearance.\r\n\r\nIn general, the yazi is a unique fish that combines strength, aggressiveness and elegance. Its characteristic appearance and features can mesmerize the observer and arouse interest in the study of nature and the world of aquatic organisms."
-msgstr ""
+msgstr "A jász a csukák családjába tartozó nagyméretû édesvízi hal. Megkülönböztetô megjelenése és számos egyedi tulajdonsága van.\r\n\r\nA test a yazya hosszúkás és enyhén oldalirányban összenyomott, eléri a hossza 40-60 cm és súlya 1-5 kg, bár néha találkozhat, és több példányt. Bôrét nagy, vastag és durva pikkelyek borítják, ami jó védekezésül szolgál az ellenséggel szemben. A pikkelyek zöldesszürke színûek, sárgás vagy fehér foltokkal, így könnyen felismerhetô.\r\n\r\nA jászok szemei nagyok és hosszúkásak, sárga vagy vöröses-narancs színûek. Ezek lehetôvé teszik számára, hogy tökéletesen lásson még a zavaros vízben is, ahol él.\r\n\r\nJazyának nagy és széles szája is van, számos éles foggal, ezek alakja és mérete lehetôvé teszi számára, hogy sikeresen vadásszon zsákmányára. Fogainak köszönhetôen könnyedén meg tudja fogni a zsákmányt, és darabokra tudja vágni, mielôtt lenyelné.\r\n\r\nA yaz ragadozó és aktív vadász. Táplálékában rengeteg vízi gerinctelen - rákfélék, puhatestûek és apró halak - úsznak. A növények fogyasztásától sem riad vissza - az algák és a vízinövények fontos részét képezik étrendjének.\r\n\r\nA szaporodási idôszakban a jászok aktívan a sekély vizekbe vagy a folyók mellékfolyóiba vonulnak, hogy lerakják tojásaikat, és biztosítsák a következô generáció túlélését. Az ívásra tavasszal vagy kora nyáron kerül sor, és a hím yazikra jellemzô, hogy különösen élénkek és agresszívek lesznek, és ôrzik a területüket a versenytársaktól.\r\n\r\nA yazi nemcsak a halászat tárgya, hanem a tudósok érdeklôdésének tárgya is. A víztest állapotának indikátoraként szolgál, mivel reagál a vízminôség és a szennyezés változásaira. Emellett a yazi az akvarisztikában is felhasználható, mivel fényes és feltûnô a megjelenése.\r\n\r\nÁltalánosságban elmondható, hogy a yazi egy egyedülálló hal, amely egyesíti az erôt, az agresszivitást és az eleganciát. Jellegzetes megjelenése és tulajdonságai megbabonázhatják a megfigyelôt, és felkelthetik az érdeklôdést a természet és a vízi élôlények világának tanulmányozása iránt."
 
 #. Key:	Som
 #. SourceLocation:	/Game/Objects/Texts/Fish.Fish
@@ -3294,14 +3294,14 @@ msgstr "Összes"
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreled"
 msgid "Ammo for double-barreled"
-msgstr ""
+msgstr "Lôszer duplacsövûhöz"
 
 #. Key:	Ammo_for_a_double-barreledText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreledText"
 msgid "Double-barrel cartridges are special projectiles used in double-barrel firearms. They consist of a cartridge case (casing) in which the primer (igniter), powder and projectile (bullet or shot) are inserted.\r\n\r\nThe cartridge case is usually made of brass or steel. It is shaped like a cylinder with tapered edges and opens at one end to load powder and projectile. The casing can be easily removed from the barrel of the gun after firing.\r\n\r\nThe primer is an igniter, a container containing a small amount of explosive that is ignited by the impact of the firing pin when the shot is fired. The explosion of the primer causes a fire flash, which in turn ignites the gunpowder inside the cartridge case.\r\n\r\nGunpowder is an explosive substance that burns when the primer ignites, creating a high pressure of gases inside the cartridge case. This pressure pushes the projectile forward down the barrel of the gun.\r\n\r\nThe projectile in a double-barreled shotgun cartridge can be a bullet or shot. A bullet is a metal projectile of one caliber designed for long-range shooting. Shot is a projectile consisting of many small metal balls of different caliber, intended for shooting at short distances with a wide spread.\r\n\r\nDouble-barrel ammunition can have different parameters such as caliber, projectile weight, type and amount of powder, and type of primer. These parameters can vary depending on the specific model of gun and its purpose - for hunting, sport shooting or self-defense.\r\n\r\nIt is important to follow all safety rules and correctly use cartridges for double-barrel shotguns. Failure to follow the rules and improper use may result in serious injury or damage to the shotgun."
-msgstr ""
+msgstr "A duplacsövû töltények speciális lövedékek, amelyeket duplacsövû lôfegyverekben használnak. Ezek egy töltényhüvelybôl (tokból) állnak, amelybe a gyújtószerkezet (gyújtószerkezet), a lôpor és a lövedék (golyó vagy lövedék) van behelyezve.\r\n\r\nA töltényhüvely általában sárgarézbôl vagy acélból készül. Henger alakú, kúpos szélekkel, és az egyik végén nyílik a lôpor és a lövedék betöltéséhez. A töltényhüvely a lövés után könnyen eltávolítható a fegyver csövébôl.\r\n\r\nA gyutacs egy gyújtószerkezet, egy kis mennyiségû robbanóanyagot tartalmazó tartály, amely a lövedék elsütésekor az ütôszeg becsapódása hatására begyullad. A gyutacs robbanása tûzvillanást okoz, amely viszont meggyújtja a töltényhüvelyben lévô lôport.\r\n\r\nA lôpor egy robbanékony anyag, amely a gyutacs meggyulladásakor elég, és a töltényhüvelyben nagy gáznyomást hoz létre. Ez a nyomás elôre nyomja a lövedéket a fegyver csövében.\r\n\r\nA lövedék a duplacsövû sörétes puska töltényében lehet golyó vagy sörét. A lövedék egy kaliberû, nagy hatótávolságú lövésre tervezett fémlövedék. A sörét sok különbözô kaliberû kis fémgolyóból álló lövedék, amelyet rövid távolságokra, nagy szórással történô lövésre szánnak.\r\n\r\nA kétcsövû lôszerek különbözô paraméterekkel rendelkezhetnek, mint például a kaliber, a lövedék súlya, a lôpor típusa és mennyisége, valamint a gyújtószerkezet típusa. Ezek a paraméterek a fegyver adott típusától és céljától - vadászat, sportlövészet vagy önvédelem - függôen változhatnak.\r\n\r\nFontos az összes biztonsági szabály betartása és a kétcsövû sörétes puskákhoz való patronok helyes használata. A szabályok be nem tartása és a nem megfelelô használat súlyos sérülést vagy a puska károsodását eredményezheti."
 
 #. Key:	Animals
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3448,14 +3448,14 @@ msgstr "A bogyó színe sötétlila. Egyes fajok kékes patinájúak.\r\nFélcse
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Bleach"
 msgid "Bleach"
-msgstr ""
+msgstr "Fehérítô"
 
 #. Key:	BleachText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,BleachText"
 msgid "Bleach is a chemical used to remove stains and lighten fabrics. It helps to restore white color to previously soiled or graying fabrics.\r\n\r\nBleach can be available in different forms including liquid, powder or gel. It contains active ingredients such as hydrogen peroxide (oxidant) or strong bleaching agents that provide effective removal of stains and redness.\r\n\r\nBleach penetrates into the fabric structure and oxidizes the organic matter that causes stains. It breaks down pigments and erases stains, returning fabrics to a fresh and vibrant appearance. Bleach can also remove yellowness and write on the surface of fabrics, returning them to their \"newness\".\r\n\r\nIt is important to use bleach as directed and follow safety guidelines, as it contains chemicals that can be harmful to skin and health. Improper use of bleach or improper exposure to other surfaces can damage or discolor materials.\r\n\r\nBleach can be used on various types of textiles including clothing, bedding, towels and curtains. It can also be effective in removing stains from coffee, tea, wine, blood and other organic substances.\r\n\r\nIn addition to fabrics, bleach can also be used to clean and brighten other surfaces such as ceramics, plastic and even some types of leather.\r\n\r\nIt is important to remember that some types of fabrics and materials can be sensitive to bleach, so it is always advisable to test it on a small area before use or follow the directions on the product label."
-msgstr ""
+msgstr "A fehérítô a foltok eltávolítására és a szövetek világosítására használt vegyszer. Segít visszaállítani a fehér színt a korábban szennyezett vagy szürkés színû szövetekbe.\r\n\r\nA fehérítô különbözô formákban, többek között folyékony, por vagy gél formájában kapható. Olyan aktív összetevôket tartalmaz, mint a hidrogén-peroxid (oxidálószer) vagy erôs fehérítôszerek, amelyek hatékonyan eltávolítják a foltokat és a pirosságot.\r\n\r\nA fehérítô behatol a szövet szerkezetébe és oxidálja a foltokat okozó szerves anyagokat. Lebontja a pigmenteket és eltünteti a foltokat, így a szövetek újra friss és élénk megjelenésûek lesznek. A fehérítô a szövetek felületén lévô sárgaságot és íróságot is eltávolítja, visszaadva a szövetek \"újszerûségét\".\r\n\r\nFontos, hogy a fehérítôt elôírás szerint használja, és tartsa be a biztonsági elôírásokat, mivel olyan vegyi anyagokat tartalmaz, amelyek károsak lehetnek a bôrre és az egészségre. A fehérítô nem megfelelô használata vagy más felületekkel való nem megfelelô érintkezése károsíthatja vagy elszínezheti az anyagokat.\r\n\r\nA fehérítô különbözô típusú textíliákon használható, beleértve a ruhákat, ágynemût, törölközôket és függönyöket. A kávé, tea, bor, vér és más szerves anyagok foltjainak eltávolításában is hatékony lehet.\r\n\r\nA szöveteken kívül a fehérítô más felületek, például kerámia, mûanyag és még egyes bôrtípusok tisztítására és kifényesítésére is használható.\r\n\r\nFontos megjegyezni, hogy bizonyos típusú szövetek és anyagok érzékenyek lehetnek a fehérítôszerre, ezért használat elôtt mindig ajánlatos egy kis területen kipróbálni, vagy követni a termék címkéjén található utasításokat."
 
 #. Key:	Blueberry
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3889,14 +3889,14 @@ msgstr "A gyufa kis fapálcikák, amelyeknek a feje arra szolgál, hogy tüzet g
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScrap"
 msgid "Metal scrap"
-msgstr ""
+msgstr "Fémhulladék"
 
 #. Key:	MetalScraptext
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScraptext"
 msgid "Scrap metal is waste and scrap metal products that are no longer usable in their original form. They can include various types of metals such as steel, iron, aluminum, copper, tin, nickel, lead, etc.\r\n\r\nScrap metal can come from a variety of sources including automobiles, electronics, appliances, building structures, packaging materials, old plumbing fixtures, and other metal products.\r\n\r\nIt can come in a variety of shapes and sizes, including lump, scrap, chip or powdered scrap metal. Each type has a different degree of value and specific recycling requirements.\r\n\r\nScrap metal is an important source of secondary raw materials that can be melted down and used to produce new metal products. This reduces the need to mine and recycle primary metals, reducing the negative impact on the environment."
-msgstr ""
+msgstr "A fémhulladék olyan hulladék és fémhulladék termékek, amelyek eredeti formájukban már nem használhatók. Ezek közé tartozhatnak különféle fémek, például acél, vas, alumínium, réz, ón, nikkel, ólom stb.\r\n\r\nA fémhulladék számos forrásból származhat, beleértve az autókat, elektronikai cikkeket, készülékeket, épületszerkezeteket, csomagolóanyagokat, régi vízvezeték-szerelvényeket és egyéb fémtermékeket.\r\n\r\nA fémhulladék különbözô formájú és méretû lehet, beleértve a darabos, törmelékes, forgácsos vagy porított fémhulladékot. Mindegyik típusnak más-más az értéke és a sajátos újrahasznosítási követelményei.\r\n\r\nA fémhulladék fontos forrása a másodlagos nyersanyagoknak, amelyeket beolvasztva új fémtermékek elôállítására lehet felhasználni. Ez csökkenti az elsôdleges fémek bányászatának és újrahasznosításának szükségességét, csökkentve ezzel a környezetre gyakorolt negatív hatást."
 
 #. Key:	Moonshine
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -4764,14 +4764,14 @@ msgstr "A munkapadon különbözô tárgyakat, például madáretetôket készí
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,19Name"
 msgid "Lockpicks"
-msgstr "Lakatcsákányok"
+msgstr "Zártfeltörôk"
 
 #. Key:	19Text
 #. SourceLocation:	/Game/Objects/Texts/Learning.Learning
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,19Text"
 msgid "You need lockpicks to crack the chests that are scattered all over the map."
-msgstr "A térképen szétszórt ládák feltöréséhez lakatpálcikákra van szükséged."
+msgstr "A térképen szétszórt ládák feltöréséhez zárfeltöröre van szükséged."
 
 #. Key:	1Name
 #. SourceLocation:	/Game/Objects/Texts/Learning.Learning
@@ -5275,7 +5275,7 @@ msgstr "Válassza ki a számítógép jellemzôi alapján a kívánt játékmód
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Telefon"
 
 #. Key:	NewsGame
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5387,14 +5387,14 @@ msgstr "Sugárkövetés"
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Shader"
 msgid "Shader"
-msgstr ""
+msgstr "Shader"
 
 #. Key:	ShaderText
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,ShaderText"
 msgid "Select your preferred shader, apply the settings and restart the game."
-msgstr ""
+msgstr "Válassza ki a kívánt árnyékolót, alkalmazza a beállításokat, és indítsa újra a játékot."
 
 #. Key:	Ultraperformance
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5555,7 +5555,7 @@ msgstr "Rajzolj graffitit"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Dumpster"
 msgid "Throw in the trash"
-msgstr ""
+msgstr "Dobd a szemétbe"
 
 #. Key:	ErrorChopping
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5583,7 +5583,7 @@ msgstr "Mielôtt fürödnél, be kell gyújtanod a kályhát..."
 #: /Game/Objects/Texts/Notice.Notice
 msgctxt "Notice,ErrorSawing"
 msgid "A failed attempt at sawing it off. Try again..."
-msgstr ""
+msgstr "Egy sikertelen fûrészelési kísérlet. Próbáld újra..."
 
 #. Key:	ErrorWater
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5807,7 +5807,7 @@ msgstr "Elôzô csatorna"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,PutShelfs"
 msgid "Put it on a shelf"
-msgstr ""
+msgstr "Tedd a polcra"
 
 #. Key:	Radio
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5884,7 +5884,7 @@ msgstr "Alvás"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Specifythequantity"
 msgid "Specify the quantity"
-msgstr ""
+msgstr "Adja meg a mennyiséget"
 
 #. Key:	Stamina
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5940,7 +5940,7 @@ msgstr "Szomjúság"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Throwaway"
 msgid "Throw away"
-msgstr ""
+msgstr "Dobd el"
 
 #. Key:	Time
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -6178,14 +6178,14 @@ msgstr "Misha tehene"
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTV"
 msgid "Old TV"
-msgstr ""
+msgstr "Régi TV"
 
 #. Key:	OldTVText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTVText"
 msgid "An old TV. Can be handed over to a metal depot for 250 rubles."
-msgstr ""
+msgstr "Egy régi tévé. Átadható egy fémtelepen 250 rubelért."
 
 #. Key:	10Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -7627,21 +7627,21 @@ msgstr "Takarmányok"
 #: /Game/Objects/Texts/ShopAnimals.ShopAnimals
 msgctxt "ShopAnimals,GetDrunk"
 msgid "Get drunk"
-msgstr "Rúgj be"
+msgstr "Adj inni"
 
 #. Key:	GetMilk
 #. SourceLocation:	/Game/Objects/Texts/ShopAnimals.ShopAnimals
 #: /Game/Objects/Texts/ShopAnimals.ShopAnimals
 msgctxt "ShopAnimals,GetMilk"
 msgid "Get Milk"
-msgstr "Szerezd meg a tejet"
+msgstr "Fejd meg a tehenet"
 
 #. Key:	GetWool
 #. SourceLocation:	/Game/Objects/Texts/ShopAnimals.ShopAnimals
 #: /Game/Objects/Texts/ShopAnimals.ShopAnimals
 msgctxt "ShopAnimals,GetWool"
 msgid "Get Wool"
-msgstr "Szerezz gyapjút"
+msgstr "Gyapjú beszerzése"
 
 #. Key:	Grain
 #. SourceLocation:	/Game/Objects/Texts/ShopAnimals.ShopAnimals
@@ -8110,14 +8110,14 @@ msgstr "Látogatók"
 #: /Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 msgctxt "ST_Menu,ControlsSettings_Bindings_MoveBackward"
 msgid "Move Backward"
-msgstr "Mozgatás vissza"
+msgstr "Mozgatás hátra"
 
 #. Key:	ControlsSettings_Bindings_MoveBackward_Subtext
 #. SourceLocation:	/Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 #: /Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 msgctxt "ST_Menu,ControlsSettings_Bindings_MoveBackward_Subtext"
 msgid "Key/Button to <h>move backward.</>"
-msgstr "Billentyû/gomb a <h>visszafelé lépéshez.</>"
+msgstr "Billentyû/gomb a <h>hátrafelé lépéshez.</>"
 
 #. Key:	ControlsSettings_Bindings_MoveForward
 #. SourceLocation:	/Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
@@ -8257,7 +8257,7 @@ msgstr "Guggolás"
 #: /Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 msgctxt "ST_Menu,ControlsSettings_Crouch_SubText"
 msgid "Key/Button to <h>crouch.</>"
-msgstr "Billentyû/gomb a <h>guggoláshoz.&lt;/&gt"
+msgstr "Billentyû/gomb a <h>guggoláshoz.</>"
 
 #. Key:	ControlsSettings_GamePadSettings
 #. SourceLocation:	/Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
@@ -8285,7 +8285,7 @@ msgstr "Leltár"
 #: /Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 msgctxt "ST_Menu,ControlsSettings_Inventory_SubText"
 msgid "Key/Button to <h>open inventory.</>"
-msgstr "Billentyû/gomb a <h>leltár megnyitásához.&lt;/&gt"
+msgstr "Billentyû/gomb a <h>leltár megnyitásához.</>"
 
 #. Key:	ControlsSettings_InvertSticks
 #. SourceLocation:	/Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
@@ -9972,7 +9972,7 @@ msgstr "Még nem tudok felszállni erre a közlekedési eszközre....."
 #: /Game/Objects/Texts/Transport.Transport
 msgctxt "Transport,Gear"
 msgid "Gear"
-msgstr "Fogaskerék"
+msgstr "Váltó"
 
 #. Key:	NoHay
 #. SourceLocation:	/Game/Objects/Texts/Transport.Transport
@@ -10231,7 +10231,7 @@ msgstr "Nekem nincs duplacsövû..."
 #: /Game/Objects/Texts/Weapons.Weapons
 msgctxt "Weapons,Double-barrelError2"
 msgid "First, choose a double-barreled..."
-msgstr ""
+msgstr "Elôször is, válasszon egy duplacsövût..."
 
 #. Key:	Double-barrelText
 #. SourceLocation:	/Game/Objects/Texts/Weapons.Weapons
