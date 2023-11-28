@@ -1376,7 +1376,7 @@ msgstr "Standard"
 #: /Game/Objects/Character/UI/RadialMenu/RadialMenuType.RadialMenuType.DisplayNameMap(5 - Value).DisplayNameMap
 msgctxt ",DC4A19384618B532369A50B5FF316D13"
 msgid "Hoe"
-msgstr "Hacke"
+msgstr "Spitzhacke"
 
 #. Key:	DC5D36714CD594D86E26F3B45786B435
 #. SourceLocation:	/Game/AdvancedPhotoMode/Blueprints/UI_PhotoMode.UI_PhotoMode_C:ShowHideMouseTxtButton [Script Bytecode]
@@ -4729,7 +4729,7 @@ msgstr "Hacke"
 #: /Game/Objects/Texts/Learning.Learning
 msgctxt "Learning,16Text"
 msgid "Here you can find the hoe needed for mining stone."
-msgstr "Hier findest du die Hacke, die du für den Steinabbau brauchst."
+msgstr "Hier findest du die Spitzhacke, die du für den Steinabbau brauchst."
 
 #. Key:	17Name
 #. SourceLocation:	/Game/Objects/Texts/Learning.Learning
@@ -8138,7 +8138,7 @@ msgstr "Taste/Knopf zum <h>Vorwärts gehen.</>"
 #: /Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 msgctxt "ST_Menu,ControlsSettings_Bindings_MoveLeft"
 msgid "Move Left"
-msgstr "Link bewegen"
+msgstr "Links bewegen"
 
 #. Key:	ControlsSettings_Bindings_MoveLeft_Subtext
 #. SourceLocation:	/Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
@@ -10252,7 +10252,7 @@ msgstr "Leere Hände"
 #: /Game/Objects/Texts/Weapons.Weapons
 msgctxt "Weapons,Hoe"
 msgid "Hoe"
-msgstr "Hacke"
+msgstr "Spitzhacke"
 
 #. Key:	HoeError
 #. SourceLocation:	/Game/Objects/Texts/Weapons.Weapons
