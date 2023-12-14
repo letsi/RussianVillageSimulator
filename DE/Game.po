@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
 "POT-Creation-Date: 2023-11-26 01:42\n"
-"PO-Revision-Date: 2023-11-26 01:42\n"
+"PO-Revision-Date: 2023-11-28 20:00\n"
 "Language-Team: \n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -2825,21 +2825,21 @@ msgstr "Ich kann noch keinen Honig bekommen...."
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Firestation"
 msgid "Fire station"
-msgstr ""
+msgstr "Feuerwache"
 
 #. Key:	Hospital
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Hospital"
 msgid "Hospital"
-msgstr ""
+msgstr "Krankenhaus"
 
 #. Key:	House
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,House"
 msgid "House"
-msgstr ""
+msgstr "Haus"
 
 #. Key:	Inventory
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2860,7 +2860,7 @@ msgstr "Lernprotokoll"
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Metalwarehouse"
 msgid "Metal warehouse"
-msgstr ""
+msgstr "Metalllager"
 
 #. Key:	Money
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2888,21 +2888,21 @@ msgstr "Reputation: "
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shool"
 msgid "Shool"
-msgstr ""
+msgstr "Schule"
 
 #. Key:	Shop
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,Shop"
 msgid "Shop"
-msgstr ""
+msgstr "Geschäft"
 
 #. Key:	VillageDisco
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
 msgctxt "CoreMenu,VillageDisco"
 msgid "Village Disco"
-msgstr ""
+msgstr "Dorf-Disco"
 
 #. Key:	Berryfridge
 #. SourceLocation:	/Game/Objects/Texts/CoreWareHouse.CoreWareHouse
@@ -3294,14 +3294,14 @@ msgstr "Alles"
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreled"
 msgid "Ammo for double-barreled"
-msgstr ""
+msgstr "Munition für Doppelläufige"
 
 #. Key:	Ammo_for_a_double-barreledText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Ammo_for_a_double-barreledText"
 msgid "Double-barrel cartridges are special projectiles used in double-barrel firearms. They consist of a cartridge case (casing) in which the primer (igniter), powder and projectile (bullet or shot) are inserted.\r\n\r\nThe cartridge case is usually made of brass or steel. It is shaped like a cylinder with tapered edges and opens at one end to load powder and projectile. The casing can be easily removed from the barrel of the gun after firing.\r\n\r\nThe primer is an igniter, a container containing a small amount of explosive that is ignited by the impact of the firing pin when the shot is fired. The explosion of the primer causes a fire flash, which in turn ignites the gunpowder inside the cartridge case.\r\n\r\nGunpowder is an explosive substance that burns when the primer ignites, creating a high pressure of gases inside the cartridge case. This pressure pushes the projectile forward down the barrel of the gun.\r\n\r\nThe projectile in a double-barreled shotgun cartridge can be a bullet or shot. A bullet is a metal projectile of one caliber designed for long-range shooting. Shot is a projectile consisting of many small metal balls of different caliber, intended for shooting at short distances with a wide spread.\r\n\r\nDouble-barrel ammunition can have different parameters such as caliber, projectile weight, type and amount of powder, and type of primer. These parameters can vary depending on the specific model of gun and its purpose - for hunting, sport shooting or self-defense.\r\n\r\nIt is important to follow all safety rules and correctly use cartridges for double-barrel shotguns. Failure to follow the rules and improper use may result in serious injury or damage to the shotgun."
-msgstr ""
+msgstr "Doppelläufige Patronen sind spezielle Geschosse, die in doppelläufigen Feuerwaffen verwendet werden. Sie bestehen aus einer Patronenhülse (Gehäuse), in die das Zündhütchen (Anzünder), das Pulver und das Projektil (Geschoss oder Schuss) eingelegt werden.\r\n\r\nDie Patronenhülse ist normalerweise aus Messing oder Stahl gefertigt. Sie hat die Form eines Zylinders mit abgeschrägten Kanten und öffnet sich an einem Ende, um Pulver und Geschoss zu laden. Die Hülse kann nach dem Abfeuern leicht aus dem Lauf der Waffe entfernt werden.\r\n\r\nDas Zündhütchen ist ein Anzünder, ein Behälter mit einer kleinen Menge Sprengstoff, der durch den Aufprall des Schlagbolzens beim Abfeuern des Schusses gezündet wird. Die Explosion des Zündhütchens verursacht einen Feuerblitz, der wiederum das Schießpulver in der Patronenhülse entzündet.\r\n\r\nDas Schießpulver ist eine explosive Substanz, die bei der Zündung des Zündhütchens verbrennt und einen hohen Gasdruck in der Patronenhülse erzeugt. Dieser Druck treibt das Projektil im Lauf der Waffe vorwärts.\r\n\r\nDas Projektil in einer doppelläufigen Schrotpatrone kann ein Geschoss oder ein Schuss sein. Ein Geschoss ist ein Metallprojektil eines bestimmten Kalibers, das für das Schießen auf große Entfernungen entwickelt wurde. Ein Schrotgeschoss ist ein Projektil, das aus vielen kleinen Metallkugeln unterschiedlichen Kalibers besteht und für das Schießen auf kurze Entfernungen mit einer großen Streuung gedacht ist.\r\n\r\nDoppelflintenmunition kann verschiedene Parameter wie Kaliber, Geschossgewicht, Art und Menge des Pulvers und Art des Zündhütchens haben. Diese Parameter können je nach Gewehrmodell und Zweck - Jagd, Sportschießen oder Selbstverteidigung - variieren.\r\n\r\nEs ist wichtig, alle Sicherheitsregeln zu befolgen und Patronen für doppelläufige Flinten richtig zu verwenden. Die Nichtbeachtung der Regeln und die unsachgemäße Verwendung können zu schweren Verletzungen oder Schäden an der Flinte führen."
 
 #. Key:	Animals
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3448,14 +3448,14 @@ msgstr "Die Farbe der Beere ist dunkelviolett. Einige Arten haben eine bläulich
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Bleach"
 msgid "Bleach"
-msgstr ""
+msgstr "Bleichen"
 
 #. Key:	BleachText
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,BleachText"
 msgid "Bleach is a chemical used to remove stains and lighten fabrics. It helps to restore white color to previously soiled or graying fabrics.\r\n\r\nBleach can be available in different forms including liquid, powder or gel. It contains active ingredients such as hydrogen peroxide (oxidant) or strong bleaching agents that provide effective removal of stains and redness.\r\n\r\nBleach penetrates into the fabric structure and oxidizes the organic matter that causes stains. It breaks down pigments and erases stains, returning fabrics to a fresh and vibrant appearance. Bleach can also remove yellowness and write on the surface of fabrics, returning them to their \"newness\".\r\n\r\nIt is important to use bleach as directed and follow safety guidelines, as it contains chemicals that can be harmful to skin and health. Improper use of bleach or improper exposure to other surfaces can damage or discolor materials.\r\n\r\nBleach can be used on various types of textiles including clothing, bedding, towels and curtains. It can also be effective in removing stains from coffee, tea, wine, blood and other organic substances.\r\n\r\nIn addition to fabrics, bleach can also be used to clean and brighten other surfaces such as ceramics, plastic and even some types of leather.\r\n\r\nIt is important to remember that some types of fabrics and materials can be sensitive to bleach, so it is always advisable to test it on a small area before use or follow the directions on the product label."
-msgstr ""
+msgstr "Bleichmittel ist eine Chemikalie, die verwendet wird, um Flecken zu entfernen und Stoffe aufzuhellen. Sie hilft dabei, verschmutzte oder vergraute Textilien wieder weiß zu machen.\r\n\r\nBleichmittel gibt es in verschiedenen Formen, z. B. als Flüssigkeit, Pulver oder Gel. Es enthält Wirkstoffe wie Wasserstoffperoxid (Oxidationsmittel) oder starke Bleichmittel, die Flecken und Rötungen effektiv entfernen.\r\n\r\nDas Bleichmittel dringt in die Gewebestruktur ein und oxidiert die organische Substanz, die Flecken verursacht. Es baut die Pigmente ab und entfernt die Flecken, so dass die Stoffe wieder frisch und lebendig aussehen. Bleichmittel kann auch Vergilbungen und Flecken auf der Oberfläche von Stoffen entfernen und ihnen ihr "neues Aussehen" zurückgeben.\r\n\r\nEs ist wichtig, Bleichmittel vorschriftsmäßig zu verwenden und die Sicherheitsrichtlinien zu befolgen, da es Chemikalien enthält, die für Haut und Gesundheit schädlich sein können. Unsachgemäße Verwendung von Bleichmitteln oder unsachgemäßer Kontakt mit anderen Oberflächen kann Materialien beschädigen oder verfärben.\r\n\r\nBleichmittel kann für verschiedene Arten von Textilien wie Kleidung, Bettwäsche, Handtücher und Vorhänge verwendet werden. Es kann auch Flecken von Kaffee, Tee, Wein, Blut und anderen organischen Substanzen entfernen.\r\n\r\nNeben Textilien kann Bleiche auch zum Reinigen und Aufhellen anderer Oberflächen wie Keramik, Kunststoff und sogar einiger Lederarten verwendet werden.\r\n\r\nEs ist wichtig, daran zu denken, dass einige Stoffarten und Materialien empfindlich auf Bleichmittel reagieren können. Deshalb ist es immer ratsam, es vor der Anwendung an einer kleinen Stelle zu testen oder die Anweisungen auf dem Produktetikett zu befolgen."
 
 #. Key:	Blueberry
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -3889,14 +3889,14 @@ msgstr "Streichhölzer sind kleine Holzstäbchen mit Köpfen, mit denen man Feue
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScrap"
 msgid "Metal scrap"
-msgstr ""
+msgstr "Metallschrott"
 
 #. Key:	MetalScraptext
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,MetalScraptext"
 msgid "Scrap metal is waste and scrap metal products that are no longer usable in their original form. They can include various types of metals such as steel, iron, aluminum, copper, tin, nickel, lead, etc.\r\n\r\nScrap metal can come from a variety of sources including automobiles, electronics, appliances, building structures, packaging materials, old plumbing fixtures, and other metal products.\r\n\r\nIt can come in a variety of shapes and sizes, including lump, scrap, chip or powdered scrap metal. Each type has a different degree of value and specific recycling requirements.\r\n\r\nScrap metal is an important source of secondary raw materials that can be melted down and used to produce new metal products. This reduces the need to mine and recycle primary metals, reducing the negative impact on the environment."
-msgstr ""
+msgstr "Schrott sind Abfall- und Altmetallprodukte, die in ihrer ursprünglichen Form nicht mehr verwendbar sind. Dazu gehören verschiedene Arten von Metallen wie Stahl, Eisen, Aluminium, Kupfer, Zinn, Nickel, Blei usw.\r\n\r\nSchrott kann aus einer Vielzahl von Quellen stammen, z. B. aus Autos, Elektronik, Geräten, Gebäuden, Verpackungsmaterialien, alten Sanitärarmaturen und anderen Metallprodukten.\r\n\r\nEs kann verschiedene Formen und Größen haben, wie z.B. Klumpen, Schrott, Späne oder pulverisiertes Metall. Jede Art hat einen anderen Wert und spezifische Recyclinganforderungen.\r\n\r\nMetallschrott ist eine wichtige Quelle für Sekundärrohstoffe, die eingeschmolzen und zur Herstellung neuer Metallprodukte verwendet werden können. Dadurch müssen weniger Primärmetalle abgebaut und recycelt werden, was die negativen Auswirkungen auf die Umwelt verringert."
 
 #. Key:	Moonshine
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
@@ -5275,7 +5275,7 @@ msgstr "Wähle deinen bevorzugten Spielmodus entsprechend den Eigenschaften dein
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Mobile"
 msgid "Mobile"
-msgstr ""
+msgstr "Handy"
 
 #. Key:	NewsGame
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5387,14 +5387,14 @@ msgstr "Ray Tracing"
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,Shader"
 msgid "Shader"
-msgstr ""
+msgstr "Shader"
 
 #. Key:	ShaderText
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
 #: /Game/Objects/Texts/Menu.Menu
 msgctxt "Menu,ShaderText"
 msgid "Select your preferred shader, apply the settings and restart the game."
-msgstr ""
+msgstr "Wähle deinen bevorzugten Shader, übernehme die Einstellungen und starte das Spiel neu."
 
 #. Key:	Ultraperformance
 #. SourceLocation:	/Game/Objects/Texts/Menu.Menu
@@ -5555,7 +5555,7 @@ msgstr "Graffiti zeichnen"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Dumpster"
 msgid "Throw in the trash"
-msgstr ""
+msgstr "In den Müll werfen"
 
 #. Key:	ErrorChopping
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5583,7 +5583,7 @@ msgstr "Bevor du ein Bad nimmst, musst du den Ofen anmachen..."
 #: /Game/Objects/Texts/Notice.Notice
 msgctxt "Notice,ErrorSawing"
 msgid "A failed attempt at sawing it off. Try again..."
-msgstr ""
+msgstr "Versuch gescheitert, ihn abzusägen. Versuche es erneut..."
 
 #. Key:	ErrorWater
 #. SourceLocation:	/Game/Objects/Texts/Notice.Notice
@@ -5807,7 +5807,7 @@ msgstr "Vorheriger kanal"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,PutShelfs"
 msgid "Put it on a shelf"
-msgstr ""
+msgstr "Ins Regal legen"
 
 #. Key:	Radio
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5884,7 +5884,7 @@ msgstr "Geh schlafen"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Specifythequantity"
 msgid "Specify the quantity"
-msgstr ""
+msgstr "Gib die Menge an"
 
 #. Key:	Stamina
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -5940,7 +5940,7 @@ msgstr "Durst"
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Throwaway"
 msgid "Throw away"
-msgstr ""
+msgstr "Wegwerfen"
 
 #. Key:	Time
 #. SourceLocation:	/Game/Objects/Texts/Texts.Texts
@@ -6178,14 +6178,14 @@ msgstr "Misha's Kuh"
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTV"
 msgid "Old TV"
-msgstr ""
+msgstr "Alter Fernseher"
 
 #. Key:	OldTVText
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
 #: /Game/Objects/Texts/QuestsItems.QuestsItems
 msgctxt "QuestsItems,OldTVText"
 msgid "An old TV. Can be handed over to a metal depot for 250 rubles."
-msgstr ""
+msgstr "Ein alter Fernseher. Kann für 250 Rubel bei einem Metalllager abgegeben werden."
 
 #. Key:	10Name
 #. SourceLocation:	/Game/Objects/Texts/QuestsList.QuestsList
@@ -10231,7 +10231,7 @@ msgstr "Ich habe keine Doppelläufige..."
 #: /Game/Objects/Texts/Weapons.Weapons
 msgctxt "Weapons,Double-barrelError2"
 msgid "First, choose a double-barreled..."
-msgstr ""
+msgstr "Wähle zunächst eine Doppelläufige..."
 
 #. Key:	Double-barrelText
 #. SourceLocation:	/Game/Objects/Texts/Weapons.Weapons
@@ -10316,4 +10316,3 @@ msgstr "Baumstämme sägen"
 msgctxt "WorkDesk,WorkDesk"
 msgid "WorkDesk"
 msgstr "Arbeitstisch"
-
