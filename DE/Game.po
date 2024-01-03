@@ -6738,7 +6738,7 @@ msgstr "Zeige"
 #: /Game/Objects/Texts/Quests.Quests
 msgctxt "Quests,Surrender"
 msgid "Surrender"
-msgstr "Aufgeben"
+msgstr "Abgeben"
 
 #. Key:	Beerbarrel
 #. SourceLocation:	/Game/Objects/Texts/QuestsItems.QuestsItems
@@ -9503,7 +9503,7 @@ msgstr "VSync, oder Vertikale Synchronisation, ist eine Grafikoption, die die Bi
 #: /Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
 msgctxt "ST_Menu,DisplaySettings_WindowMode"
 msgid "Window Mode"
-msgstr "Fenstermodus"
+msgstr "Anzeigemodus"
 
 #. Key:	DisplaySettings_WindowMode_Borderless
 #. SourceLocation:	/Game/MenuSystemPro/ExampleContent/Text/Menu/ST_Menu.ST_Menu
