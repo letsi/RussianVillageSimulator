@@ -4,8 +4,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Game\n"
-"POT-Creation-Date: 2023-11-27 00:00\n"
-"PO-Revision-Date: 2023-11-27 00:00\n"
+"POT-Creation-Date: 2024-01-03 07:49\n"
+"PO-Revision-Date: 2024-01-03 07:49\n"
 "Language-Team: \n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -2008,6 +2008,13 @@ msgctxt "BaseNPC,Melissa"
 msgid "Melissa"
 msgstr ""
 
+#. Key:	MerVictor
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,MerVictor"
+msgid "Mayor Viktor"
+msgstr ""
+
 #. Key:	Michael
 #. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
@@ -2153,6 +2160,13 @@ msgstr ""
 #: /Game/Objects/Texts/BaseNPC.BaseNPC
 msgctxt "BaseNPC,SvetikDoctor"
 msgid "Svetik Doctor"
+msgstr ""
+
+#. Key:	SvetlanaVolkova
+#. SourceLocation:	/Game/Objects/Texts/BaseNPC.BaseNPC
+#: /Game/Objects/Texts/BaseNPC.BaseNPC
+msgctxt "BaseNPC,SvetlanaVolkova"
+msgid "Svetlana Volkova"
 msgstr ""
 
 #. Key:	TeacherVitaly
@@ -2820,6 +2834,90 @@ msgctxt "Beehive,NoHoney2"
 msgid "I can't get honey yet...."
 msgstr ""
 
+#. Key:	ID0
+#. SourceLocation:	/Game/Objects/Texts/Berries.Berries
+#: /Game/Objects/Texts/Berries.Berries
+msgctxt "Berries,ID0"
+msgid "We should plant some berries..."
+msgstr ""
+
+#. Key:	Armchair
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Armchair"
+msgid "Armchair"
+msgstr ""
+
+#. Key:	Billiardtable
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Billiardtable"
+msgid "Billiard table"
+msgstr ""
+
+#. Key:	Buy
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Buy"
+msgid "Buy"
+msgstr ""
+
+#. Key:	Dressingtable
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Dressingtable"
+msgid "Dressing table"
+msgstr ""
+
+#. Key:	Fireplace
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Fireplace"
+msgid "Fireplace"
+msgstr ""
+
+#. Key:	Maternitynest
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Maternitynest"
+msgid "Maternity nest"
+msgstr ""
+
+#. Key:	NoBuyHouse
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,NoBuyHouse"
+msgid "You haven't bought the Family Nest yet..."
+msgstr ""
+
+#. Key:	Officesofa
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Officesofa"
+msgid "Office sofa"
+msgstr ""
+
+#. Key:	Sofa
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,Sofa"
+msgid "Sofa"
+msgstr ""
+
+#. Key:	SouldNotice
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,SouldNotice"
+msgid "The item is already sold out..."
+msgstr ""
+
+#. Key:	VerandaCouch
+#. SourceLocation:	/Game/Objects/Texts/BuyItems.BuyItems
+#: /Game/Objects/Texts/BuyItems.BuyItems
+msgctxt "BuyItems,VerandaCouch"
+msgid "Veranda couch"
+msgstr ""
+
 #. Key:	Firestation
 #. SourceLocation:	/Game/Objects/Texts/CoreMenu.CoreMenu
 #: /Game/Objects/Texts/CoreMenu.CoreMenu
@@ -2974,6 +3072,13 @@ msgctxt "CreateSystemText,BarnText"
 msgid "In order to get permission to build a large barn you need to obtain a certain amount of resources."
 msgstr ""
 
+#. Key:	Getflour
+#. SourceLocation:	/Game/Objects/Texts/CreateSystemText.CreateSystemText
+#: /Game/Objects/Texts/CreateSystemText.CreateSystemText
+msgctxt "CreateSystemText,Getflour"
+msgid "Get flour"
+msgstr ""
+
 #. Key:	Greenhouse
 #. SourceLocation:	/Game/Objects/Texts/CreateSystemText.CreateSystemText
 #: /Game/Objects/Texts/CreateSystemText.CreateSystemText
@@ -3007,6 +3112,20 @@ msgstr ""
 #: /Game/Objects/Texts/CreateSystemText.CreateSystemText
 msgctxt "CreateSystemText,OvenText"
 msgid "The Russian stove is a traditional heating device that was widespread in Russia and other CIS countries. It serves not only for space heating, but also acts as a cooking stove and provides the ability to cook food.\r\n\r\nThe Russian oven is usually built of brick or stone, although in some cases other material can be used. It consists of several parts: the firebox, chimneys, vertical shaft, horizontal furnace ducts, and the roaster. The vertical shaft rises upwards from the firebox and serves for flue gas discharge.\r\n\r\nThe Russian stove has a high heat capacity, which means that it heats up slowly but retains heat evenly for a long time even after the fire has gone out. This makes it particularly effective for heating a home, especially during the cold winter months.\r\n\r\nWhen the furnace heats up, hot air rises in a vertical shaft and then travels through the horizontal furnace ducts, distributing heat evenly throughout the room. The top of the stove, called the fryer, is used for cooking and keeping warm.\r\n\r\nOne of the features of the Russian stove is the ability to use it to cook various dishes. Food can be cooked on the griddle, and the lower parts of the stove usually have a special niche where you can store burning coals or wood to maintain a certain temperature.\r\n\r\nThe Russian oven also has an important cultural significance. It is a symbol of the Russian village and traditional way of life. In the past, the oven was the center of family life, around which people gathered, exchanged news and spent time together. The oven also often acts as a decorative element in the Russian interior style, adding a unique charm and authenticity to the room.\r\n\r\nToday, the Russian stove is still used in some villages and country houses, especially in more remote areas where gas or electric heating systems are not always available or are considered uneconomical."
+msgstr ""
+
+#. Key:	Processedwheat
+#. SourceLocation:	/Game/Objects/Texts/CreateSystemText.CreateSystemText
+#: /Game/Objects/Texts/CreateSystemText.CreateSystemText
+msgctxt "CreateSystemText,Processedwheat"
+msgid "Processed wheat..."
+msgstr ""
+
+#. Key:	Processingofwheat
+#. SourceLocation:	/Game/Objects/Texts/CreateSystemText.CreateSystemText
+#: /Game/Objects/Texts/CreateSystemText.CreateSystemText
+msgctxt "CreateSystemText,Processingofwheat"
+msgid "Processing of wheat"
 msgstr ""
 
 #. Key:	1
@@ -3093,11 +3212,67 @@ msgctxt "FastTravel,17"
 msgid "Nature Reserve"
 msgstr ""
 
+#. Key:	18
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,18"
+msgid "Administrative district"
+msgstr ""
+
+#. Key:	19
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,19"
+msgid "Outside the mansion"
+msgstr ""
+
 #. Key:	2
 #. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
 #: /Game/Objects/Texts/FastTravel.FastTravel
 msgctxt "FastTravel,2"
 msgid "Store by the house"
+msgstr ""
+
+#. Key:	20
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,20"
+msgid "Verkhovaya village"
+msgstr ""
+
+#. Key:	21
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,21"
+msgid "Navashino"
+msgstr ""
+
+#. Key:	22
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,22"
+msgid "Kulebaki"
+msgstr ""
+
+#. Key:	23
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,23"
+msgid "Radio factory"
+msgstr ""
+
+#. Key:	24
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,24"
+msgid "Vyksa"
+msgstr ""
+
+#. Key:	25
+#. SourceLocation:	/Game/Objects/Texts/FastTravel.FastTravel
+#: /Game/Objects/Texts/FastTravel.FastTravel
+msgctxt "FastTravel,25"
+msgid "Razvilka"
 msgstr ""
 
 #. Key:	3
@@ -3254,6 +3429,27 @@ msgctxt "Fish,Waiting"
 msgid "Waiting..."
 msgstr ""
 
+#. Key:	3
+#. SourceLocation:	/Game/Objects/Texts/FruitTree.FruitTree
+#: /Game/Objects/Texts/FruitTree.FruitTree
+msgctxt "FruitTree,3"
+msgid "It's about to ripen: "
+msgstr ""
+
+#. Key:	Blossoms
+#. SourceLocation:	/Game/Objects/Texts/FruitTree.FruitTree
+#: /Game/Objects/Texts/FruitTree.FruitTree
+msgctxt "FruitTree,Blossoms"
+msgid "Blossoms: "
+msgstr ""
+
+#. Key:	ID0
+#. SourceLocation:	/Game/Objects/Texts/FruitTree.FruitTree
+#: /Game/Objects/Texts/FruitTree.FruitTree
+msgctxt "FruitTree,ID0"
+msgid "We should plant a fruit tree..."
+msgstr ""
+
 #. Key:	Collapse
 #. SourceLocation:	/Game/Objects/Texts/Interaction.Interaction
 #: /Game/Objects/Texts/Interaction.Interaction
@@ -3308,6 +3504,20 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,Animals"
 msgid "Animals"
+msgstr ""
+
+#. Key:	Apple
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Apple"
+msgid "Apple"
+msgstr ""
+
+#. Key:	AppleText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,AppleText"
+msgid "An apple is the fruit of the apple tree, one of the most popular fruit trees. Here are the main characteristics of an apple:\r\n\r\n1. Shape and size: Apples can have different shapes - rounded, oval, or elongated. The size can also vary from small to large fruits, depending on the variety.\r\n\r\n2. Color: Apples can come in a variety of colors, from bright reds and greens to yellows or even bi-colors. The coloration can be uniform or combined with different stripes or spots. \r\n\r\n3. Peel: The peel of an apple may be smooth or slightly rough. The thickness of the peel varies from variety to variety. Some apples have thin peels that can be eaten, while others may have thicker peels that require removal before consumption.\r\n\r\n4. Flesh: Apples have juicy and crisp flesh. The flesh can be white, yellow or creamy, depending on the variety of apple. It is usually sweet or sour-sweet in flavor.\r\n\r\n5. Taste: The flavor of apples can vary from sweet to sour or sweet-and-sour. Many apple varieties have a distinct flavor.\r\n\r\n6. Seeds: The seeds of an apple are located in the center of the apple and can be black or white. They are usually small and flat.\r\n\r\nApple is a healthy and nutritious fruit. It is rich in vitamins, fiber and antioxidants, and serves as a great source of energy and healthy food. Apples can be eaten fresh, added to salads, baked into pies and used to make juices, compotes and jams."
 msgstr ""
 
 #. Key:	Bearpelt
@@ -3681,6 +3891,20 @@ msgctxt "Inventory,Fishing"
 msgid "Fishing"
 msgstr ""
 
+#. Key:	Flour
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Flour"
+msgid "Flour"
+msgstr ""
+
+#. Key:	FlourText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,FlourText"
+msgid "Flour is a product obtained from the ground grains of various cultivated plants such as wheat, corn, rye, barley, etc. Here are the main characteristics of flour:\r\n\r\n1. Color: The color of flour depends on the type and quality of the grain from which it is derived. It can range from white to slightly yellowish or brownish in color.\r\n\r\n2. Consistency: Flour is usually fine and fluffy, consisting of minute particles. This is due to the fact that the grains are milled using specialized equipment.\r\n\r\n3. Nutritional Value: Flour is a rich source of carbohydrates, fiber, protein, vitamins (especially B vitamins) and minerals (such as iron, zinc and magnesium).\r\n\r\n4. Viscosity: Depending on the type of flour and its gluten content, it can have different viscosities. The high amount of gluten gives flour elasticity and allows it to bind well, an important ingredient in making dough.\r\n\r\n5. Uses: Flour is used in various culinary recipes to make bread, muffins, rolls, pies, pasta, pizza and many other products. It can also be used as a thickener for sauces and soups.\r\n\r\nIt is important to note that dietary needs and preferences can determine the type of flour that is chosen for cooking. For example, wheat flour may be useful for baking bread, while corn flour is ideal for making gluten or gluten-free doughs, depending on needs."
+msgstr ""
+
 #. Key:	Foxpelt
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
@@ -3861,6 +4085,13 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,LogText"
 msgid "Logs - round assortment of timber for use in round form, with the exception of thin-sawn mine posts, poles and stakes, or as raw material for general purpose lumber and specialty wood products."
+msgstr ""
+
+#. Key:	Manhole
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Manhole"
+msgid "Manhole"
 msgstr ""
 
 #. Key:	Matches
@@ -4066,6 +4297,41 @@ msgctxt "Inventory,Resource"
 msgid "Resource"
 msgstr ""
 
+#. Key:	Road
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Road"
+msgid "Hole"
+msgstr ""
+
+#. Key:	Russianbread
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Russianbread"
+msgid "Russian bread"
+msgstr ""
+
+#. Key:	RussianbreadText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,RussianbreadText"
+msgid "Russian bread is known for its ancient origins and traditions that have been passed down from generation to generation. It is one of the most important and popular components of Russian cuisine.\r\n\r\nRussian bread has a unique taste and aroma due to the specific way it is baked. The bread is soft and juicy, with a light crispy crust. It has a characteristic sweetish flavor, which can be varied, depending on the ingredients used.\r\n\r\nTraditionally, rye flour is used for making Russian bread, which is highly nutritious and rich in fiber. Wheat flour, yeast, salt and water are also added. Rye flour gives bread its characteristic dark color and thick consistency.\r\n\r\nRussian bread is baked in an oven - this also adds a special charm to the flavor. The bread is kept in the oven for about an hour to bake it evenly and give it its characteristic properties.\r\n\r\nRussian bread not only serves as a base for many dishes such as soups and salads, but is also a meal in its own right. It is often served as a side dish or as a tasty sandwich filling. It is important to note that Russian bread also has a great deal of symbolic meaning associated with ritual and traditional events.\r\n\r\nThus, Russian bread is an invaluable product that reflects national traditions and culture. Its unique flavor and texture make it an indispensable element on the table of Russian cuisine."
+msgstr ""
+
+#. Key:	RussianKaravay
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,RussianKaravay"
+msgid "Russian karavay"
+msgstr ""
+
+#. Key:	RussianKaravayText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,RussianKaravayText"
+msgid "Russian Russian loaf is a traditional Russian bread, which has a special significance in culture and folk customs. Here are the main characteristics of the Russian loaf:\r\n\r\n1. Shape and size: Russian loaf usually has a round shape and a larger size compared to ordinary bread. It can be from several kilograms to tens of kilograms in size, especially at folk festivals and weddings.\r\n\r\n2. Decorations: The Russian loaf is often decorated with various patterns, symbols and figures that make it special and beautiful. The patterns can be made from dough or other food components such as eggs, legs, seeds or cereals.\r\n\r\nRussian Russian loaf has deep symbolic meanings in Russian culture. 3. It has a symbolic meaning. It is associated with holidays, longevity, wealth, hospitality and family unity. The loaf is usually cut for the joy of important events or ceremonies and each guest receives a piece of the loaf, which symbolizes its part in the celebration or event.\r\n\r\n4. Taste and texture: Loaf bread has a soft and tender flesh, and its taste can be sweet or neutral, depending on the recipe. It can have a delicate internal structure and a light crunchy crust.\r\n\r\n5. Usage: Russian loaf is often used at festive and festive events such as weddings, holidays, anniversaries and other family celebrations. It can be served as a dessert, as well as used as food to welcome guests.\r\n\r\nRussian Russian loaf is an exceptional and symbolically significant bread, which is an integral part of Russian culture and traditions."
+msgstr ""
+
 #. Key:	Salt
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
@@ -4101,6 +4367,13 @@ msgctxt "Inventory,Search"
 msgid "Search..."
 msgstr ""
 
+#. Key:	Soccerball
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Soccerball"
+msgid "Soccer ball"
+msgstr ""
+
 #. Key:	Sort
 #. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
 #: /Game/Objects/Texts/Inventory.Inventory
@@ -4134,6 +4407,20 @@ msgstr ""
 #: /Game/Objects/Texts/Inventory.Inventory
 msgctxt "Inventory,StonesText"
 msgid "Stone, natural stone - a hard non-metallic rock, or a piece of it."
+msgstr ""
+
+#. Key:	Strawberry
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,Strawberry"
+msgid "Strawberry"
+msgstr ""
+
+#. Key:	StrawberryText
+#. SourceLocation:	/Game/Objects/Texts/Inventory.Inventory
+#: /Game/Objects/Texts/Inventory.Inventory
+msgctxt "Inventory,StrawberryText"
+msgid "Strawberries are a juicy and sweet berry fruit of a plant in the rose family. Here are the main characteristics of strawberries:\r\n\r\n1. Appearance: Strawberries have a bright red or pink color, although there are white, yellow and even black strawberries. It has small seeds located on the surface of the berry, and many small \"dimples\" on the surface.\r\n\r\n2. Taste: Strawberries have a sweet and aromatic taste, which may vary depending on the variety and degree of ripeness. It can be juicy and refreshing, with or without a slight sourness. Strawberry slices are often considered one of the most delicious berries.\r\n\r\n3. Nutritional value: Strawberries contain low amounts of calories and fats, but are rich in vitamins (especially vitamins C and K), minerals (like potassium and manganese) and antioxidants. It is also a source of fiber, which contributes to the normalization of the digestive system.\r\n\r\n4. Consumption and usage: Strawberries can be eaten fresh, added to salads, desserts, smoothies and pastries. It is used in the preparation of jams, jams, ice cream and other confectionery products. Strawberries can also be frozen or dried to preserve their flavor and nutrients for longer.\r\n\r\n5. Seasonality: Strawberries usually ripen in spring and summer, although varieties of repair strawberries can bear fruit throughout the season. This makes strawberries a popular seasonal delicacy, which pleases with its appearance only for a limited time of the year.\r\n\r\nTo sum up, strawberries are a berry fruit with a bright appearance, sweet taste and high nutritional value. It is a popular ingredient in cooking and a wonderful treat for all berry lovers."
 msgstr ""
 
 #. Key:	TakeJar
@@ -5410,6 +5697,321 @@ msgctxt "Menu,Warning"
 msgid "Warning"
 msgstr ""
 
+#. Key:	10Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,10Name"
+msgid "Supply Man. Part 10"
+msgstr ""
+
+#. Key:	10Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,10Text"
+msgid "Cool!\r\nAnd I've got one more task for you. This time, it's more difficult than the last one.\r\nCan you do it?"
+msgstr ""
+
+#. Key:	11Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,11Name"
+msgid "Helping athletes. Part 1"
+msgstr ""
+
+#. Key:	11Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,11Text"
+msgid "Greetings!\r\nOur athletes are preparing for the competition. But I forgot the egg white they need.\r\nCould you please help me?"
+msgstr ""
+
+#. Key:	12Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,12Name"
+msgid "Helping athletes. Part 2"
+msgstr ""
+
+#. Key:	12Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,12Text"
+msgid "I am very happy that the new chairman cares about our athletes!\r\nI heard that you have your own farm where you raise chickens.\r\nCould you bring us some fresh chicken meat? Since the last chairman didn't supply us with enough."
+msgstr ""
+
+#. Key:	13Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,13Name"
+msgid "Lucky ball"
+msgstr ""
+
+#. Key:	13Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,13Text"
+msgid "Our striker Yashin lost his lucky ball.\r\nI've looked everywhere for it, but I can't find it.\r\nCan you help us?"
+msgstr ""
+
+#. Key:	14Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,14Name"
+msgid "Helping the photographer. Part 1"
+msgstr ""
+
+#. Key:	14Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,14Text"
+msgid "Hello, young man!\r\nI'm a little sick and I could use your help, because our hospital is overcrowded and the only doctor in the whole neighborhood is busy with them.\r\nCan you get me some honey, raspberries and some water?"
+msgstr ""
+
+#. Key:	15Completed
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,15Completed"
+msgid "Thank you, new chairman :-)"
+msgstr ""
+
+#. Key:	15Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,15Name"
+msgid "Helping the photographer. Part 2"
+msgstr ""
+
+#. Key:	15Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,15Text"
+msgid "Thank you.\r\nI feel better already. But I could still use a vitamin boost, namely fresh strawberries.\r\nCan you help me?"
+msgstr ""
+
+#. Key:	16Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,16Name"
+msgid "Worker"
+msgstr ""
+
+#. Key:	16Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,16Text"
+msgid "Hello, dear traveler!\r\nMy crop is dead. I was growing vegetables for the orphanage. And now I don't know what to do.....\r\nWill you help me?"
+msgstr ""
+
+#. Key:	17Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,17Name"
+msgid "Apple salvation"
+msgstr ""
+
+#. Key:	17Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,17Text"
+msgid "Hello!\r\nWe're having an apple salvation party. But I don't know anyone who has so many apples.\r\nCould you help me with this difficult task?"
+msgstr ""
+
+#. Key:	18Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,18Name"
+msgid "Radio factory"
+msgstr ""
+
+#. Key:	18Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,18Text"
+msgid "I just got a job and I've been charged with a shortage. I don't know what to do. It's probably just some kind of malicious intent.\r\nCan you help me?"
+msgstr ""
+
+#. Key:	19Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,19Name"
+msgid "Civil servant"
+msgstr ""
+
+#. Key:	19Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,19Text"
+msgid "Hello, dear friend.\r\nI'm in the neighborhood beautification business. \r\nCould you help us improve the neighborhood and make some benches?"
+msgstr ""
+
+#. Key:	1Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,1Name"
+msgid "Supply Man. Part 1"
+msgstr ""
+
+#. Key:	1Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,1Text"
+msgid "Hello, stranger!\r\nI need a man to supply the region with fruits and vegetables.\r\nIf you want to offer your candidacy, bring me apples and strawberries and I will consider it."
+msgstr ""
+
+#. Key:	20Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,20Name"
+msgid "Roadman"
+msgstr ""
+
+#. Key:	20Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,20Text"
+msgid "I couldn't find any decent contractors to repair our road.\r\nCan you help me with that?"
+msgstr ""
+
+#. Key:	21Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,21Name"
+msgid "Master Luke"
+msgstr ""
+
+#. Key:	21Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,21Text"
+msgid "We have another problem: someone stole some road manholes and may have scrapped them.\r\nCould you find them and bring them to me?"
+msgstr ""
+
+#. Key:	22Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,22Name"
+msgid "Metal rattling"
+msgstr ""
+
+#. Key:	22Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,22Text"
+msgid "We want to build new water towers so our people don't have to suffer from constant water shutoffs.\r\nBut we need scrap metal, which we will melt down and make water towers out of it.\r\nCan you help us with that?"
+msgstr ""
+
+#. Key:	2Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,2Name"
+msgid "Supply Man. Part 2"
+msgstr ""
+
+#. Key:	2Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,2Text"
+msgid "All right!\r\nI didn't think I'd find a supply man for our area anymore!\r\nI heard you bought that mansion. That means you're a big man in the village!\r\nNow you have a big responsibility, namely supplying our region.\r\n\r\nThe last chairman failed in his duties and bought everything as cheaply as possible and not of the best quality in other regions. And now we have you. I hope you will show your best side!"
+msgstr ""
+
+#. Key:	3Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,3Name"
+msgid "Supply Man. Part 3"
+msgstr ""
+
+#. Key:	3Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,3Text"
+msgid "That's great!\r\nNow we could use some quality flour to fill our pantry.\r\nCan you help us with that?"
+msgstr ""
+
+#. Key:	4Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,4Name"
+msgid "Supply Man. Part 4"
+msgstr ""
+
+#. Key:	4Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,4Text"
+msgid "I see you've managed such a simple job!\r\nNow let's do something harder!\r\n\r\nOur region is running out of potatoes. Can you help us?"
+msgstr ""
+
+#. Key:	5Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,5Name"
+msgid "Supply Man. Part 5"
+msgstr ""
+
+#. Key:	5Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,5Text"
+msgid "О! You did it, too!\r\nNow we need tomatoes and cucumbers.\r\nCan you handle this difficult task?"
+msgstr ""
+
+#. Key:	6Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,6Name"
+msgid "Supply Man. Part 6"
+msgstr ""
+
+#. Key:	6Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,6Text"
+msgid "You are doing a good job, but there is still a lot of work to be done.\r\nWe still haven't recovered from the last chairman. \r\nLet's push on!"
+msgstr ""
+
+#. Key:	7Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,7Name"
+msgid "Supply Man. Part 7"
+msgstr ""
+
+#. Key:	7Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,7Text"
+msgid "That's great!\r\nKeep up the good work!\r\nThis time we need eggplant and peppers."
+msgstr ""
+
+#. Key:	8Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,8Name"
+msgid "Supply Man. Part 8"
+msgstr ""
+
+#. Key:	8Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,8Text"
+msgid "Well done!\r\nI see you're doing well. Way to go, comrade!\r\nNow we need cabbage and corn."
+msgstr ""
+
+#. Key:	9Name
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,9Name"
+msgid "Supply Man. Part 9"
+msgstr ""
+
+#. Key:	9Text
+#. SourceLocation:	/Game/Objects/Texts/NEWQuests.NEWQuests
+#: /Game/Objects/Texts/NEWQuests.NEWQuests
+msgctxt "NEWQuests,9Text"
+msgid "Thank you for your help.\r\nBut we need more garlic, onions and radishes.\r\nCan you handle that?"
+msgstr ""
+
 #. Key:	1
 #. SourceLocation:	/Game/Objects/Texts/NotesText.NotesText
 #: /Game/Objects/Texts/NotesText.NotesText
@@ -5765,6 +6367,20 @@ msgstr ""
 #: /Game/Objects/Texts/Texts.Texts
 msgctxt "Notice,Nextchannel"
 msgid "Next channel"
+msgstr ""
+
+#. Key:	NoChairman
+#. SourceLocation:	/Game/Objects/Texts/Notice.Notice
+#: /Game/Objects/Texts/Notice.Notice
+msgctxt "Notice,NoChairman"
+msgid "You haven't yet become village chairman..."
+msgstr ""
+
+#. Key:	NoMoney
+#. SourceLocation:	/Game/Objects/Texts/Notice.Notice
+#: /Game/Objects/Texts/Notice.Notice
+msgctxt "Notice,NoMoney"
+msgid "I'm short of money..."
 msgstr ""
 
 #. Key:	OffTV
@@ -7055,6 +7671,20 @@ msgctxt "RadialMenu,FishingPole"
 msgid "Fishing Pole"
 msgstr ""
 
+#. Key:	Appleseedlings
+#. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
+#: /Game/Objects/Texts/Seeds.Seeds
+msgctxt "Seeds,Appleseedlings"
+msgid "Apple seedlings"
+msgstr ""
+
+#. Key:	AppleseedlingsText
+#. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
+#: /Game/Objects/Texts/Seeds.Seeds
+msgctxt "Seeds,AppleseedlingsText"
+msgid "Apple seedlings are young plants that are grown from seeds or cuttings. They are small trees with a root system and branching structure. A description of apple tree seedlings may include the following characteristics:\r\n\r\n1. Size: Apple tree seedlings typically range in height from 40 cm to 120 cm, depending on age and growing conditions.\r\n\r\n2. Root system: They have an established root system consisting of a main root and lateral roots. A well-developed root system promotes healthy growth and development of the plant.\r\n\r\n3. Trunk and Branches: Apple seedlings have a straight trunk with branches that begin to grow taller as the plant ages. The branches may have small side shoots called shoots.\r\n\r\n4. Leaves: The leaves of apple trees are oval-shaped and have serrated edges. They are usually green, but can be different shades, depending on the variety.\r\n\r\n5. Flowers and fruit: Apple seedlings can bloom and bear fruit at about 3 to 5 years of age. Apple tree flowers are usually white or pink, gathered in clusters. Apple tree fruits can vary in size, shape, and color, depending on the variety.\r\n\r\nIn addition to these characteristics, apple tree seedlings can also have different varieties that are determined by their genetics and fruit characteristics. It is important to remember that apple tree seedlings require certain growing conditions and care to ensure their health and success in future growth and development."
+msgstr ""
+
 #. Key:	Beets
 #. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
 #: /Game/Objects/Texts/Seeds.Seeds
@@ -7228,6 +7858,20 @@ msgstr ""
 #: /Game/Objects/Texts/Seeds.Seeds
 msgctxt "Seeds,RadishText"
 msgid "Radish is a vegetable plant of the cabbage family. Radish seeds are the main method of reproduction. They are small, rounded and usually covered with a thin skin.\r\n\r\nWhen sowing radish seeds, the following features should be taken into account:\r\n\r\n1. Sowing: Radishes can be grown either in the open or in containers or pots. Radish seeds are sown directly into the soil to a depth of about 1 cm. Rows should be spaced about 10-15 cm apart.\r\n\r\n2. Watering: Radish is a moisture-loving plant, so it is important to maintain optimum soil moisture levels. Regular watering is usually required during periods of dryness or heat.\r\n\r\n3. Temperature: Radishes prefer cool climates. The optimum temperature for radish seed growth is around 10-20 °C. High temperatures can promote seed germination and adversely affect the quality of the crop.\r\n\r\n4. Harvesting: Radishes reach maturity about 20-30 days after sowing, depending on the variety and growing conditions. To harvest radishes, you need to gently pull them from the soil or dig them up carefully.\r\n\r\nRadish seeds are available in a variety of varieties, from white and red to black and pink. Each variety has its own features and characteristics, so the choice depends on the preferences and requirements of the grower. The description of a particular radish variety can be found on the seed packet."
+msgstr ""
+
+#. Key:	Strawberry
+#. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
+#: /Game/Objects/Texts/Seeds.Seeds
+msgctxt "Seeds,Strawberry"
+msgid "Strawberry seeds"
+msgstr ""
+
+#. Key:	StrawberryText
+#. SourceLocation:	/Game/Objects/Texts/Seeds.Seeds
+#: /Game/Objects/Texts/Seeds.Seeds
+msgctxt "Seeds,StrawberryText"
+msgid "Strawberry seeds are small seed grains that are used to propagate and grow new strawberry plants. They have different sizes and shapes, but are usually black in color.\r\n\r\nStrawberry seeds contain endosperm, which is a nutrient for the embryo of the plant and ensures fertilization and seed development.\r\n\r\nWhen strawberry seeds are sown in the soil, they begin to germinate and form the basis for future roots and stems of the plant. Depending on the growing conditions and the strawberry variety, the seeds can germinate and grow into new plants within a few weeks or months.\r\n\r\nStrawberry seeds can be purchased at gardening stores or from specialized suppliers. They are usually packed in small bags or jars that contain a certain amount of seeds.\r\n\r\nGrowing strawberries from seed requires certain conditions, including proper temperature, humidity, and lighting. In addition, to ensure the successful development of plants, it is necessary to take care of proper planting care, including regular watering, fertilizing and weed removal.\r\n\r\nAs a result, strawberry seeds allow you to get new plants and turn them into fruiting strawberry bushes that can yield juicy and fragrant berries."
 msgstr ""
 
 #. Key:	Sunflower
